@@ -1,0 +1,501 @@
+﻿ID_Transaccion,Monto_Transaccion,Ubicacion_Transaccion,Tiempo_Transaccion,Metodo_Pago,Pais_Transaccion,Tipo_Comercio,Fraude
+1,4362.769047,Online,22.57605499,Tarjeta de Crédito,Canadá,Alimentos,0
+2,264.1326871,Tienda A,10.37287165,Tarjeta de Débito,Reino Unido,Alimentos,0
+3,5498.876466,Tienda C,10.57067489,Transferencia Bancaria,USA,Ropa,0
+4,4356.047314,Tienda C,22.8755596,Tarjeta de Crédito,Reino Unido,Electrónica,0
+5,4206.576182,Online,11.92531194,Tarjeta de Débito,USA,Servicios,1
+6,3306.696536,Tienda A,3.029583557,Tarjeta de Crédito,México,Alimentos,0
+7,2050.463097,Online,22.59495568,Paypal,México,Electrónica,0
+8,6194.613309,Tienda B,12.03541899,Tarjeta de Débito,USA,Electrónica,0
+9,3000.048463,Tienda A,8.656951046,Paypal,México,Electrónica,0
+10,2671.938615,Tienda C,21.61675096,Paypal,Canadá,Alimentos,0
+11,6213.232659,Online,0.411378292,Paypal,México,Alimentos,0
+12,5293.775232,Tienda A,22.74299922,Tarjeta de Débito,Reino Unido,Ropa,0
+13,1350.126554,Online,2.100154676,Paypal,Canadá,Alimentos,0
+14,5138.213322,Tienda A,1.811993058,Tarjeta de Crédito,Reino Unido,Ropa,0
+15,1848.476457,Online,22.61422302,Paypal,USA,Ropa,0
+16,7854.424802,Tienda B,11.47118427,Paypal,México,Alimentos,0
+17,8540.48305,Tienda C,4.312937025,Paypal,México,Alimentos,0
+18,4944.89719,Online,23.57435195,Tarjeta de Débito,Canadá,Electrónica,0
+19,8466.382046,Tienda B,8.04518622,Transferencia Bancaria,Reino Unido,Ropa,0
+20,801.0565427,Online,22.5921443,Tarjeta de Débito,USA,Alimentos,0
+21,5054.934671,Tienda B,11.02778872,Tarjeta de Crédito,Reino Unido,Ropa,0
+22,657.5386113,Tienda B,8.830399536,Tarjeta de Débito,Reino Unido,Servicios,0
+23,4284.082664,Tienda B,13.76005822,Tarjeta de Crédito,USA,Ropa,0
+24,969.826502,Tienda A,21.85252539,Tarjeta de Crédito,Reino Unido,Electrónica,0
+25,1275.963917,Tienda C,23.5220684,Transferencia Bancaria,Canadá,Alimentos,0
+26,5969.469363,Tienda B,16.69744674,Tarjeta de Débito,USA,Servicios,0
+27,2263.989946,Tienda A,8.839338339,Tarjeta de Crédito,Reino Unido,Electrónica,0
+28,1073.922115,Tienda C,20.72626034,Paypal,Canadá,Alimentos,0
+29,2206.96054,Tienda A,22.18366647,Paypal,México,Electrónica,0
+30,3501.513719,Tienda C,13.0301498,Paypal,Canadá,Ropa,0
+31,4680.535908,Online,17.07721932,Transferencia Bancaria,Reino Unido,Alimentos,0
+32,2021.423547,Tienda C,20.91597367,Tarjeta de Crédito,USA,Alimentos,0
+33,6405.865219,Tienda C,16.42755192,Tarjeta de Débito,Canadá,Alimentos,0
+34,4833.283006,Tienda A,15.61037592,Paypal,México,Alimentos,0
+35,5054.841017,Tienda C,9.137212119,Transferencia Bancaria,Canadá,Ropa,0
+36,3871.992048,Tienda C,14.40982919,Paypal,USA,Electrónica,0
+37,7937.406357,Tienda A,5.836374466,Paypal,México,Ropa,0
+38,5802.141768,Tienda A,2.877135529,Transferencia Bancaria,Reino Unido,Electrónica,0
+39,1627.174492,Tienda C,6.204778675,Paypal,Reino Unido,Ropa,0
+40,7009.019704,Tienda A,10.7096934,Tarjeta de Débito,México,Ropa,0
+41,9645.688045,Tienda B,8.269536037,Tarjeta de Débito,Canadá,Servicios,0
+42,5002.58357,Tienda B,16.84745618,Tarjeta de Débito,México,Alimentos,0
+43,8895.753039,Tienda A,9.180667196,Transferencia Bancaria,México,Servicios,0
+44,3419.428458,Tienda B,12.11667852,Tarjeta de Crédito,Reino Unido,Servicios,0
+45,5673.605556,Tienda B,6.980538697,Transferencia Bancaria,México,Ropa,0
+46,4278.321903,Online,2.136628609,Tarjeta de Crédito,México,Alimentos,0
+47,4370.288894,Tienda A,17.20308964,Transferencia Bancaria,Reino Unido,Servicios,0
+48,7766.709054,Tienda A,5.378650275,Tarjeta de Crédito,Reino Unido,Ropa,0
+49,5358.363714,Online,11.17059395,Paypal,Canadá,Alimentos,1
+50,9537.653558,Online,14.25494554,Transferencia Bancaria,USA,Ropa,0
+51,5444.360561,Tienda A,16.14293741,Tarjeta de Crédito,Canadá,Ropa,0
+52,825.5387481,Tienda B,9.953834021,Paypal,Reino Unido,Alimentos,0
+53,3666.592305,Online,6.698401887,Transferencia Bancaria,México,Alimentos,0
+54,8509.250788,Tienda C,21.42667679,Tarjeta de Crédito,Reino Unido,Electrónica,0
+55,4065.719055,Tienda B,15.46258355,Paypal,Canadá,Servicios,0
+56,276.8876471,Tienda C,5.952675178,Paypal,México,Ropa,0
+57,2475.536504,Online,18.43424961,Tarjeta de Débito,México,Alimentos,1
+58,676.1079855,Tienda C,12.8834166,Tarjeta de Crédito,México,Alimentos,0
+59,9938.550854,Tienda B,10.07445504,Tarjeta de Débito,Canadá,Electrónica,0
+60,9705.950232,Online,2.337381582,Tarjeta de Crédito,USA,Ropa,0
+61,8003.58222,Tienda A,5.331875453,Transferencia Bancaria,México,Electrónica,1
+62,6020.162128,Tienda A,2.530186999,Transferencia Bancaria,USA,Alimentos,0
+63,7650.773805,Tienda C,16.73350548,Tarjeta de Débito,Reino Unido,Alimentos,0
+64,1696.408339,Tienda C,17.9431401,Transferencia Bancaria,Reino Unido,Servicios,0
+65,2933.767202,Online,10.4579219,Tarjeta de Crédito,USA,Servicios,0
+66,5243.048419,Tienda C,1.303067743,Transferencia Bancaria,USA,Servicios,0
+67,3569.45969,Tienda B,4.078476831,Paypal,Reino Unido,Ropa,0
+68,461.5612576,Tienda C,22.677739,Tarjeta de Crédito,USA,Ropa,0
+69,9831.618686,Tienda C,21.40597387,Transferencia Bancaria,USA,Ropa,0
+70,4416.342419,Online,9.558242462,Tarjeta de Débito,Canadá,Servicios,0
+71,5042.484392,Tienda A,3.394456898,Tarjeta de Débito,Canadá,Electrónica,0
+72,3238.795469,Tienda B,10.6433409,Tarjeta de Crédito,Canadá,Electrónica,0
+73,2601.148804,Online,10.4045515,Transferencia Bancaria,Canadá,Servicios,0
+74,3871.964404,Tienda A,0.468929836,Tarjeta de Débito,Reino Unido,Electrónica,0
+75,8321.008912,Tienda C,17.25579898,Transferencia Bancaria,USA,Servicios,0
+76,7368.786828,Tienda C,15.77851137,Paypal,Reino Unido,Alimentos,0
+77,3795.209617,Tienda C,14.07802765,Tarjeta de Débito,Canadá,Electrónica,0
+78,135.1082803,Online,19.36662463,Tarjeta de Débito,México,Ropa,0
+79,7975.062366,Tienda A,19.69962358,Tarjeta de Débito,USA,Electrónica,0
+80,2697.541032,Tienda A,5.139525656,Paypal,Canadá,Ropa,0
+81,5828.935461,Tienda A,1.686184164,Tarjeta de Débito,Reino Unido,Alimentos,0
+82,260.3816638,Tienda A,8.850620202,Tarjeta de Crédito,Canadá,Servicios,0
+83,6623.709183,Tienda A,21.15107262,Paypal,USA,Servicios,0
+84,3878.296642,Online,18.61250956,Tarjeta de Débito,México,Ropa,0
+85,4973.252618,Tienda C,6.128863258,Tarjeta de Débito,Reino Unido,Ropa,0
+86,4151.983845,Online,17.60284735,Tarjeta de Crédito,Reino Unido,Electrónica,0
+87,3511.964654,Online,13.59992333,Transferencia Bancaria,Canadá,Electrónica,0
+88,5512.024164,Tienda A,6.635871074,Transferencia Bancaria,Reino Unido,Electrónica,0
+89,9729.242345,Tienda C,17.29553576,Tarjeta de Débito,Canadá,Alimentos,0
+90,1132.198271,Tienda A,6.805119928,Transferencia Bancaria,México,Alimentos,0
+91,3136.018992,Tienda C,8.19767168,Paypal,México,Servicios,1
+92,422.7681096,Online,4.858186644,Tarjeta de Crédito,USA,Alimentos,0
+93,7385.305587,Tienda B,13.38866421,Paypal,México,Electrónica,0
+94,6576.836315,Tienda B,10.76024737,Tarjeta de Crédito,México,Servicios,0
+95,2150.284285,Tienda B,15.17546208,Tarjeta de Crédito,México,Electrónica,0
+96,4170.450635,Tienda C,0.252292495,Transferencia Bancaria,USA,Servicios,0
+97,6440.200132,Tienda A,9.737622396,Transferencia Bancaria,USA,Ropa,0
+98,6616.505861,Tienda C,0.901234135,Paypal,USA,Electrónica,1
+99,1708.918949,Tienda A,7.321272671,Tarjeta de Crédito,Reino Unido,Servicios,0
+100,8817.114096,Tienda A,2.070394527,Tarjeta de Crédito,USA,Alimentos,0
+101,7781.191557,Online,13.09294752,Tarjeta de Crédito,México,Alimentos,0
+102,1343.872311,Tienda B,22.09071745,Transferencia Bancaria,México,Alimentos,0
+103,8689.821681,Tienda C,20.50451245,Tarjeta de Débito,Canadá,Electrónica,0
+104,7489.034893,Tienda B,11.79015186,Tarjeta de Crédito,Reino Unido,Electrónica,0
+105,7986.863613,Online,8.260441598,Tarjeta de Crédito,México,Alimentos,0
+106,5435.73558,Tienda B,0.053016959,Tarjeta de Débito,Reino Unido,Servicios,0
+107,2212.274961,Tienda B,15.47064835,Tarjeta de Débito,USA,Ropa,0
+108,9184.994173,Tienda B,7.728664125,Paypal,Canadá,Alimentos,0
+109,5922.885354,Tienda B,9.384047094,Tarjeta de Débito,Reino Unido,Alimentos,0
+110,3465.647905,Tienda A,14.93244591,Tarjeta de Crédito,Canadá,Servicios,1
+111,2641.4664,Tienda C,4.42810235,Paypal,USA,Ropa,0
+112,9139.585194,Tienda A,13.46716073,Transferencia Bancaria,México,Alimentos,0
+113,4200.255936,Tienda A,10.79373466,Tarjeta de Débito,Reino Unido,Alimentos,0
+114,5404.214199,Tienda B,9.03712164,Tarjeta de Débito,USA,Electrónica,0
+115,6086.379367,Tienda B,20.10657153,Tarjeta de Crédito,Canadá,Alimentos,0
+116,8263.367035,Tienda C,17.54628916,Tarjeta de Débito,USA,Electrónica,0
+117,6237.51403,Online,3.7953479,Paypal,Reino Unido,Ropa,0
+118,1771.238055,Tienda C,21.87907402,Tarjeta de Débito,Canadá,Alimentos,0
+119,5914.61724,Tienda B,0.046174619,Transferencia Bancaria,México,Electrónica,0
+120,4895.215339,Tienda C,5.836379435,Tarjeta de Débito,México,Servicios,0
+121,5481.338262,Tienda B,3.289696645,Paypal,USA,Ropa,0
+122,6996.708595,Online,8.192954193,Tarjeta de Débito,México,Alimentos,0
+123,2461.882583,Online,3.551739649,Transferencia Bancaria,México,Electrónica,0
+124,1870.33832,Tienda B,6.7481631,Tarjeta de Crédito,México,Alimentos,0
+125,1110.278562,Online,9.610900945,Tarjeta de Débito,México,Servicios,0
+126,2744.222229,Tienda A,11.36126296,Tarjeta de Débito,USA,Servicios,0
+127,107.4491438,Tienda A,6.476371652,Tarjeta de Débito,Reino Unido,Ropa,0
+128,6295.45043,Tienda A,1.631475865,Transferencia Bancaria,USA,Alimentos,0
+129,2955.247191,Tienda A,12.97341512,Transferencia Bancaria,Reino Unido,Servicios,0
+130,1876.929014,Tienda A,15.20123126,Paypal,USA,Ropa,0
+131,957.4040823,Tienda C,15.7427344,Paypal,Reino Unido,Alimentos,0
+132,2841.139296,Tienda B,0.688290057,Tarjeta de Crédito,México,Ropa,1
+133,2153.169219,Tienda A,2.540703622,Paypal,Reino Unido,Electrónica,0
+134,2859.60932,Tienda A,16.03832411,Tarjeta de Débito,USA,Alimentos,0
+135,4716.741525,Tienda A,2.46168096,Paypal,USA,Electrónica,0
+136,5497.220727,Online,1.598175871,Transferencia Bancaria,Reino Unido,Electrónica,0
+137,8451.90559,Tienda A,10.84048071,Transferencia Bancaria,USA,Servicios,0
+138,9885.154459,Tienda B,8.753795382,Tarjeta de Crédito,Reino Unido,Alimentos,0
+139,493.4365219,Tienda A,16.16022999,Paypal,México,Ropa,0
+140,2325.021923,Tienda A,0.967472172,Transferencia Bancaria,USA,Alimentos,0
+141,6434.897715,Tienda B,5.407482729,Transferencia Bancaria,Canadá,Electrónica,0
+142,1618.858296,Tienda C,6.844447692,Tarjeta de Débito,México,Ropa,0
+143,8702.108204,Tienda B,7.806434695,Paypal,Reino Unido,Alimentos,0
+144,2177.937251,Online,0.190414496,Transferencia Bancaria,México,Electrónica,0
+145,7418.841614,Online,13.2211887,Paypal,USA,Ropa,0
+146,6531.94003,Tienda B,0.312046986,Tarjeta de Débito,Reino Unido,Electrónica,0
+147,7989.860687,Tienda C,7.213522525,Transferencia Bancaria,USA,Ropa,0
+148,317.3193848,Online,21.83582631,Paypal,México,Ropa,0
+149,2299.592417,Tienda B,3.796685763,Paypal,Reino Unido,Electrónica,0
+150,7047.751854,Online,15.3206865,Transferencia Bancaria,Reino Unido,Servicios,0
+151,880.1872775,Tienda B,10.95695792,Tarjeta de Débito,Canadá,Electrónica,0
+152,310.7418845,Tienda A,22.19846541,Transferencia Bancaria,Canadá,Ropa,0
+153,3574.563662,Online,10.57667098,Paypal,USA,Alimentos,0
+154,5899.871005,Tienda C,4.863612139,Paypal,Canadá,Electrónica,0
+155,526.9661602,Tienda B,23.8957689,Tarjeta de Crédito,Reino Unido,Ropa,0
+156,661.3083437,Tienda A,17.37464297,Tarjeta de Débito,México,Ropa,0
+157,439.7943547,Tienda C,3.112083553,Paypal,Canadá,Servicios,0
+158,3954.531831,Online,12.67695678,Tarjeta de Crédito,México,Electrónica,0
+159,6685.928325,Tienda B,7.350101112,Paypal,Reino Unido,Alimentos,1
+160,1984.280983,Online,21.16585952,Tarjeta de Débito,Canadá,Alimentos,0
+161,8763.283185,Tienda A,3.862907271,Paypal,USA,Servicios,0
+162,4326.729009,Tienda B,15.45344642,Tarjeta de Crédito,Canadá,Electrónica,0
+163,6198.31643,Online,22.98196037,Transferencia Bancaria,México,Electrónica,0
+164,2907.815296,Tienda B,21.81189055,Tarjeta de Débito,México,Servicios,0
+165,6154.469462,Tienda B,21.61179781,Paypal,USA,Servicios,0
+166,9536.831324,Tienda A,15.92613268,Tarjeta de Débito,Reino Unido,Servicios,0
+167,4482.907092,Online,7.273109474,Transferencia Bancaria,Reino Unido,Servicios,0
+168,2074.463133,Tienda C,1.797676537,Tarjeta de Crédito,Canadá,Alimentos,0
+169,4256.546083,Tienda A,4.124552207,Tarjeta de Débito,Reino Unido,Ropa,0
+170,4448.519776,Tienda A,21.44624383,Paypal,USA,Servicios,0
+171,5078.636779,Tienda C,16.98982529,Tarjeta de Débito,Canadá,Electrónica,0
+172,5259.703832,Tienda C,2.504613389,Paypal,Reino Unido,Servicios,0
+173,429.0797729,Tienda C,23.32880347,Transferencia Bancaria,Reino Unido,Ropa,0
+174,1648.368766,Tienda C,12.2374192,Transferencia Bancaria,México,Alimentos,0
+175,4505.02066,Tienda B,4.123319881,Tarjeta de Crédito,México,Servicios,0
+176,7081.17185,Tienda A,11.51050162,Transferencia Bancaria,México,Electrónica,0
+177,7776.991144,Tienda C,9.580373215,Transferencia Bancaria,Canadá,Electrónica,0
+178,7772.14448,Tienda B,5.133119027,Tarjeta de Débito,Canadá,Alimentos,0
+179,5030.273631,Tienda C,15.19048755,Paypal,México,Ropa,0
+180,9567.692195,Tienda C,12.62625281,Paypal,Reino Unido,Alimentos,0
+181,3322.077757,Tienda B,6.578819717,Transferencia Bancaria,USA,Ropa,0
+182,4817.174333,Tienda B,19.2665342,Tarjeta de Débito,USA,Servicios,0
+183,7484.998123,Tienda A,12.93141716,Transferencia Bancaria,Reino Unido,Alimentos,0
+184,8579.105987,Tienda A,8.14645303,Paypal,Canadá,Servicios,0
+185,4147.528251,Tienda C,3.78751888,Tarjeta de Débito,Reino Unido,Alimentos,0
+186,8487.60172,Online,11.98697839,Paypal,Canadá,Electrónica,0
+187,4448.486563,Tienda A,3.695121369,Tarjeta de Crédito,Canadá,Alimentos,0
+188,7158.892107,Tienda A,21.97380314,Transferencia Bancaria,USA,Electrónica,1
+189,89.44139397,Tienda A,11.87810906,Tarjeta de Débito,USA,Servicios,0
+190,256.8882296,Online,21.90553945,Tarjeta de Débito,Reino Unido,Alimentos,0
+191,9404.802683,Online,7.677022511,Paypal,USA,Ropa,0
+192,1025.868793,Online,11.04611968,Tarjeta de Crédito,Canadá,Alimentos,0
+193,6621.368065,Tienda B,12.51277279,Tarjeta de Crédito,Reino Unido,Ropa,0
+194,2836.171144,Tienda C,21.56025515,Tarjeta de Crédito,Canadá,Alimentos,0
+195,2012.419226,Tienda A,3.046762952,Tarjeta de Débito,Canadá,Electrónica,0
+196,3886.40015,Online,9.566988381,Transferencia Bancaria,USA,Alimentos,0
+197,9259.386457,Tienda A,2.02488283,Paypal,Reino Unido,Electrónica,0
+198,5704.890726,Tienda C,21.9440919,Tarjeta de Crédito,México,Electrónica,1
+199,9167.562547,Tienda A,19.59734092,Tarjeta de Débito,Canadá,Servicios,0
+200,7024.131087,Tienda C,9.61350933,Tarjeta de Débito,Reino Unido,Electrónica,0
+201,5014.658435,Tienda A,16.05215365,Tarjeta de Crédito,Canadá,Ropa,0
+202,5063.337901,Online,13.03292978,Paypal,USA,Electrónica,0
+203,2192.113759,Tienda C,14.68282404,Tarjeta de Crédito,USA,Alimentos,0
+204,51.61190974,Tienda A,20.45240103,Tarjeta de Débito,México,Ropa,0
+205,4181.273259,Online,23.6754869,Tarjeta de Débito,México,Ropa,0
+206,5635.944223,Tienda A,1.941354923,Transferencia Bancaria,México,Electrónica,0
+207,8766.235875,Tienda C,13.62935901,Transferencia Bancaria,Canadá,Electrónica,0
+208,6777.460478,Online,21.67811932,Tarjeta de Crédito,USA,Servicios,0
+209,8424.118796,Tienda B,9.516491074,Transferencia Bancaria,México,Alimentos,0
+210,9261.982063,Tienda A,6.111036246,Paypal,USA,Alimentos,0
+211,9411.453157,Tienda C,3.148360719,Tarjeta de Crédito,Reino Unido,Alimentos,0
+212,8161.111423,Online,15.00529133,Paypal,Canadá,Servicios,0
+213,1318.289082,Online,5.064497027,Transferencia Bancaria,México,Ropa,0
+214,3469.567,Tienda A,9.080080243,Tarjeta de Crédito,USA,Ropa,0
+215,2088.982433,Tienda B,9.629970714,Paypal,Canadá,Electrónica,0
+216,8674.478464,Tienda B,14.98673593,Transferencia Bancaria,Canadá,Alimentos,0
+217,7924.340542,Tienda B,22.92636301,Tarjeta de Débito,USA,Ropa,0
+218,3493.271399,Tienda C,23.72573668,Tarjeta de Crédito,USA,Electrónica,0
+219,5693.559618,Tienda C,7.174418807,Tarjeta de Crédito,Canadá,Alimentos,0
+220,8052.289745,Tienda B,6.348374307,Tarjeta de Débito,Canadá,Electrónica,0
+221,8332.446641,Tienda B,17.2861908,Tarjeta de Débito,Canadá,Alimentos,0
+222,2061.907801,Online,16.55038783,Tarjeta de Débito,USA,Alimentos,0
+223,7308.148604,Tienda A,6.512542536,Paypal,USA,Ropa,0
+224,8035.124571,Tienda C,22.70345147,Tarjeta de Débito,Canadá,Servicios,0
+225,436.0747184,Tienda B,19.23300455,Tarjeta de Crédito,USA,Ropa,0
+226,1076.338105,Online,4.767025543,Transferencia Bancaria,México,Electrónica,1
+227,4353.66108,Tienda C,11.91722102,Tarjeta de Débito,USA,Servicios,0
+228,2212.707812,Tienda B,2.215093634,Tarjeta de Crédito,Canadá,Alimentos,0
+229,8806.817551,Online,12.59880907,Tarjeta de Débito,Canadá,Ropa,0
+230,7198.27694,Tienda B,13.66587464,Transferencia Bancaria,USA,Alimentos,0
+231,7131.507899,Tienda B,4.352052452,Tarjeta de Crédito,Canadá,Ropa,0
+232,7699.747272,Tienda B,1.789869818,Tarjeta de Crédito,USA,Electrónica,0
+233,3310.816527,Tienda C,4.32191819,Tarjeta de Débito,USA,Electrónica,0
+234,2289.959467,Tienda B,11.70731799,Tarjeta de Débito,México,Alimentos,1
+235,6265.307872,Online,1.342402577,Transferencia Bancaria,Reino Unido,Alimentos,0
+236,4147.720099,Online,4.176871915,Tarjeta de Débito,Canadá,Alimentos,0
+237,9368.126817,Tienda C,4.658639064,Tarjeta de Débito,Reino Unido,Electrónica,0
+238,6426.311927,Tienda C,10.2984924,Tarjeta de Crédito,Canadá,Ropa,0
+239,3872.068928,Tienda C,12.86917301,Tarjeta de Débito,México,Alimentos,0
+240,8551.92101,Tienda B,8.820389001,Transferencia Bancaria,Reino Unido,Ropa,0
+241,3811.021874,Tienda B,15.48945386,Tarjeta de Débito,USA,Alimentos,0
+242,1787.206729,Online,22.36921441,Paypal,Reino Unido,Alimentos,0
+243,7817.68596,Tienda C,5.590144909,Tarjeta de Crédito,México,Servicios,0
+244,4724.724831,Online,23.76048678,Tarjeta de Crédito,México,Ropa,0
+245,2598.506642,Tienda B,8.008122472,Tarjeta de Débito,Canadá,Alimentos,0
+246,6925.530463,Online,14.36411212,Paypal,Reino Unido,Servicios,0
+247,9804.948365,Tienda B,8.614083208,Paypal,Reino Unido,Alimentos,0
+248,2466.304622,Online,16.32939561,Tarjeta de Crédito,Canadá,Servicios,0
+249,7903.486807,Tienda A,20.47679549,Transferencia Bancaria,USA,Ropa,0
+250,7624.540766,Tienda A,19.02822067,Paypal,Canadá,Ropa,0
+251,1204.797723,Tienda C,14.92422226,Tarjeta de Débito,México,Ropa,0
+252,8389.831433,Online,13.5738964,Tarjeta de Crédito,USA,Alimentos,0
+253,4620.080353,Tienda C,3.66410309,Transferencia Bancaria,Canadá,Electrónica,1
+254,1262.184919,Tienda A,19.52248438,Tarjeta de Débito,México,Electrónica,0
+255,5365.753014,Tienda C,23.60308752,Tarjeta de Crédito,México,Electrónica,0
+256,2968.644944,Tienda B,15.20580361,Tarjeta de Crédito,Canadá,Ropa,0
+257,1761.363312,Tienda A,13.9545007,Tarjeta de Crédito,USA,Servicios,0
+258,796.9855162,Tienda B,3.566191151,Tarjeta de Débito,Reino Unido,Alimentos,0
+259,1992.996423,Tienda C,6.640161992,Paypal,México,Electrónica,0
+260,4298.738247,Tienda B,8.652544802,Tarjeta de Débito,Canadá,Servicios,0
+261,6419.908577,Tienda C,4.60104093,Paypal,USA,Servicios,0
+262,878.354892,Tienda C,23.76944948,Tarjeta de Crédito,Canadá,Electrónica,0
+263,7158.727225,Tienda B,22.1584567,Tarjeta de Débito,México,Alimentos,0
+264,1021.939386,Tienda C,8.929808853,Tarjeta de Crédito,México,Alimentos,0
+265,1760.112714,Tienda C,3.483735132,Tarjeta de Crédito,México,Electrónica,0
+266,7134.649014,Online,9.493763795,Paypal,USA,Ropa,0
+267,8853.210426,Online,3.943307336,Transferencia Bancaria,USA,Ropa,0
+268,9831.467919,Tienda C,12.91725588,Transferencia Bancaria,Canadá,Electrónica,0
+269,6530.804972,Online,4.280502839,Transferencia Bancaria,México,Electrónica,0
+270,4779.974848,Tienda A,1.177064325,Paypal,México,Electrónica,0
+271,882.4366111,Online,14.7441413,Tarjeta de Crédito,USA,Electrónica,0
+272,5591.713193,Tienda B,9.144131643,Transferencia Bancaria,Reino Unido,Servicios,0
+273,1815.596543,Online,16.40339742,Tarjeta de Débito,USA,Electrónica,0
+274,5146.448594,Online,12.54007739,Transferencia Bancaria,USA,Ropa,0
+275,6091.256839,Tienda B,15.06314576,Transferencia Bancaria,USA,Alimentos,0
+276,8332.958839,Tienda C,7.643820286,Tarjeta de Crédito,USA,Alimentos,0
+277,3240.88707,Tienda A,13.97346442,Tarjeta de Crédito,México,Servicios,0
+278,9888.676623,Tienda B,11.86975181,Transferencia Bancaria,USA,Electrónica,0
+279,9949.527848,Online,14.2636082,Tarjeta de Crédito,Reino Unido,Servicios,0
+280,8262.37744,Tienda A,0.184408369,Tarjeta de Crédito,México,Electrónica,0
+281,6943.054692,Tienda C,23.15754988,Transferencia Bancaria,México,Alimentos,0
+282,7338.029632,Tienda B,5.642581052,Paypal,USA,Alimentos,0
+283,8753.311754,Tienda C,1.840454932,Tarjeta de Crédito,Reino Unido,Alimentos,0
+284,9515.343933,Online,7.075738831,Paypal,Reino Unido,Ropa,0
+285,8523.367951,Tienda B,16.63043153,Transferencia Bancaria,Canadá,Servicios,0
+286,6411.181705,Tienda C,22.38560333,Tarjeta de Crédito,México,Ropa,0
+287,739.6163552,Tienda C,20.25962259,Tarjeta de Crédito,Canadá,Alimentos,0
+288,6235.730219,Tienda C,7.840646994,Tarjeta de Débito,México,Ropa,0
+289,3535.372848,Tienda B,19.97210212,Paypal,México,Electrónica,0
+290,1651.962339,Tienda C,1.305500085,Paypal,USA,Servicios,0
+291,8932.196035,Tienda B,2.22793113,Transferencia Bancaria,México,Electrónica,0
+292,8249.78036,Tienda C,4.472340723,Tarjeta de Crédito,Reino Unido,Alimentos,0
+293,5268.751046,Online,18.90639229,Tarjeta de Crédito,México,Servicios,0
+294,4637.175315,Tienda A,17.38185158,Paypal,Canadá,Servicios,0
+295,4895.566375,Tienda C,3.147308145,Transferencia Bancaria,Canadá,Ropa,0
+296,2610.896597,Tienda A,16.99508736,Tarjeta de Crédito,México,Electrónica,0
+297,4029.366042,Tienda C,18.28267634,Paypal,USA,Ropa,0
+298,4369.515448,Online,4.580650855,Transferencia Bancaria,México,Ropa,0
+299,155.4860618,Tienda B,16.09673217,Tarjeta de Débito,México,Electrónica,0
+300,8929.594301,Tienda B,9.734413611,Tarjeta de Débito,México,Electrónica,0
+301,296.3474319,Tienda A,1.761791561,Tarjeta de Débito,Canadá,Electrónica,0
+302,3732.064376,Online,12.41890825,Transferencia Bancaria,USA,Electrónica,0
+303,963.2537804,Tienda B,11.82161282,Transferencia Bancaria,México,Servicios,0
+304,1973.658382,Tienda A,21.16580874,Tarjeta de Débito,México,Servicios,0
+305,9424.494021,Tienda C,13.44460138,Tarjeta de Débito,Canadá,Ropa,0
+306,3715.855361,Tienda A,20.16596957,Transferencia Bancaria,USA,Alimentos,0
+307,7291.363014,Tienda C,10.87815841,Tarjeta de Crédito,Canadá,Servicios,0
+308,1265.970286,Tienda A,17.1729498,Paypal,México,Servicios,0
+309,2516.572802,Tienda B,23.27673598,Transferencia Bancaria,México,Servicios,0
+310,8812.946795,Tienda C,0.506773,Tarjeta de Crédito,Reino Unido,Servicios,0
+311,9033.445024,Tienda A,10.83135567,Tarjeta de Débito,USA,Servicios,0
+312,2879.914406,Online,10.31650263,Transferencia Bancaria,México,Servicios,0
+313,9671.295749,Tienda B,18.7216798,Transferencia Bancaria,Reino Unido,Servicios,0
+314,6682.65286,Tienda A,0.444923972,Tarjeta de Débito,México,Alimentos,0
+315,5032.552701,Online,13.91646857,Tarjeta de Débito,Canadá,Servicios,0
+316,3783.134074,Tienda C,6.691783598,Paypal,México,Servicios,0
+317,3376.996101,Tienda C,11.43788454,Tarjeta de Crédito,Canadá,Alimentos,0
+318,9520.346997,Online,17.21410618,Tarjeta de Crédito,México,Servicios,0
+319,6934.871617,Online,15.11750498,Tarjeta de Débito,Canadá,Electrónica,0
+320,5343.346492,Tienda A,5.908713816,Transferencia Bancaria,México,Servicios,0
+321,439.6795309,Online,4.929744306,Paypal,México,Servicios,0
+322,2479.271002,Online,20.41575367,Tarjeta de Débito,México,Alimentos,0
+323,9431.991373,Tienda C,12.18085102,Paypal,Reino Unido,Ropa,0
+324,5570.817362,Online,23.50943889,Paypal,Reino Unido,Servicios,0
+325,3578.394732,Online,15.92449721,Transferencia Bancaria,Reino Unido,Servicios,0
+326,99.45648951,Tienda B,5.416118435,Transferencia Bancaria,USA,Servicios,0
+327,2539.214931,Tienda B,4.064668021,Transferencia Bancaria,Canadá,Ropa,0
+328,2545.995768,Tienda B,7.782298073,Tarjeta de Crédito,México,Electrónica,0
+329,1711.001833,Online,18.3284413,Paypal,Canadá,Servicios,0
+330,3453.074697,Tienda B,11.04620285,Tarjeta de Débito,México,Servicios,0
+331,2030.477268,Tienda A,13.63028841,Tarjeta de Crédito,México,Electrónica,0
+332,633.7008941,Tienda A,14.28493988,Transferencia Bancaria,Reino Unido,Alimentos,0
+333,984.1141569,Online,4.189529133,Tarjeta de Crédito,México,Electrónica,0
+334,4969.791386,Online,8.23606075,Transferencia Bancaria,Reino Unido,Alimentos,0
+335,701.2576012,Tienda A,7.068088384,Paypal,Reino Unido,Servicios,0
+336,9351.859866,Tienda C,22.47074065,Tarjeta de Débito,México,Servicios,0
+337,2064.945864,Online,0.181314631,Tarjeta de Crédito,Canadá,Alimentos,0
+338,4644.802438,Tienda A,22.94829113,Tarjeta de Débito,Canadá,Servicios,0
+339,4149.60923,Tienda A,3.388369208,Tarjeta de Crédito,USA,Ropa,0
+340,2916.920496,Online,13.05917592,Paypal,México,Alimentos,0
+341,3238.667506,Tienda C,6.30136503,Tarjeta de Débito,Canadá,Ropa,0
+342,2119.917846,Online,7.305999104,Tarjeta de Crédito,USA,Electrónica,0
+343,2806.281536,Tienda B,18.3039559,Paypal,Canadá,Alimentos,0
+344,1175.464832,Online,16.58533535,Tarjeta de Débito,México,Electrónica,0
+345,6894.072488,Tienda A,18.36950657,Tarjeta de Débito,USA,Ropa,0
+346,6447.039263,Tienda B,4.537122749,Transferencia Bancaria,Canadá,Alimentos,0
+347,3118.736386,Tienda C,4.866261315,Tarjeta de Débito,Canadá,Electrónica,0
+348,8803.588067,Tienda A,18.18513547,Tarjeta de Crédito,Reino Unido,Alimentos,0
+349,3866.825372,Tienda B,2.910847618,Transferencia Bancaria,Reino Unido,Alimentos,0
+350,6112.837557,Tienda B,21.77280707,Transferencia Bancaria,USA,Alimentos,0
+351,5234.077415,Tienda C,22.16946885,Transferencia Bancaria,Reino Unido,Electrónica,0
+352,3253.942752,Online,12.12346966,Paypal,USA,Ropa,0
+353,9298.255279,Online,16.87905969,Transferencia Bancaria,USA,Ropa,0
+354,8482.773083,Tienda C,8.027704116,Transferencia Bancaria,Reino Unido,Electrónica,0
+355,8412.023865,Online,15.28253425,Transferencia Bancaria,USA,Alimentos,0
+356,9543.114922,Tienda C,0.600499681,Transferencia Bancaria,Canadá,Alimentos,0
+357,29.81185055,Online,5.262739953,Paypal,México,Servicios,0
+358,4923.730407,Tienda B,10.88900317,Paypal,México,Servicios,0
+359,9379.441625,Tienda A,11.76524134,Tarjeta de Crédito,USA,Servicios,0
+360,1348.595464,Tienda C,23.65756898,Tarjeta de Débito,México,Servicios,0
+361,2453.716413,Tienda C,23.97363437,Transferencia Bancaria,Reino Unido,Alimentos,0
+362,5053.093896,Tienda C,2.954336307,Tarjeta de Débito,México,Ropa,0
+363,6785.822991,Tienda B,6.627724864,Tarjeta de Crédito,Reino Unido,Servicios,0
+364,3330.935776,Tienda A,1.982060035,Transferencia Bancaria,Canadá,Electrónica,0
+365,3067.114893,Tienda C,8.194006048,Paypal,Reino Unido,Electrónica,0
+366,7759.100123,Tienda A,22.77403198,Paypal,Reino Unido,Servicios,0
+367,333.3751126,Tienda A,13.67478258,Tarjeta de Crédito,Reino Unido,Electrónica,0
+368,7859.049636,Tienda B,0.958884508,Transferencia Bancaria,Canadá,Ropa,0
+369,4288.260113,Online,12.49514553,Tarjeta de Crédito,Canadá,Electrónica,0
+370,6291.949524,Online,22.39433542,Paypal,México,Electrónica,0
+371,7056.502734,Online,23.34705162,Paypal,Reino Unido,Ropa,0
+372,989.1939511,Tienda B,21.88460218,Tarjeta de Crédito,USA,Alimentos,0
+373,9038.942418,Online,18.22230614,Tarjeta de Crédito,Reino Unido,Servicios,0
+374,8224.013124,Tienda C,6.037534757,Transferencia Bancaria,Reino Unido,Ropa,0
+375,3756.937465,Tienda A,21.61333529,Tarjeta de Crédito,USA,Electrónica,0
+376,1951.969313,Online,7.132099054,Tarjeta de Débito,Reino Unido,Alimentos,0
+377,632.7403534,Tienda C,21.06309269,Paypal,Canadá,Alimentos,0
+378,3089.546217,Tienda B,0.993552126,Tarjeta de Débito,Reino Unido,Alimentos,0
+379,7133.353646,Online,1.353867703,Tarjeta de Crédito,Canadá,Ropa,0
+380,8132.751253,Online,19.27581568,Paypal,Canadá,Ropa,0
+381,3269.250071,Tienda B,2.561007069,Tarjeta de Débito,Reino Unido,Ropa,0
+382,2206.797417,Tienda B,10.54097262,Tarjeta de Débito,Canadá,Alimentos,0
+383,3277.304866,Tienda C,8.235732875,Tarjeta de Crédito,Canadá,Electrónica,0
+384,9643.846529,Tienda B,6.669780573,Tarjeta de Débito,USA,Servicios,0
+385,965.4265483,Tienda B,8.689230122,Paypal,USA,Alimentos,0
+386,1626.023559,Tienda A,11.65588315,Paypal,México,Alimentos,0
+387,6943.919994,Tienda B,20.07436037,Transferencia Bancaria,Reino Unido,Alimentos,0
+388,1401.936173,Tienda B,14.81240909,Paypal,México,Servicios,0
+389,2669.925797,Tienda C,21.77683839,Transferencia Bancaria,USA,Alimentos,0
+390,8032.742845,Tienda B,20.08102906,Transferencia Bancaria,USA,Electrónica,1
+391,3009.61478,Tienda B,3.507145964,Tarjeta de Crédito,USA,Electrónica,0
+392,5972.180406,Online,10.14634356,Transferencia Bancaria,USA,Alimentos,0
+393,5730.258816,Tienda C,12.79231497,Tarjeta de Débito,Reino Unido,Alimentos,1
+394,2658.107498,Tienda B,6.138186528,Paypal,USA,Alimentos,0
+395,2491.099217,Tienda A,13.59086962,Paypal,Reino Unido,Ropa,0
+396,2900.306529,Tienda A,23.38130074,Tarjeta de Crédito,Reino Unido,Alimentos,0
+397,8760.021024,Tienda B,5.4052901,Tarjeta de Débito,Canadá,Ropa,0
+398,192.487677,Tienda B,18.82950671,Paypal,Reino Unido,Servicios,0
+399,920.9059391,Tienda A,23.87877077,Paypal,México,Electrónica,0
+400,3415.393542,Online,6.097360755,Tarjeta de Crédito,Canadá,Electrónica,0
+401,2206.915043,Tienda C,20.54547585,Paypal,México,Servicios,0
+402,5630.759702,Tienda B,4.173649296,Paypal,Reino Unido,Servicios,0
+403,5396.91364,Tienda B,22.12818598,Transferencia Bancaria,México,Servicios,0
+404,4956.143218,Tienda A,7.301131807,Transferencia Bancaria,Reino Unido,Ropa,1
+405,3011.026935,Online,6.672247751,Tarjeta de Crédito,México,Ropa,0
+406,5116.93001,Tienda A,21.71363861,Paypal,Reino Unido,Electrónica,0
+407,7863.354025,Tienda C,6.988007768,Paypal,México,Servicios,1
+408,8125.993287,Tienda C,5.330291506,Transferencia Bancaria,México,Alimentos,0
+409,5330.744671,Tienda C,7.424054624,Transferencia Bancaria,USA,Ropa,0
+410,8064.320468,Tienda A,16.16315802,Tarjeta de Débito,Canadá,Servicios,0
+411,347.5834187,Tienda A,0.518842956,Tarjeta de Débito,USA,Servicios,0
+412,1544.890878,Tienda C,3.691593277,Transferencia Bancaria,Reino Unido,Electrónica,0
+413,7483.109352,Tienda C,2.662347389,Tarjeta de Crédito,México,Ropa,0
+414,3851.774623,Tienda C,12.55980409,Tarjeta de Débito,USA,Ropa,0
+415,3182.39541,Tienda A,1.230874805,Paypal,Canadá,Electrónica,0
+416,5722.228086,Tienda C,22.09557452,Paypal,Reino Unido,Servicios,0
+417,3727.343049,Tienda B,11.23948587,Transferencia Bancaria,Reino Unido,Ropa,0
+418,9095.75145,Online,14.76513788,Tarjeta de Débito,USA,Ropa,0
+419,3872.777394,Tienda B,4.816219274,Tarjeta de Crédito,México,Alimentos,0
+420,8363.310708,Tienda B,16.70050659,Tarjeta de Débito,Reino Unido,Servicios,0
+421,6019.628382,Tienda A,0.575497971,Tarjeta de Crédito,Reino Unido,Alimentos,0
+422,9120.627681,Online,1.884276844,Paypal,USA,Alimentos,0
+423,4843.115476,Tienda C,21.90302117,Paypal,Reino Unido,Electrónica,0
+424,9585.348096,Tienda A,5.161189871,Paypal,México,Servicios,0
+425,5769.213056,Tienda C,11.7677719,Tarjeta de Débito,USA,Electrónica,0
+426,282.3042584,Tienda B,12.55473301,Tarjeta de Crédito,México,Alimentos,0
+427,7390.014138,Tienda A,4.448853237,Tarjeta de Crédito,Canadá,Electrónica,0
+428,8614.700962,Tienda C,14.14793313,Transferencia Bancaria,USA,Ropa,0
+429,990.007344,Tienda C,6.270712479,Tarjeta de Débito,Canadá,Ropa,0
+430,9634.613193,Online,15.73739914,Tarjeta de Crédito,Reino Unido,Ropa,0
+431,5636.443231,Tienda B,6.173679274,Transferencia Bancaria,México,Electrónica,0
+432,7408.3156,Tienda A,10.38004871,Paypal,USA,Electrónica,0
+433,2243.893174,Tienda A,12.01823384,Transferencia Bancaria,Reino Unido,Servicios,1
+434,9412.119044,Tienda C,0.465265962,Tarjeta de Crédito,USA,Electrónica,0
+435,6435.067951,Tienda B,2.6076803,Paypal,USA,Ropa,0
+436,5435.469786,Tienda C,2.122607255,Paypal,México,Ropa,0
+437,9614.095021,Tienda A,10.80887694,Paypal,Reino Unido,Servicios,0
+438,5571.902483,Tienda C,12.90055717,Tarjeta de Débito,Reino Unido,Servicios,0
+439,5319.025577,Tienda A,23.44255845,Tarjeta de Débito,México,Ropa,0
+440,452.4457857,Tienda C,8.278688136,Tarjeta de Crédito,México,Ropa,0
+441,5466.157755,Tienda B,4.29252821,Tarjeta de Débito,México,Ropa,0
+442,7444.887089,Tienda B,23.21262751,Paypal,Canadá,Servicios,0
+443,3687.190284,Tienda B,12.85443338,Paypal,Canadá,Ropa,0
+444,6794.863506,Online,23.10375081,Tarjeta de Débito,México,Electrónica,0
+445,5643.25758,Online,8.44101894,Transferencia Bancaria,Canadá,Ropa,0
+446,2083.710289,Tienda B,1.787116138,Transferencia Bancaria,Canadá,Electrónica,0
+447,5470.405162,Tienda B,10.89621065,Transferencia Bancaria,México,Servicios,0
+448,4762.507465,Tienda B,23.49374821,Paypal,USA,Electrónica,0
+449,3380.507609,Tienda A,1.717007696,Tarjeta de Débito,Reino Unido,Electrónica,0
+450,6628.03883,Tienda A,11.41971435,Paypal,USA,Ropa,0
+451,616.2319171,Tienda C,20.37115142,Transferencia Bancaria,Canadá,Servicios,1
+452,3730.850399,Tienda A,5.063680794,Transferencia Bancaria,Reino Unido,Alimentos,0
+453,4343.922922,Tienda A,19.01183907,Transferencia Bancaria,Canadá,Electrónica,0
+454,9738.806876,Online,1.551615959,Paypal,Reino Unido,Alimentos,1
+455,6983.502549,Tienda C,7.553233908,Transferencia Bancaria,Reino Unido,Alimentos,0
+456,6259.757258,Online,4.096163518,Paypal,USA,Ropa,0
+457,1563.665402,Tienda B,23.38442424,Transferencia Bancaria,USA,Ropa,0
+458,4353.748802,Tienda A,14.56447655,Tarjeta de Crédito,Canadá,Electrónica,0
+459,3715.494813,Online,6.694081247,Tarjeta de Débito,USA,Electrónica,0
+460,9404.273514,Online,22.1395473,Tarjeta de Crédito,México,Ropa,0
+461,4530.912224,Tienda B,13.29294998,Tarjeta de Débito,Reino Unido,Ropa,0
+462,8551.724369,Online,8.545639902,Tarjeta de Crédito,Reino Unido,Ropa,1
+463,6537.850455,Tienda B,17.00926233,Tarjeta de Débito,USA,Servicios,0
+464,8793.473119,Tienda B,16.19974042,Paypal,USA,Alimentos,0
+465,38.33777077,Tienda C,23.09381996,Transferencia Bancaria,Reino Unido,Servicios,0
+466,9248.258422,Tienda B,1.469251893,Paypal,Canadá,Alimentos,0
+467,9513.181074,Tienda B,21.0539297,Tarjeta de Crédito,USA,Servicios,0
+468,1553.580489,Tienda A,15.64414322,Tarjeta de Crédito,Canadá,Ropa,0
+469,661.7782072,Tienda A,3.685075285,Paypal,Reino Unido,Electrónica,0
+470,3176.247158,Online,9.782499758,Paypal,Reino Unido,Electrónica,1
+471,5857.626722,Tienda B,1.364948755,Transferencia Bancaria,Canadá,Electrónica,0
+472,5243.692794,Tienda C,20.89225442,Tarjeta de Crédito,México,Alimentos,0
+473,4354.050574,Online,2.405222047,Tarjeta de Débito,Canadá,Electrónica,0
+474,9127.208139,Tienda C,5.262675992,Tarjeta de Débito,México,Servicios,0
+475,5701.916637,Online,17.00831416,Tarjeta de Crédito,México,Ropa,0
+476,9341.696803,Online,18.26305725,Tarjeta de Débito,México,Electrónica,0
+477,5763.662769,Tienda C,5.208802027,Paypal,Reino Unido,Electrónica,1
+478,1855.876041,Tienda C,3.72645052,Paypal,Reino Unido,Electrónica,0
+479,9820.876695,Online,0.604186238,Paypal,USA,Electrónica,0
+480,9985.040088,Tienda C,1.917258378,Paypal,USA,Alimentos,0
+481,4467.448743,Tienda A,21.17645893,Tarjeta de Crédito,Reino Unido,Electrónica,0
+482,7625.49343,Online,4.298928305,Transferencia Bancaria,Canadá,Ropa,0
+483,6367.451365,Online,9.685896396,Tarjeta de Débito,Canadá,Servicios,0
+484,1856.513529,Online,18.48085032,Transferencia Bancaria,Canadá,Electrónica,0
+485,5794.123591,Tienda A,23.59387491,Paypal,México,Ropa,0
+486,6544.148137,Tienda A,20.94028937,Tarjeta de Débito,Reino Unido,Alimentos,0
+487,5939.435,Tienda A,22.14672837,Tarjeta de Débito,México,Alimentos,0
+488,5417.059007,Tienda B,19.96785178,Tarjeta de Crédito,USA,Servicios,0
+489,5920.83129,Online,8.372512056,Tarjeta de Débito,México,Servicios,0
+490,7091.366767,Tienda B,15.29210811,Transferencia Bancaria,Reino Unido,Electrónica,0
+491,7710.924847,Online,16.97497947,Tarjeta de Crédito,México,Electrónica,0
+492,895.056712,Tienda A,9.90713327,Tarjeta de Crédito,México,Alimentos,0
+493,9135.387427,Tienda C,14.48077661,Tarjeta de Crédito,USA,Alimentos,0
+494,4499.001926,Tienda B,23.30077508,Transferencia Bancaria,Canadá,Ropa,0
+495,6967.728053,Online,7.838872053,Paypal,México,Electrónica,0
+496,3879.452296,Online,22.09260079,Paypal,Reino Unido,Electrónica,0
+497,515.3162018,Tienda B,23.69602184,Transferencia Bancaria,México,Alimentos,0
+498,6638.09437,Tienda B,14.08679291,Tarjeta de Débito,México,Ropa,0
+499,3659.777339,Tienda A,21.9611633,Paypal,USA,Servicios,0
+500,5530.035702,Tienda A,17.84800433,Tarjeta de Crédito,Reino Unido,Servicios,0

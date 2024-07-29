@@ -14,6 +14,10 @@ Los cuartiles y percentiles son medidas estadísticas que dividen los datos en p
 
 ## 📊 **Cuartiles y percentiles** 📈
 
+<div align="center">
+    <img src="../Imagenes/Cuartiles.png" alt="Cuartiles" width="30%">
+</div>
+
 ### **Cuartiles**
 
 Los cuartiles dividen un conjunto de datos en cuatro partes iguales, cada una representando un cuarto de los datos. Los cuartiles principales son:
@@ -21,7 +25,6 @@ Los cuartiles dividen un conjunto de datos en cuatro partes iguales, cada una re
 - **Primer cuartil (Q1)**: Representa el 25% inferior de los datos.
 - **Segundo cuartil (Q2)**: Representa la mediana o el 50% de los datos.
 - **Tercer cuartil (Q3)**: Representa el 75% inferior de los datos.
-
 
 
 Vamos a calcular los cuartiles de la tarifa (`Fare`) de los pasajeros en el Titanic.
@@ -44,6 +47,10 @@ print(f'Tercer cuartil (Q3) de la tarifa: ${Q3_fare:.2f}')
 ```
 
 ---
+
+<div align="center">
+    <img src="../Imagenes/Percentiles.png" alt="Cuartiles" width="30%">
+</div>
 
 ### **Percentiles**
 
