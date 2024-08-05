@@ -1,7 +1,7 @@
 🏠 [**Inicio**](../Readme.md) ➡️ / 📖 `Sesión 03`
 
 <div align="center">
-    <img src="Imagenes/S03_Bedu.png" alt="Sesion_02">
+    <img src="Imagenes/S03_Bedu.png" alt="Sesion_03">
 </div>
 
 ## 🎯 Objetivo
@@ -55,4 +55,4 @@ En el análisis de datos, comparar diferentes conjuntos es crucial para identifi
 ---
 
 
-⬅️ [**Anterior**](../Sesion-01/Readme.md) | [**Siguiente**](../Sesion-03/Readme.md)➡️
+⬅️ [**Anterior**](../Sesion-02/Readme.md) | [**Siguiente**](../Sesion-04/Readme.md)➡️

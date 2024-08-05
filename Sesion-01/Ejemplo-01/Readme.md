@@ -38,7 +38,7 @@ Que les parece si trabajamos con un dataset muy popular en el mundo de la progra
 
 Para realizar este análisis, primero necesitamos cargar el dataset a nuestra carpeta en google drive, para poder acceder desde nuestro entorno de trabajo en Google Colab.
 
-**1. Descarga el archivo [Ejemplo_01_Titanic_Dataset.csv](../../Datasets/Ejemplo_01_Titanic_Dataset.csv) y súbelo a tu Google Drive.**
+**1. Descarga el archivo [Ejemplo_01_Titanic_Dataset.csv](../../Datasets/S01/Ejemplo_01_Titanic_Dataset.csv) y súbelo a tu Google Drive.**
 
 ```python
 # Importar librerías
