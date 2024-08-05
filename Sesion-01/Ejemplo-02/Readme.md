@@ -41,7 +41,7 @@ Primero comenzaremos por calcular la varianza y la desviación estándar de la t
 import pandas as pd
 
 # Cargar el dataset
-df = pd.read_csv('../../Datasets/Titanic_Dataset.csv') # Modifica la ruta de acuerdo a tu entorno de trabajo
+df = pd.read_csv('/Datasets/Ejemplo_01_Titanic_Dataset.csv') # Modifica la ruta de acuerdo a tu entorno de trabajo
 
 # Mostrar las primeras filas del dataset
 df.head()

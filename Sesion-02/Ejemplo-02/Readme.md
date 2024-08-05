@@ -48,6 +48,8 @@ import matplotlib.pyplot as plt
 #### 📊 **Histograma datos numéricos**
 
 ```python
+# Continuaremos usando el dataset de laptops y la tabla de frecuencias generada en el Ejemplo 01.
+
 # 1.- Graficar el histograma de precios de laptops usando Matplotlib
 plt.figure(figsize=(10, 6))
 plt.hist(df['price'], bins=32, color='skyblue', edgecolor='black', alpha=0.7) # 32 intervalos puedes modificarlos para ver diferentes distribuciones.

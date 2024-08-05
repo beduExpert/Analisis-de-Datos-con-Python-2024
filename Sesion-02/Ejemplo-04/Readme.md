@@ -29,7 +29,7 @@ También conocido como gráfico de densidad de Kernel (Kernel Density Ploty) o g
 
 Para construir una gráfica de densidad, se deben considerar los siguientes pasos:
 
-1. **Cargar el dataset**: Vamos a trabajar con el archivo [Salary_Professions.csv](../../Datasets/Salary_Professions.csv), con el fin de realizar una ejemplo para variables numéricas continuas.
+1. **Cargar el dataset**: Vamos a trabajar con el archivo [Ejemplo_04_Salary_Professions.csv](../../Datasets/S02/Ejemplo_04_Salary_Professions.csv), con el fin de realizar una ejemplo para variables numéricas continuas.
 
 2. **Importar librerías**: Importar las librerías necesarias para el análisis de datos y la visualización de gráficos.
 

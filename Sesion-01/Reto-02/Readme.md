@@ -8,7 +8,7 @@
 
 ## 📝 Instrucciones
 
-1. 📂 **Carga el dataset**: Descarga el archivo [Salary_Professions.csv](../../Datasets/Salary_Professions.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
+1. 📂 **Carga el dataset**: Descarga el archivo [Salary_Professions.csv](../../Datasets/S01/Reto_02_Salary_Professions.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
 
 2. 📊 **Identificar valores atípicos**: Utiliza métodos estadísticos para identificar valores atípicos en la columna `salary`.
 

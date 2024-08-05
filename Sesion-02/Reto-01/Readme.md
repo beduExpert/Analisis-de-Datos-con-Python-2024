@@ -8,9 +8,11 @@
 
 ## 📋 Desarrollo
 
-**Caso 1: [Proyecto economía - Predicción de recesiones económicas](../../Datasets/Proyecto_Economia.csv)**
-**Caso 2: [Proyecto biotecnología - Análisis genómico para tratamientos personalizados](../../Datasets/Proyecto_Biotecnologia.csv)**
-**Caso 3: [Proyecto finanzas - Detección de fraudes en transacciones con tarjeta de crédito](../../Datasets/Proyecto_Finanzas.csv)**
+**Caso 1: [Proyecto economía - Predicción de recesiones económicas](../../Datasets/S02/Reto_01_Proyecto_Economia.csv)**
+**Caso 2: [Proyecto biotecnología - Análisis genómico para tratamientos personalizados](../../Datasets/S02/Reto_01_Proyecto_Biotecnologia.csv)**
+**Caso 3: [Proyecto finanzas - Detección de fraudes en transacciones con tarjeta de crédito](../../Datasets/S02/Reto_01_Proyecto_Finanzas.csv)**
+
+---
 
 ## 📝 Instrucciones
 

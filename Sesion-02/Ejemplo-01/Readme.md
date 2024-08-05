@@ -37,7 +37,7 @@ Para construir una tabla de frecuencias, se deben considerar dos aspectos import
 
 2. **Datos categóricos:** En el caso de datos categóricos, se agrupan en categorías y se realiza el conteo de frecuencias absolutas y relativas.
 
-📂 **Carga el dataset**: Vamos a trabajar con el archivo [Laptops_Dataset.csv](../../Datasets/Laptops_Dataset.csv), con el fin de realizar dos ejemplos en diferentes columnas generando los pasos necesarios, para datos numéricos y categóricos.
+📂 **Carga el dataset**: Vamos a trabajar con el archivo [Laptops_Dataset.csv](../../Datasets/S02/Ejemplo_01_Laptops_Dataset.csv), con el fin de realizar dos ejemplos en diferentes columnas generando los pasos necesarios, para datos numéricos y categóricos.
 
 1. **Datos numéricos**: Vamos a trabajar con la columna `price` del dataset, para ello, vamos a realizar los siguientes pasos:
 
@@ -45,7 +45,7 @@ Para construir una tabla de frecuencias, se deben considerar dos aspectos import
 import pandas as pd
 
 # 1.- Cargar el dataset
-df = pd.read_csv('../../Datasets/Laptops_Dataset.csv') # Modifica la ruta de acuerdo a tu entorno de trabajo
+df = pd.read_csv('/Datasets/Ejemplo_01_Laptops_Dataset.csv') # Modifica la ruta de acuerdo a tu entorno de trabajo
 
 # 2.- Determinar el Rango de los datos.
 rango = df['price'].max() - df['price'].min()
@@ -80,12 +80,12 @@ tabla_frecuencias_num.head().sort_values(by='Frecuencia_absoluta', ascending=Fal
 # Crear la tabla de frecuencias con datos categóricos para la columna 'brand'.
 tabla_frecuencias_cat = pd.DataFrame({
     'Categoría': df['brand'].unique(),
-    'Frecuencia_absoluta': [df['brand'].value_counts()[i] for i in range(df['brand'].nunique())],
-    'Frecuencia_relativa': [df['brand'].value_counts(normalize=True)[i] for i in range(df['brand'].nunique())]
+    'Frecuencia_absoluta': [df['brand'].value_counts().iloc[i] for i in range(df['brand'].nunique())],
+    'Frecuencia_relativa': [df['brand'].value_counts(normalize=True).iloc[i] for i in range(df['brand'].nunique())]
 })
 
 # Mostrar la tabla de frecuencias.
-tabla_frecuencias_cat.head().sort_values(by='Frecuencia_absoluta', ascending=False)
+tabla_frecuencias_cat.sort_values(by='Frecuencia_absoluta', ascending=False).head()
 ```
 
 ---

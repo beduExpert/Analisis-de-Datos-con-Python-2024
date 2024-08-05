@@ -8,7 +8,7 @@
 
 ## 📝 Instrucciones
 
-1. 📂 **Carga el dataset**: Descarga el archivo [Celulares_Dataset.csv](../../Datasets/Celulares_Dataset.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
+1. 📂 **Carga el dataset**: Descarga el archivo [Celulares_Dataset.csv](../../Datasets/S02/Reto_02_Celulares_Dataset.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
 
 2. 📐 **Realiza la grafica de densidad kernel para las siguientes columnas**:
     - `Price`

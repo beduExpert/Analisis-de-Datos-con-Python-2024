@@ -34,7 +34,7 @@ Vamos a calcular los cuartiles de la tarifa (`Fare`) de los pasajeros en el Tita
 import pandas as pd
 
 # Cargar el dataset
-df = pd.read_csv('../../Datasets/Titanic_Dataset.csv') # Modifica la ruta de acuerdo a tu entorno de trabajo
+df = pd.read_csv('/Datasets/Ejemplo_01_Titanic_Dataset.csv') # Modifica la ruta de acuerdo a tu entorno de trabajo
 
 # Calcular los cuartiles de la tarifa
 Q1_fare = df['Fare'].quantile(0.25)

@@ -8,7 +8,7 @@
 
 ## 📝 Instrucciones
 
-1. 📂 **Carga el dataset**: Descarga el archivo [Laptops_Dataset.csv](../../Datasets/Laptops_Dataset.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
+1. 📂 **Carga el dataset**: Descarga el archivo [Reto_01_Laptops_Dataset.csv](../../Datasets/S01/Reto_01_Laptops_Dataset.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
 
 2. 📊 **Calcular los estimados de locación**: Calcula la media, mediana y moda de la columna `price` del dataset.
 

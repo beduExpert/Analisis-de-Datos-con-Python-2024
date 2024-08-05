@@ -1,0 +1,3001 @@
+Breed,Age (Years),Weight (kg),Color,Gender
+Airedale Terrier,13,35,White,Male
+Jack Russell Terrier,10,43,Tan,Female
+Dogo Argentino,2,16,Spotted,Female
+Labrador Retriever,9,57,Bicolor,Male
+French Bulldog,12,39,Spotted,Male
+French Bulldog,9,8,Black and Tan,Female
+Bull Terrier,7,54,Red,Female
+Boxer,1,47,Black,Female
+Cocker Spaniel,13,5,Brindle,Male
+Shetland Sheepdog,1,11,Cream,Female
+Whippet,3,38,Black and Tan,Female
+Weimaraner,4,34,Black and Tan,Male
+Havanese,13,26,Tan,Female
+Beagle,3,19,Black and Tan,Female
+Maltese,2,57,Spotted,Male
+Maltese,12,27,White,Female
+Siberian Husky,10,32,Brindle,Male
+German Shepherd,6,8,Gray,Female
+Bloodhound,7,54,Brindle,Female
+Bull Terrier,2,35,Blue,Male
+Havanese,13,44,White,Male
+Irish Setter,11,51,Bicolor,Female
+Maltese,12,28,Black,Male
+Doberman Pinscher,13,29,Black and Tan,Female
+Vizsla,9,48,Red,Female
+Bernese Mountain Dog,12,18,Gray,Male
+Shih Tzu,13,37,Tan,Female
+Yorkshire Terrier,8,37,Brown,Male
+Boxer,12,55,Bicolor,Male
+Boston Terrier,8,59,Black,Male
+Chinese Shar-Pei,4,54,Tan,Female
+Pug,5,30,Brown,Female
+Chinese Shar-Pei,10,14,Tan,Female
+Poodle,7,42,Black and White,Female
+Australian Shepherd,10,49,Merle,Female
+Jack Russell Terrier,7,22,Tricolor,Female
+Labrador Retriever,5,28,White,Female
+Miniature Schnauzer,12,40,Brown,Female
+Saint Bernard,2,40,Cream,Female
+Maltese,3,39,Merle,Male
+Rottweiler,1,25,Spotted,Male
+Chinese Shar-Pei,1,10,Cream,Female
+Pekingese,11,25,Brindle,Female
+Cocker Spaniel,8,11,White,Female
+Cocker Spaniel,7,13,Tricolor,Male
+Chihuahua,3,5,Red,Female
+Bull Terrier,11,49,Brindle,Male
+Shiba Inu,12,30,Merle,Female
+German Shepherd,10,43,Black and White,Male
+Boxer,11,12,Merle,Male
+Shiba Inu,13,14,Brown,Female
+Schnauzer,14,11,Cream,Female
+Dachshund,9,34,Bicolor,Female
+Papillon,9,10,Red,Male
+Havanese,3,41,Black and Tan,Male
+Saint Bernard,2,34,Gray,Female
+Pembroke Welsh Corgi,11,44,White,Male
+Whippet,13,24,Bicolor,Male
+Great Dane,3,52,Tan,Female
+Akita,12,27,Merle,Female
+Labrador Retriever,8,8,Sable,Female
+Labrador Retriever,7,12,Gray,Female
+Weimaraner,7,34,Brown,Male
+Dogo Argentino,3,25,Tricolor,Male
+Poodle,12,13,Tricolor,Female
+Bloodhound,2,23,Cream,Male
+Basenji,6,27,Black,Female
+Papillon,7,27,Black and White,Female
+Doberman Pinscher,10,26,Spotted,Female
+Australian Shepherd,13,51,Brown,Male
+Bulldog,10,44,Brindle,Male
+Belgian Malinois,4,39,Brindle,Female
+West Highland White Terrier,10,39,Bicolor,Male
+Schnauzer,12,21,Spotted,Female
+German Shepherd,5,18,Brindle,Male
+German Shepherd,12,33,Brindle,Female
+Bull Terrier,3,18,Gray,Female
+Belgian Malinois,2,38,Black,Male
+Saint Bernard,7,31,Bicolor,Female
+Bloodhound,1,18,Sable,Male
+Pembroke Welsh Corgi,3,15,Black and Tan,Male
+Irish Setter,14,28,Red,Female
+Miniature Schnauzer,7,26,Gray,Male
+Bichon Frise,4,32,Tan,Male
+Labrador Retriever,8,50,Brown,Female
+Chihuahua,6,26,Spotted,Female
+Saint Bernard,14,36,Red,Female
+Dogo Argentino,14,43,Sable,Male
+Siberian Husky,11,23,Brown,Female
+West Highland White Terrier,11,32,White,Female
+Boston Terrier,3,31,Black and White,Male
+Pembroke Welsh Corgi,7,28,Black,Male
+Bulldog,7,12,Black and Tan,Female
+Beagle,11,18,Tricolor,Male
+Bulldog,12,25,Cream,Female
+Jack Russell Terrier,2,35,Gray,Female
+Papillon,10,40,Black,Female
+French Bulldog,11,15,Spotted,Male
+Siberian Husky,1,40,Blue,Male
+Weimaraner,2,10,Merle,Female
+Papillon,4,42,White,Female
+Basenji,4,27,Bicolor,Female
+Chihuahua,2,38,Spotted,Female
+Australian Shepherd,12,23,Black and Tan,Female
+Boston Terrier,4,5,Brown,Male
+Saint Bernard,5,36,White,Female
+Havanese,4,49,Red,Female
+Australian Shepherd,10,35,Sable,Male
+Shih Tzu,10,50,Black,Male
+Dogo Argentino,14,7,White,Male
+Shetland Sheepdog,6,26,Blue,Male
+Lhasa Apso,7,23,Gray,Male
+Rottweiler,9,21,White,Male
+Poodle,11,40,Brindle,Female
+Belgian Malinois,10,17,Bicolor,Male
+Saint Bernard,12,13,Sable,Male
+Labrador Retriever,6,31,Sable,Male
+Schnauzer,6,40,Spotted,Female
+Poodle,9,14,Black and White,Female
+Cavalier King Charles Spaniel,5,36,Gray,Female
+Labrador Retriever,6,49,Merle,Female
+Rottweiler,1,54,Blue,Male
+Whippet,4,48,Blue,Male
+Weimaraner,2,52,Bicolor,Female
+Akita,7,5,Merle,Female
+Lhasa Apso,9,50,Brown,Male
+Pekingese,7,59,Tan,Female
+French Bulldog,4,25,Black and Tan,Male
+Akita,5,33,Sable,Male
+West Highland White Terrier,6,43,Brown,Male
+Shih Tzu,9,41,Tricolor,Male
+Lhasa Apso,12,35,White,Female
+Bull Terrier,3,38,Cream,Male
+Shetland Sheepdog,10,40,Blue,Male
+Boxer,4,46,Black and White,Male
+Labrador Retriever,3,59,Blue,Female
+Dachshund,10,31,Tricolor,Female
+Whippet,14,51,Brindle,Male
+Alaskan Malamute,2,23,Blue,Male
+Havanese,2,29,White,Male
+Golden Retriever,11,29,Merle,Female
+Akita,9,19,Red,Female
+Saint Bernard,14,33,Gray,Female
+Cavalier King Charles Spaniel,11,55,Cream,Female
+French Bulldog,7,46,Gray,Female
+Miniature Schnauzer,11,24,Black and Tan,Male
+Irish Setter,4,7,Brown,Male
+Saint Bernard,12,47,Spotted,Male
+Boston Terrier,13,54,Black,Female
+Doberman Pinscher,3,34,Black and White,Female
+Whippet,3,6,Red,Male
+Bichon Frise,5,26,White,Male
+Chihuahua,11,59,Bicolor,Female
+Belgian Malinois,8,22,Black,Male
+German Shepherd,3,30,Tricolor,Female
+Weimaraner,13,19,Bicolor,Female
+Dachshund,5,27,White,Male
+Pomeranian,5,20,White,Female
+Alaskan Malamute,10,55,Brown,Male
+Basenji,12,23,Tricolor,Female
+Pembroke Welsh Corgi,13,16,Black and Tan,Male
+Golden Retriever,2,59,Black and Tan,Male
+Chinese Shar-Pei,6,29,White,Female
+Pug,4,10,White,Female
+Shiba Inu,8,48,Brindle,Male
+Labrador Retriever,5,11,Brindle,Male
+Bloodhound,14,46,Brindle,Male
+Cocker Spaniel,11,48,Red,Male
+Irish Setter,3,52,Blue,Female
+West Highland White Terrier,12,17,Merle,Male
+Chinese Shar-Pei,1,17,Black and White,Male
+Basenji,12,50,Cream,Male
+Shih Tzu,10,42,Red,Female
+Cavalier King Charles Spaniel,3,23,Sable,Male
+Maltese,14,14,Blue,Female
+Golden Retriever,14,13,Tricolor,Male
+French Bulldog,3,58,Red,Male
+Cavalier King Charles Spaniel,13,45,Black and White,Male
+Akita,10,13,Brindle,Male
+Alaskan Malamute,7,5,Spotted,Female
+Shih Tzu,9,37,Cream,Female
+Lhasa Apso,10,17,Blue,Female
+Basenji,2,57,Black,Female
+Yorkshire Terrier,2,25,Merle,Female
+Cocker Spaniel,2,58,Blue,Male
+Schnauzer,1,55,Bicolor,Male
+Yorkshire Terrier,2,20,Sable,Male
+Border Collie,8,28,Black and White,Male
+Golden Retriever,1,59,Tricolor,Male
+Papillon,7,49,Bicolor,Female
+French Bulldog,12,22,Spotted,Male
+Airedale Terrier,6,28,Brindle,Male
+Chihuahua,10,14,Sable,Female
+Shiba Inu,13,50,Merle,Female
+Bulldog,9,39,Tan,Female
+French Bulldog,14,37,Black and White,Female
+Samoyed,6,46,Merle,Female
+Pembroke Welsh Corgi,7,11,Blue,Female
+Pomeranian,9,32,White,Male
+Shih Tzu,14,40,Brown,Female
+Samoyed,2,24,Gray,Male
+Pembroke Welsh Corgi,5,43,Tan,Female
+Pug,6,6,Black and Tan,Male
+Maltese,14,38,Gray,Female
+Pekingese,13,42,Black and White,Female
+Shetland Sheepdog,10,38,Cream,Female
+Irish Setter,13,38,Brindle,Male
+Bernese Mountain Dog,1,8,Tricolor,Female
+Pug,6,27,Gray,Male
+Dogo Argentino,7,42,Brindle,Male
+Cocker Spaniel,10,55,Bicolor,Female
+Chesapeake Bay Retriever,2,38,Tricolor,Female
+Basenji,2,8,Bicolor,Female
+Shiba Inu,4,18,Black,Male
+Weimaraner,2,39,Spotted,Female
+Beagle,11,20,Brindle,Female
+Shetland Sheepdog,7,48,Brown,Female
+Schnauzer,11,38,White,Male
+Shih Tzu,1,35,White,Female
+Rottweiler,8,46,White,Male
+Maltese,12,33,Spotted,Male
+Australian Shepherd,7,14,Red,Female
+Belgian Malinois,12,16,Spotted,Male
+Miniature Schnauzer,5,30,Brown,Male
+Basenji,10,53,Merle,Female
+Australian Shepherd,3,14,Black,Female
+Pembroke Welsh Corgi,4,37,Brindle,Male
+Bloodhound,11,26,Tricolor,Male
+Jack Russell Terrier,7,41,Bicolor,Female
+Pekingese,7,16,Brindle,Female
+German Shepherd,3,40,Black and White,Female
+Schnauzer,2,49,Spotted,Female
+Airedale Terrier,11,7,Black and Tan,Male
+Maltese,8,37,Brown,Female
+Maltese,9,33,Sable,Male
+French Bulldog,9,41,Spotted,Female
+Miniature Schnauzer,12,15,Gray,Male
+Jack Russell Terrier,12,40,Cream,Female
+French Bulldog,5,34,Tricolor,Female
+West Highland White Terrier,3,48,Merle,Female
+Siberian Husky,12,46,Cream,Male
+Bloodhound,10,28,Tan,Male
+Saint Bernard,12,42,Bicolor,Female
+Pomeranian,9,34,Brindle,Male
+Poodle,11,38,Black and White,Female
+Havanese,1,40,Blue,Male
+Alaskan Malamute,12,47,Bicolor,Male
+Shiba Inu,4,21,Brown,Female
+Pembroke Welsh Corgi,1,25,Black and Tan,Female
+Basenji,6,38,Merle,Female
+Boston Terrier,8,8,Bicolor,Male
+Dachshund,8,36,Tan,Male
+Alaskan Malamute,13,50,Bicolor,Male
+Vizsla,5,41,Black and White,Female
+Great Dane,12,13,Black and White,Male
+Jack Russell Terrier,13,29,Black and White,Female
+Basenji,9,30,Tan,Female
+Golden Retriever,3,30,Sable,Female
+Bichon Frise,12,42,Black and Tan,Male
+Cocker Spaniel,10,15,Bicolor,Female
+Bernese Mountain Dog,6,37,Black and White,Male
+Havanese,13,8,Sable,Male
+Dogo Argentino,13,26,Merle,Male
+Chinese Shar-Pei,2,45,Brown,Male
+Irish Setter,8,18,Black,Male
+Boston Terrier,14,37,Bicolor,Female
+Dogo Argentino,8,47,Tan,Male
+Pekingese,2,10,Spotted,Female
+French Bulldog,6,26,Tan,Female
+Saint Bernard,1,45,Spotted,Male
+Bull Terrier,8,18,Black and Tan,Female
+Boxer,14,32,Gray,Female
+Boxer,9,39,Sable,Female
+Belgian Malinois,5,5,Black and Tan,Male
+Havanese,6,49,Brindle,Male
+French Bulldog,3,44,Black,Female
+Irish Setter,1,53,Black,Female
+Border Collie,14,52,Black and Tan,Male
+Whippet,9,56,Gray,Female
+Airedale Terrier,7,22,Tricolor,Female
+French Bulldog,12,37,Brindle,Female
+Schnauzer,6,37,Sable,Male
+Boxer,4,16,Gray,Female
+Dachshund,9,47,Brown,Male
+Bichon Frise,11,11,Black and White,Male
+Samoyed,13,23,Black and White,Male
+Rottweiler,10,38,Red,Female
+Bull Terrier,14,56,Black and Tan,Female
+Shetland Sheepdog,1,57,Red,Male
+Chesapeake Bay Retriever,11,10,Brindle,Female
+Airedale Terrier,8,22,Bicolor,Male
+Akita,3,59,Black,Female
+Akita,11,15,Merle,Female
+Maltese,9,17,Tan,Female
+Chesapeake Bay Retriever,8,46,Tricolor,Female
+Poodle,7,22,White,Male
+Basenji,1,36,Black,Male
+Weimaraner,6,8,Merle,Female
+Labrador Retriever,14,45,Brindle,Male
+Pembroke Welsh Corgi,3,39,Brown,Female
+Akita,11,47,Merle,Male
+Poodle,7,35,Gray,Female
+Dogo Argentino,14,11,Black,Male
+Pug,9,5,Tan,Male
+Yorkshire Terrier,5,9,Black,Female
+German Shepherd,1,9,Brindle,Male
+Doberman Pinscher,4,49,Bicolor,Female
+Lhasa Apso,11,5,Black and White,Male
+Saint Bernard,5,56,Blue,Female
+Bichon Frise,2,40,Merle,Male
+Basenji,9,27,White,Male
+Papillon,3,35,Spotted,Female
+Weimaraner,9,44,Cream,Male
+Lhasa Apso,10,34,Black and White,Male
+Bernese Mountain Dog,9,27,Red,Female
+French Bulldog,8,28,Bicolor,Female
+Bull Terrier,13,54,Gray,Male
+Saint Bernard,10,31,Tan,Female
+Whippet,4,59,Red,Female
+Cavalier King Charles Spaniel,7,16,Tan,Female
+Pekingese,4,7,Sable,Female
+Rottweiler,8,26,Brindle,Male
+Chesapeake Bay Retriever,8,17,Bicolor,Female
+Miniature Schnauzer,3,21,Spotted,Female
+Doberman Pinscher,8,7,Sable,Female
+Pekingese,12,32,Merle,Male
+Boston Terrier,9,17,Black and Tan,Male
+Golden Retriever,5,58,Sable,Female
+Poodle,4,46,Sable,Male
+Vizsla,11,40,Gray,Male
+Siberian Husky,1,5,Black and White,Male
+Airedale Terrier,3,18,Black and Tan,Female
+Dogo Argentino,11,42,Black,Male
+Golden Retriever,13,23,Black,Female
+Jack Russell Terrier,6,40,Cream,Male
+Bichon Frise,5,15,White,Female
+Shetland Sheepdog,3,24,Tricolor,Female
+Bull Terrier,8,49,Sable,Female
+Bull Terrier,11,32,Red,Female
+Pembroke Welsh Corgi,4,14,White,Male
+Pomeranian,8,53,Brindle,Female
+Cavalier King Charles Spaniel,4,43,Merle,Male
+Doberman Pinscher,2,17,Cream,Female
+Beagle,14,52,Tan,Female
+Rottweiler,5,43,White,Male
+Miniature Schnauzer,6,54,White,Male
+Great Dane,4,43,Black and White,Male
+Alaskan Malamute,3,10,Cream,Female
+Cocker Spaniel,12,27,Spotted,Male
+Rottweiler,2,17,Merle,Male
+Belgian Malinois,12,7,Blue,Female
+Pekingese,11,5,Tricolor,Female
+Irish Setter,12,54,Tricolor,Female
+Shetland Sheepdog,4,29,Black and White,Male
+Boxer,5,47,Black and Tan,Male
+Bernese Mountain Dog,5,34,Black and White,Male
+Whippet,7,33,Spotted,Female
+Shiba Inu,10,37,Gray,Female
+Bichon Frise,10,9,Sable,Male
+Boxer,4,13,Gray,Female
+Great Dane,8,23,Tan,Male
+Alaskan Malamute,13,50,Brown,Female
+Doberman Pinscher,5,33,Bicolor,Female
+Belgian Malinois,12,12,Blue,Male
+Labrador Retriever,14,13,White,Female
+Pomeranian,13,21,Cream,Female
+Pug,1,27,Tan,Male
+West Highland White Terrier,11,47,Red,Male
+Weimaraner,14,20,Bicolor,Male
+Cavalier King Charles Spaniel,1,25,Sable,Male
+Maltese,1,53,Tricolor,Female
+Papillon,1,26,Black and White,Female
+French Bulldog,5,28,Merle,Female
+Chinese Shar-Pei,12,38,Brown,Male
+Yorkshire Terrier,14,7,Brown,Female
+Bichon Frise,6,53,Black and Tan,Female
+Pekingese,6,31,Blue,Female
+Irish Setter,10,16,Blue,Male
+Havanese,3,29,Spotted,Female
+Shiba Inu,11,20,Black and White,Male
+Cocker Spaniel,1,52,Tan,Male
+Yorkshire Terrier,8,30,Brindle,Male
+Rottweiler,2,10,Tan,Female
+Havanese,12,27,Sable,Female
+Shih Tzu,10,59,Tan,Female
+Doberman Pinscher,10,56,White,Male
+Papillon,11,39,Spotted,Female
+Labrador Retriever,13,34,Bicolor,Male
+Pembroke Welsh Corgi,1,17,Spotted,Female
+Great Dane,8,49,Black and Tan,Male
+Weimaraner,13,25,Black and White,Female
+Bernese Mountain Dog,7,51,Blue,Female
+Shiba Inu,14,38,Brindle,Male
+West Highland White Terrier,8,16,Black and White,Female
+Chihuahua,11,51,Tan,Female
+Pomeranian,10,35,Brindle,Male
+Great Dane,1,51,Tricolor,Male
+Boston Terrier,12,16,Cream,Female
+Miniature Schnauzer,12,11,Spotted,Male
+Bulldog,10,36,Sable,Female
+Pomeranian,5,39,Tricolor,Male
+Saint Bernard,13,46,Cream,Female
+Cocker Spaniel,9,26,Tan,Female
+Rottweiler,6,15,Merle,Female
+Yorkshire Terrier,3,32,Black and White,Male
+Shih Tzu,13,22,Merle,Female
+Poodle,12,43,Tan,Female
+Labrador Retriever,12,11,Spotted,Female
+Yorkshire Terrier,12,16,Tricolor,Female
+Australian Shepherd,6,53,Gray,Female
+Australian Shepherd,5,34,Merle,Male
+Dogo Argentino,2,18,Bicolor,Female
+Pembroke Welsh Corgi,13,51,Bicolor,Male
+Bulldog,13,24,Red,Female
+Bull Terrier,1,12,Tan,Female
+Great Dane,3,21,Red,Female
+Samoyed,6,11,White,Female
+Border Collie,5,45,Tan,Male
+Dachshund,13,20,Merle,Female
+Papillon,3,7,Black and Tan,Male
+Irish Setter,8,15,Black and White,Male
+Rottweiler,4,46,Black,Female
+Bichon Frise,6,47,Black and White,Female
+Chinese Shar-Pei,11,45,Red,Male
+Saint Bernard,7,34,Spotted,Male
+Belgian Malinois,5,15,Tricolor,Male
+Miniature Schnauzer,10,15,Blue,Male
+Dogo Argentino,9,36,Black and White,Male
+Akita,1,22,Tricolor,Male
+Chinese Shar-Pei,11,40,Spotted,Male
+Cavalier King Charles Spaniel,11,41,Brown,Male
+Dogo Argentino,12,41,Brown,Female
+Alaskan Malamute,1,22,Merle,Female
+Miniature Schnauzer,3,54,Merle,Male
+Samoyed,7,26,Brown,Female
+Havanese,14,32,Black,Male
+German Shepherd,13,30,Bicolor,Male
+Beagle,13,52,Brindle,Female
+West Highland White Terrier,2,59,Brown,Male
+Dogo Argentino,6,13,Bicolor,Female
+Lhasa Apso,10,38,Tricolor,Female
+Cavalier King Charles Spaniel,6,52,Blue,Female
+Pug,3,14,Gray,Female
+Border Collie,4,16,Merle,Male
+Saint Bernard,12,53,Black,Male
+Rottweiler,4,52,Merle,Male
+West Highland White Terrier,14,33,Bicolor,Male
+Boxer,4,21,Tan,Male
+Airedale Terrier,9,53,Black,Male
+Shih Tzu,6,7,Brindle,Male
+Beagle,14,13,Black and Tan,Male
+Bloodhound,12,38,Tan,Male
+Bull Terrier,10,53,Spotted,Male
+Yorkshire Terrier,6,19,Tan,Male
+Shih Tzu,2,45,Black and Tan,Female
+Rottweiler,14,6,White,Female
+Pug,9,51,Merle,Female
+Pomeranian,11,36,Bicolor,Male
+Australian Shepherd,13,27,Bicolor,Female
+Bernese Mountain Dog,8,50,Spotted,Female
+Yorkshire Terrier,8,5,Merle,Male
+Saint Bernard,2,17,Black,Female
+Beagle,10,45,Cream,Male
+Doberman Pinscher,14,5,Tricolor,Male
+Rottweiler,1,33,Tricolor,Female
+Boston Terrier,10,36,Spotted,Male
+Bernese Mountain Dog,5,33,Sable,Female
+Golden Retriever,7,24,Blue,Male
+Pug,1,56,Brown,Female
+Whippet,12,37,Black and White,Female
+Samoyed,4,47,Tan,Female
+Havanese,4,48,Red,Male
+Maltese,5,9,Black,Female
+Bulldog,11,55,Gray,Female
+Weimaraner,2,22,Merle,Female
+Airedale Terrier,13,34,Tan,Male
+Rottweiler,11,43,White,Male
+Havanese,1,31,Tan,Male
+Cavalier King Charles Spaniel,5,30,Merle,Male
+Bernese Mountain Dog,7,23,Brindle,Male
+Boston Terrier,9,56,Black and Tan,Male
+Chesapeake Bay Retriever,3,25,Sable,Male
+Vizsla,13,52,White,Male
+Havanese,2,46,Brindle,Female
+Bichon Frise,3,12,Bicolor,Male
+Pekingese,2,39,Merle,Female
+Chesapeake Bay Retriever,1,33,Brindle,Female
+Chinese Shar-Pei,2,37,Black and Tan,Female
+Dogo Argentino,7,54,Sable,Female
+Chinese Shar-Pei,5,43,Tricolor,Male
+Pomeranian,5,17,Tricolor,Female
+Rottweiler,12,29,Black and Tan,Female
+Belgian Malinois,6,51,Black and White,Male
+Rottweiler,10,51,Merle,Male
+Boxer,4,12,White,Male
+Labrador Retriever,7,14,Brown,Male
+Cocker Spaniel,11,44,Black and Tan,Female
+Weimaraner,1,50,Red,Male
+Doberman Pinscher,3,38,Tan,Female
+Boston Terrier,14,35,Brindle,Female
+Dogo Argentino,1,40,White,Female
+Lhasa Apso,8,39,Cream,Male
+French Bulldog,8,44,Sable,Female
+West Highland White Terrier,14,7,Spotted,Female
+German Shepherd,2,34,Red,Male
+Boston Terrier,5,44,Red,Male
+Weimaraner,10,27,Sable,Female
+Bulldog,9,40,Sable,Male
+Pug,12,58,Cream,Male
+Lhasa Apso,1,5,Sable,Female
+Jack Russell Terrier,4,31,Blue,Male
+Dachshund,11,9,Black and White,Female
+Samoyed,5,58,Merle,Female
+Basenji,11,48,Cream,Male
+Cavalier King Charles Spaniel,7,52,Black,Male
+Bichon Frise,2,14,White,Female
+Alaskan Malamute,14,11,Merle,Female
+Schnauzer,4,34,Spotted,Female
+Boston Terrier,4,10,Black,Female
+Beagle,3,6,Black and Tan,Male
+Boxer,5,27,Blue,Female
+Bichon Frise,5,31,Red,Female
+Jack Russell Terrier,11,34,Bicolor,Male
+Saint Bernard,5,10,Spotted,Male
+Cocker Spaniel,10,21,Brindle,Male
+Siberian Husky,6,31,White,Male
+Miniature Schnauzer,9,49,White,Female
+Rottweiler,4,31,Bicolor,Male
+Dachshund,7,19,White,Female
+Akita,6,29,Blue,Male
+Chesapeake Bay Retriever,4,13,Brindle,Male
+Alaskan Malamute,4,24,Black and Tan,Female
+French Bulldog,8,34,Cream,Female
+Siberian Husky,1,16,Red,Male
+Weimaraner,10,51,Bicolor,Male
+German Shepherd,8,26,Gray,Female
+Rottweiler,11,7,White,Male
+Labrador Retriever,13,31,White,Male
+Bull Terrier,5,58,Red,Female
+Maltese,1,53,Gray,Female
+Weimaraner,12,48,Brindle,Male
+Saint Bernard,13,9,Blue,Female
+Poodle,11,27,Merle,Female
+Beagle,13,23,Merle,Male
+French Bulldog,12,43,Gray,Female
+Akita,6,6,Black and Tan,Male
+Basenji,11,9,Spotted,Male
+Chesapeake Bay Retriever,4,44,Red,Female
+Great Dane,12,24,Red,Male
+Bulldog,7,32,Tricolor,Female
+Border Collie,8,12,Blue,Male
+Shiba Inu,1,53,White,Female
+Samoyed,4,58,Brindle,Male
+Chinese Shar-Pei,3,34,Cream,Male
+Boxer,1,39,Red,Female
+Dogo Argentino,8,29,Cream,Male
+Poodle,1,17,Black and White,Male
+Chesapeake Bay Retriever,8,10,Merle,Male
+Rottweiler,3,49,Spotted,Male
+Cavalier King Charles Spaniel,1,18,White,Male
+Yorkshire Terrier,3,53,Tan,Male
+Boston Terrier,7,43,Cream,Male
+Rottweiler,13,20,Brindle,Female
+French Bulldog,1,5,Black and Tan,Female
+Shetland Sheepdog,13,54,Bicolor,Female
+Bichon Frise,9,56,Merle,Female
+Airedale Terrier,4,9,Tricolor,Male
+French Bulldog,14,50,Cream,Male
+Bloodhound,11,27,Tan,Female
+Boston Terrier,4,35,Merle,Male
+Rottweiler,7,37,Bicolor,Female
+Cocker Spaniel,7,36,Sable,Female
+Schnauzer,7,50,Sable,Female
+Labrador Retriever,5,41,Black and Tan,Female
+Poodle,11,8,Bicolor,Male
+Bichon Frise,3,40,Black and Tan,Female
+Alaskan Malamute,6,24,Black and Tan,Male
+Cavalier King Charles Spaniel,5,39,Brown,Female
+Boxer,11,22,Black and White,Female
+Cocker Spaniel,3,49,Brown,Male
+Rottweiler,1,8,Bicolor,Male
+Shetland Sheepdog,10,13,Merle,Male
+Vizsla,12,6,Black,Female
+Great Dane,2,20,White,Male
+Yorkshire Terrier,11,46,Sable,Female
+Alaskan Malamute,6,13,Blue,Male
+Irish Setter,14,57,Sable,Female
+Labrador Retriever,10,27,Sable,Female
+Basenji,14,15,Cream,Male
+Chinese Shar-Pei,6,49,Cream,Female
+Bloodhound,9,17,Gray,Female
+Bernese Mountain Dog,5,8,Brindle,Male
+Dachshund,13,27,Spotted,Female
+Chinese Shar-Pei,10,17,Red,Female
+Akita,1,30,Brown,Female
+Havanese,14,58,Spotted,Female
+Shiba Inu,14,31,Brown,Female
+Cocker Spaniel,13,45,Black,Male
+Border Collie,7,46,Black and White,Female
+Chihuahua,2,5,Spotted,Female
+Shiba Inu,2,43,Gray,Male
+Chinese Shar-Pei,4,57,White,Female
+Beagle,1,32,Sable,Male
+Chesapeake Bay Retriever,4,45,Merle,Male
+Airedale Terrier,2,41,Black and White,Female
+Whippet,4,26,Blue,Male
+Samoyed,14,26,Bicolor,Female
+Belgian Malinois,12,11,Tan,Male
+Bulldog,2,17,Blue,Female
+Pekingese,5,12,Tricolor,Female
+Bichon Frise,8,8,Gray,Male
+Doberman Pinscher,11,15,Tan,Female
+Saint Bernard,7,32,Black and White,Female
+Golden Retriever,5,54,Black and Tan,Male
+Boston Terrier,6,54,Spotted,Female
+Samoyed,7,29,Black and Tan,Female
+Australian Shepherd,1,54,Tan,Female
+Weimaraner,5,51,Black,Male
+Belgian Malinois,14,14,Black,Male
+Bulldog,10,49,Tricolor,Male
+Rottweiler,4,49,Sable,Male
+Whippet,8,41,Bicolor,Female
+Shih Tzu,1,13,Gray,Female
+Cavalier King Charles Spaniel,1,14,Spotted,Male
+Samoyed,9,40,Cream,Female
+Havanese,4,6,Black,Female
+Akita,7,43,Brown,Female
+Saint Bernard,6,25,Black and White,Male
+Boxer,13,50,Brown,Female
+Border Collie,8,30,Red,Female
+Border Collie,4,49,Red,Male
+Pomeranian,14,30,Gray,Male
+Siberian Husky,3,10,Tricolor,Female
+Australian Shepherd,9,5,Brown,Female
+Akita,2,44,Merle,Female
+Border Collie,4,11,Black and White,Female
+Chinese Shar-Pei,9,11,Spotted,Female
+Bloodhound,12,44,Black and Tan,Female
+Irish Setter,14,55,Cream,Female
+Pug,4,22,Spotted,Male
+Jack Russell Terrier,13,16,Tricolor,Male
+Basenji,12,22,Black,Male
+Labrador Retriever,6,42,Sable,Male
+Dachshund,2,35,Spotted,Male
+Pembroke Welsh Corgi,3,55,Brown,Female
+Shih Tzu,11,54,Black and Tan,Female
+Rottweiler,12,14,Cream,Female
+Cavalier King Charles Spaniel,12,17,Sable,Male
+Beagle,7,22,Blue,Male
+Samoyed,4,41,Tricolor,Female
+Dogo Argentino,3,37,Brindle,Female
+Cavalier King Charles Spaniel,14,8,Tricolor,Female
+Australian Shepherd,6,59,Black,Female
+Belgian Malinois,4,17,Tricolor,Female
+Bloodhound,6,58,White,Female
+Dogo Argentino,13,52,Red,Female
+Alaskan Malamute,12,42,Gray,Female
+Miniature Schnauzer,2,57,Blue,Male
+Rottweiler,10,12,Black,Female
+Great Dane,11,51,Cream,Male
+German Shepherd,2,10,White,Male
+Belgian Malinois,11,22,Tan,Female
+Golden Retriever,6,23,Tricolor,Female
+Whippet,10,23,Black,Female
+Great Dane,11,22,Cream,Female
+Chihuahua,9,38,Black,Male
+Vizsla,10,15,Spotted,Male
+Bichon Frise,14,54,Gray,Male
+Weimaraner,4,14,Tan,Male
+Schnauzer,3,31,Spotted,Female
+Pekingese,3,9,Bicolor,Male
+Whippet,5,45,Sable,Female
+Irish Setter,8,30,Brindle,Female
+Pekingese,9,55,Gray,Female
+Whippet,9,42,Cream,Male
+Chesapeake Bay Retriever,6,12,Sable,Female
+Siberian Husky,6,38,Black and Tan,Female
+Shiba Inu,4,22,Blue,Female
+Belgian Malinois,11,52,Sable,Female
+Pug,8,44,Tricolor,Female
+Golden Retriever,7,53,White,Male
+Yorkshire Terrier,1,22,Brindle,Male
+Chinese Shar-Pei,9,43,Brindle,Male
+Dachshund,13,13,Red,Female
+Lhasa Apso,6,43,Black and Tan,Male
+Border Collie,12,28,Spotted,Female
+Bichon Frise,6,39,Merle,Female
+German Shepherd,4,42,Tricolor,Male
+Labrador Retriever,9,32,Gray,Male
+Poodle,10,9,Tricolor,Male
+Maltese,13,7,Gray,Female
+Akita,10,50,Black and White,Female
+Australian Shepherd,8,54,Merle,Male
+French Bulldog,5,30,Tan,Female
+Irish Setter,8,11,Spotted,Female
+Vizsla,2,15,Tricolor,Female
+Alaskan Malamute,4,24,Blue,Male
+Cocker Spaniel,14,50,Brown,Female
+Maltese,14,20,Red,Male
+Beagle,6,25,Spotted,Male
+Boston Terrier,11,58,Sable,Female
+Beagle,12,20,Tricolor,Male
+Great Dane,9,59,Bicolor,Female
+Chinese Shar-Pei,10,40,Tan,Female
+Beagle,6,52,Sable,Female
+Golden Retriever,9,12,Black,Female
+Great Dane,8,45,Gray,Male
+Great Dane,4,41,Black and Tan,Male
+Bloodhound,6,54,Cream,Male
+Vizsla,10,33,Tricolor,Female
+Poodle,13,49,Black and White,Male
+Samoyed,7,51,Bicolor,Female
+Boxer,11,14,Black,Male
+Weimaraner,6,41,Spotted,Female
+Shih Tzu,12,28,Black and White,Male
+Shetland Sheepdog,4,40,Cream,Female
+Schnauzer,3,33,Gray,Male
+Doberman Pinscher,4,23,Red,Female
+Saint Bernard,10,19,White,Male
+Samoyed,2,44,White,Female
+Chinese Shar-Pei,12,25,Merle,Female
+Yorkshire Terrier,7,41,Brown,Male
+Bernese Mountain Dog,10,13,White,Female
+Shetland Sheepdog,4,53,Cream,Male
+Samoyed,8,44,Black,Male
+Vizsla,8,18,Bicolor,Female
+Pomeranian,6,48,Black,Female
+Pug,12,45,Gray,Male
+Bernese Mountain Dog,13,26,Cream,Male
+Irish Setter,3,52,Black,Female
+Vizsla,2,37,Black,Male
+German Shepherd,11,37,Sable,Male
+Poodle,8,35,Brindle,Male
+Beagle,6,14,Brown,Female
+Siberian Husky,13,32,Blue,Female
+Border Collie,1,33,Brown,Male
+Dachshund,4,48,Brown,Female
+Chihuahua,8,28,Black and Tan,Male
+Yorkshire Terrier,2,33,Black and White,Male
+Rottweiler,1,7,Black and Tan,Female
+Samoyed,9,25,Brindle,Male
+Poodle,2,27,Black and White,Male
+Jack Russell Terrier,8,37,Sable,Female
+West Highland White Terrier,14,12,Black,Male
+French Bulldog,8,26,Blue,Male
+Dachshund,7,25,Cream,Male
+Whippet,1,24,Tricolor,Male
+Bichon Frise,6,30,White,Female
+Bernese Mountain Dog,6,52,Brindle,Male
+French Bulldog,7,42,Brown,Female
+Chihuahua,12,29,Tan,Male
+Miniature Schnauzer,6,24,Brown,Male
+Poodle,14,47,Blue,Female
+Bulldog,4,18,Red,Female
+Doberman Pinscher,14,49,White,Female
+Poodle,4,32,Black,Female
+Cavalier King Charles Spaniel,13,27,Bicolor,Female
+Maltese,9,32,White,Male
+French Bulldog,4,8,Sable,Male
+Poodle,13,38,Tan,Female
+Basenji,12,34,Brown,Female
+Weimaraner,12,26,Spotted,Female
+Rottweiler,10,7,White,Female
+Maltese,12,43,Blue,Female
+Chesapeake Bay Retriever,4,29,Merle,Female
+Miniature Schnauzer,12,22,Bicolor,Female
+Chesapeake Bay Retriever,12,18,Tricolor,Male
+Chihuahua,4,14,White,Male
+Rottweiler,7,46,Tricolor,Female
+Rottweiler,11,30,Merle,Female
+Dogo Argentino,11,42,Black and Tan,Female
+Alaskan Malamute,5,19,Tricolor,Female
+Irish Setter,14,34,Bicolor,Female
+Lhasa Apso,13,52,Black,Female
+Papillon,13,12,Bicolor,Male
+Chesapeake Bay Retriever,3,32,White,Male
+Doberman Pinscher,6,33,Spotted,Female
+Pekingese,13,27,Sable,Female
+Siberian Husky,2,9,Red,Female
+Irish Setter,9,8,Blue,Female
+Shiba Inu,10,29,Black and Tan,Male
+Akita,9,44,Red,Male
+Chinese Shar-Pei,6,31,Blue,Male
+Havanese,9,14,Cream,Female
+Bernese Mountain Dog,4,46,Bicolor,Male
+Irish Setter,13,57,Brown,Female
+Whippet,1,12,Merle,Male
+Alaskan Malamute,7,25,Spotted,Male
+Papillon,4,16,Bicolor,Male
+Belgian Malinois,2,11,Black,Female
+Irish Setter,12,33,White,Female
+Labrador Retriever,8,50,Gray,Male
+Siberian Husky,9,7,Tan,Male
+Boxer,4,44,Sable,Male
+Miniature Schnauzer,8,32,Tan,Male
+Bulldog,12,36,Black and Tan,Female
+Rottweiler,7,40,Brindle,Male
+French Bulldog,8,17,Black and White,Male
+Lhasa Apso,10,5,Black and White,Female
+Siberian Husky,7,28,Black,Male
+Vizsla,10,10,Black,Female
+Papillon,14,5,Black and White,Male
+Samoyed,7,40,Spotted,Male
+Lhasa Apso,8,15,Black and Tan,Male
+Samoyed,9,34,Cream,Female
+Miniature Schnauzer,14,22,Brown,Male
+Chinese Shar-Pei,6,53,Tan,Female
+Rottweiler,7,45,Bicolor,Female
+Rottweiler,4,23,Sable,Female
+Border Collie,8,57,Cream,Female
+Rottweiler,3,52,Merle,Male
+Irish Setter,12,15,White,Female
+Pekingese,8,24,Black and White,Male
+French Bulldog,9,42,Tan,Male
+Dachshund,3,18,Gray,Male
+Boston Terrier,14,8,Spotted,Male
+West Highland White Terrier,4,41,Sable,Male
+German Shepherd,2,8,Bicolor,Male
+Boston Terrier,9,40,Bicolor,Female
+Pug,12,12,Black and White,Female
+West Highland White Terrier,2,59,Merle,Male
+Whippet,1,15,Spotted,Female
+Great Dane,11,25,Black and White,Female
+Border Collie,11,33,Gray,Male
+Havanese,1,13,Sable,Female
+Papillon,6,13,Brindle,Male
+Lhasa Apso,2,22,Brindle,Female
+Golden Retriever,11,22,Bicolor,Female
+Bloodhound,6,10,Cream,Female
+Boxer,1,36,Red,Female
+Golden Retriever,4,34,Tan,Male
+Papillon,9,21,Cream,Female
+Airedale Terrier,1,57,Bicolor,Male
+Belgian Malinois,9,27,Merle,Female
+Bernese Mountain Dog,10,40,Spotted,Male
+Dogo Argentino,5,55,Gray,Male
+Weimaraner,14,40,Cream,Male
+Border Collie,7,21,Gray,Female
+Bulldog,12,58,Cream,Female
+Belgian Malinois,10,32,Black and White,Female
+Dachshund,1,37,Merle,Male
+Siberian Husky,12,52,Gray,Female
+Basenji,2,7,Black,Male
+Chesapeake Bay Retriever,8,16,Black,Male
+Vizsla,3,23,Sable,Male
+Bull Terrier,7,29,Bicolor,Female
+Shiba Inu,4,29,Black and White,Female
+Chesapeake Bay Retriever,14,5,Black and White,Male
+Border Collie,5,50,Tan,Male
+Saint Bernard,5,13,Cream,Male
+Bernese Mountain Dog,12,28,Gray,Male
+Whippet,12,6,White,Female
+Maltese,6,34,Red,Female
+Miniature Schnauzer,1,52,Brown,Female
+Boston Terrier,1,43,Spotted,Male
+Cavalier King Charles Spaniel,14,43,Tan,Female
+Great Dane,9,49,Black,Male
+Yorkshire Terrier,12,55,Black and White,Female
+Miniature Schnauzer,7,55,Tricolor,Male
+Bernese Mountain Dog,13,22,Brindle,Female
+Maltese,7,24,Black and Tan,Male
+Bull Terrier,11,30,Red,Female
+West Highland White Terrier,5,10,Gray,Female
+Great Dane,9,51,Black and White,Female
+Maltese,10,26,Brown,Male
+Miniature Schnauzer,13,39,Sable,Male
+French Bulldog,1,38,Gray,Female
+Airedale Terrier,8,43,Red,Male
+Cocker Spaniel,6,55,White,Male
+Samoyed,7,32,Tan,Female
+Labrador Retriever,4,46,Black,Male
+Dachshund,14,42,Bicolor,Male
+French Bulldog,11,54,Gray,Male
+Beagle,10,9,Red,Female
+Bichon Frise,13,24,Red,Female
+Saint Bernard,1,56,Black and Tan,Female
+Beagle,5,38,Black and Tan,Male
+Cocker Spaniel,3,26,Spotted,Male
+Akita,2,9,Black and White,Female
+Whippet,13,56,Brown,Female
+Whippet,11,30,Cream,Female
+Bloodhound,8,56,Tricolor,Female
+Boston Terrier,2,12,Tan,Male
+Alaskan Malamute,13,41,Brindle,Male
+Labrador Retriever,1,56,Blue,Female
+Weimaraner,3,36,Tricolor,Female
+Samoyed,8,52,Black and White,Female
+Belgian Malinois,9,7,Black and White,Male
+Golden Retriever,11,30,Brown,Male
+Chesapeake Bay Retriever,9,17,Bicolor,Male
+Siberian Husky,14,57,Tricolor,Female
+Australian Shepherd,1,10,Sable,Male
+Chesapeake Bay Retriever,7,40,Tan,Male
+Havanese,6,35,Black,Male
+Siberian Husky,5,57,Spotted,Male
+Poodle,8,57,Spotted,Female
+Bloodhound,5,14,Brindle,Female
+German Shepherd,1,54,Black and Tan,Male
+Dachshund,7,56,Black,Female
+Beagle,11,22,Gray,Female
+Beagle,5,34,Tan,Female
+Bloodhound,7,16,Blue,Male
+Bloodhound,5,39,Merle,Male
+Pembroke Welsh Corgi,1,48,Red,Male
+Whippet,3,48,Black,Female
+Shetland Sheepdog,9,38,Tan,Male
+Whippet,12,33,Bicolor,Female
+Whippet,8,27,Black and Tan,Female
+Chinese Shar-Pei,9,30,Merle,Male
+Golden Retriever,11,32,White,Female
+Siberian Husky,7,22,Brindle,Male
+Pekingese,5,38,White,Female
+Boxer,5,38,Cream,Male
+Chinese Shar-Pei,10,57,Sable,Female
+Yorkshire Terrier,9,30,Tricolor,Female
+Poodle,5,25,Brindle,Female
+Papillon,12,12,Blue,Male
+Dogo Argentino,13,5,Black and White,Male
+Alaskan Malamute,6,17,Brindle,Female
+German Shepherd,14,54,Tricolor,Male
+Alaskan Malamute,4,12,Black and White,Female
+Australian Shepherd,5,49,Red,Female
+Siberian Husky,13,28,Brown,Male
+Jack Russell Terrier,11,43,Tricolor,Male
+Siberian Husky,13,7,Sable,Male
+Shetland Sheepdog,12,14,Sable,Female
+Miniature Schnauzer,3,35,Brindle,Female
+Bernese Mountain Dog,13,55,Sable,Male
+Shih Tzu,3,31,Spotted,Female
+Cavalier King Charles Spaniel,14,17,Black and Tan,Male
+Great Dane,8,23,Tricolor,Male
+Airedale Terrier,14,44,Sable,Male
+Belgian Malinois,13,54,Brown,Female
+Shetland Sheepdog,10,34,Merle,Female
+Beagle,6,51,Red,Female
+Weimaraner,3,43,Black and White,Male
+Lhasa Apso,12,11,Black,Female
+Basenji,2,7,Black and Tan,Female
+Border Collie,5,54,Black and White,Female
+Cavalier King Charles Spaniel,5,18,Sable,Female
+Poodle,2,56,Spotted,Male
+Australian Shepherd,9,21,Cream,Male
+Vizsla,10,36,White,Female
+Vizsla,12,13,Bicolor,Male
+Rottweiler,13,46,Black,Female
+Schnauzer,3,44,Tricolor,Female
+Shiba Inu,6,36,Red,Female
+Lhasa Apso,9,30,Red,Male
+Pug,3,23,Black and Tan,Male
+Shiba Inu,10,24,Gray,Male
+Dachshund,5,33,Black and White,Female
+Siberian Husky,12,6,Black,Male
+Pekingese,10,31,Tan,Female
+Labrador Retriever,7,56,Brindle,Male
+Pekingese,2,35,Black and Tan,Male
+Border Collie,11,26,Brown,Female
+Bull Terrier,3,57,Black,Male
+Pomeranian,13,16,Black and White,Female
+Cocker Spaniel,7,40,Black and Tan,Female
+Poodle,3,39,Tan,Male
+Weimaraner,1,59,Red,Male
+Cocker Spaniel,13,5,Merle,Female
+Weimaraner,12,29,Sable,Female
+Poodle,1,51,Tricolor,Male
+Great Dane,7,37,Red,Female
+Siberian Husky,10,45,Bicolor,Male
+Border Collie,7,9,Brindle,Male
+Rottweiler,14,34,Blue,Male
+Cocker Spaniel,3,56,Red,Female
+Siberian Husky,4,59,Brown,Male
+Bloodhound,13,57,Bicolor,Male
+Rottweiler,3,23,Merle,Male
+Papillon,1,57,Tan,Male
+Pug,10,42,Black,Male
+Pekingese,7,44,Black and Tan,Female
+Labrador Retriever,2,7,White,Male
+Havanese,11,56,Brown,Female
+Australian Shepherd,5,38,Red,Female
+Dachshund,5,30,Bicolor,Male
+French Bulldog,3,32,Black,Male
+French Bulldog,6,50,Merle,Male
+Pug,11,27,Brown,Female
+Lhasa Apso,3,47,Tan,Male
+Boxer,14,54,Spotted,Female
+Boston Terrier,4,11,Bicolor,Female
+Papillon,3,58,Merle,Male
+Vizsla,4,34,Brown,Female
+Lhasa Apso,9,37,Blue,Male
+Doberman Pinscher,11,44,Bicolor,Male
+Dogo Argentino,3,28,Black,Male
+Boxer,5,42,Spotted,Male
+Airedale Terrier,8,15,Brown,Male
+Australian Shepherd,11,14,Gray,Male
+Bloodhound,14,6,Gray,Female
+Chihuahua,4,5,Sable,Male
+Chesapeake Bay Retriever,14,8,Spotted,Male
+Bulldog,4,30,Tricolor,Male
+Pug,11,45,Tricolor,Male
+Weimaraner,4,17,Black and Tan,Male
+Rottweiler,7,8,Spotted,Male
+Havanese,3,39,Black,Male
+Bichon Frise,6,32,Brindle,Male
+Irish Setter,9,54,Sable,Male
+Rottweiler,8,6,Black and White,Female
+Pomeranian,12,13,Black,Female
+Akita,4,43,Spotted,Male
+Cavalier King Charles Spaniel,4,38,Blue,Female
+Pug,8,48,White,Male
+Bichon Frise,12,36,Bicolor,Male
+Jack Russell Terrier,3,34,Blue,Male
+Jack Russell Terrier,3,53,Black,Female
+Whippet,1,50,Brown,Female
+Pembroke Welsh Corgi,8,18,Brindle,Female
+Havanese,11,19,Tan,Male
+Chihuahua,14,33,Tricolor,Female
+Bull Terrier,12,21,Blue,Female
+Cavalier King Charles Spaniel,1,40,Merle,Female
+Border Collie,10,29,Spotted,Female
+Akita,6,50,Black and White,Male
+Doberman Pinscher,5,11,Sable,Female
+Saint Bernard,9,23,Red,Female
+Rottweiler,7,38,Blue,Female
+Samoyed,5,13,Cream,Female
+Lhasa Apso,12,19,Gray,Male
+Vizsla,2,23,Gray,Male
+Bulldog,7,46,Black and Tan,Female
+Dogo Argentino,13,44,Bicolor,Male
+Shih Tzu,6,29,Red,Female
+Vizsla,9,17,Black and White,Male
+Cocker Spaniel,11,14,Spotted,Male
+Alaskan Malamute,8,53,Red,Female
+Yorkshire Terrier,14,38,Gray,Female
+Shiba Inu,5,54,Tan,Female
+Doberman Pinscher,3,38,Spotted,Female
+Poodle,13,55,Merle,Male
+Weimaraner,12,29,Merle,Female
+German Shepherd,3,20,Gray,Female
+Pekingese,10,51,Tricolor,Male
+Poodle,14,44,Black and White,Male
+Pug,1,11,Black and Tan,Male
+Bloodhound,2,22,Red,Female
+Basenji,13,13,Cream,Female
+Pomeranian,5,52,Brown,Male
+Cavalier King Charles Spaniel,10,6,Black and Tan,Male
+Cocker Spaniel,5,12,Red,Male
+Bulldog,4,25,Gray,Female
+Boston Terrier,1,45,Black and Tan,Female
+West Highland White Terrier,6,13,Bicolor,Male
+Dachshund,12,57,Tricolor,Male
+French Bulldog,11,5,Merle,Female
+Pomeranian,9,46,Tricolor,Female
+Vizsla,9,7,White,Female
+Pekingese,13,37,Brown,Male
+Belgian Malinois,14,27,Cream,Male
+Basenji,8,15,Gray,Male
+Doberman Pinscher,3,35,Brown,Male
+Chinese Shar-Pei,6,13,Red,Female
+Basenji,2,26,Sable,Male
+West Highland White Terrier,6,50,Tan,Female
+Cavalier King Charles Spaniel,3,8,Tricolor,Male
+Pekingese,2,10,Black,Female
+Chesapeake Bay Retriever,14,32,Red,Female
+Cavalier King Charles Spaniel,14,31,White,Male
+Irish Setter,3,17,Brown,Male
+Vizsla,11,5,Bicolor,Female
+Maltese,10,8,Blue,Male
+Pug,7,48,Sable,Female
+Saint Bernard,12,37,Black and Tan,Male
+Bull Terrier,8,45,Gray,Female
+Pekingese,13,25,Black,Male
+German Shepherd,14,19,Red,Male
+Havanese,5,29,Blue,Female
+Yorkshire Terrier,7,8,Sable,Male
+Labrador Retriever,13,37,Black and Tan,Female
+Havanese,2,14,Black and Tan,Female
+Vizsla,6,11,Tricolor,Male
+Jack Russell Terrier,8,8,Bicolor,Female
+Border Collie,6,33,Gray,Male
+Bernese Mountain Dog,5,8,Blue,Female
+Bernese Mountain Dog,14,20,Tricolor,Female
+Beagle,14,37,Brindle,Female
+Maltese,9,43,Merle,Male
+Australian Shepherd,3,49,White,Female
+Vizsla,10,33,White,Female
+Belgian Malinois,7,58,Red,Male
+Doberman Pinscher,2,55,Blue,Female
+Pug,9,10,Merle,Female
+Lhasa Apso,11,6,Tan,Male
+Alaskan Malamute,8,22,Blue,Male
+Irish Setter,13,52,Tricolor,Female
+Poodle,10,13,Merle,Female
+Cocker Spaniel,2,14,Black and Tan,Female
+Jack Russell Terrier,2,57,Spotted,Female
+Pomeranian,2,18,Gray,Male
+Samoyed,10,53,Black and White,Female
+Pembroke Welsh Corgi,8,46,Blue,Male
+Pembroke Welsh Corgi,10,29,Red,Male
+Chesapeake Bay Retriever,9,9,Cream,Male
+Rottweiler,10,12,Bicolor,Female
+Border Collie,4,10,Gray,Female
+Lhasa Apso,11,44,Black and White,Female
+Rottweiler,11,25,White,Female
+Jack Russell Terrier,14,8,Spotted,Female
+Shiba Inu,13,6,Merle,Female
+Weimaraner,6,14,Brindle,Male
+Miniature Schnauzer,2,31,Brown,Female
+Havanese,14,6,Brown,Female
+Shetland Sheepdog,2,45,Black and White,Male
+Golden Retriever,1,53,Tricolor,Male
+Yorkshire Terrier,12,43,Gray,Female
+Dachshund,8,51,Gray,Female
+Poodle,7,26,Brown,Female
+Bloodhound,3,17,Brindle,Female
+Bloodhound,11,11,Brown,Female
+Weimaraner,7,37,Brown,Male
+German Shepherd,5,47,Bicolor,Male
+Dogo Argentino,2,25,Brindle,Male
+Weimaraner,1,17,Brindle,Female
+Poodle,13,27,Sable,Male
+Poodle,5,25,Tan,Female
+Bloodhound,5,50,Brindle,Male
+Saint Bernard,8,38,Black,Male
+Maltese,1,37,Tan,Male
+Rottweiler,1,14,Merle,Male
+Australian Shepherd,8,41,Cream,Female
+Boston Terrier,10,8,Bicolor,Male
+Whippet,1,46,Sable,Male
+Boxer,13,13,Spotted,Female
+Bulldog,7,33,Black and White,Male
+Rottweiler,10,56,Spotted,Male
+Maltese,5,18,Merle,Female
+Cavalier King Charles Spaniel,7,28,Black,Female
+Golden Retriever,13,12,Brown,Male
+Cocker Spaniel,11,56,Brindle,Male
+French Bulldog,8,17,Cream,Female
+Shih Tzu,7,7,Black and Tan,Male
+Pembroke Welsh Corgi,7,41,Sable,Male
+Shih Tzu,7,50,Brindle,Male
+Weimaraner,1,18,Spotted,Male
+Doberman Pinscher,8,28,Red,Female
+Border Collie,6,44,Red,Female
+Beagle,3,59,Red,Male
+Jack Russell Terrier,3,14,Blue,Male
+Akita,14,44,White,Male
+Shetland Sheepdog,5,20,Black,Male
+Boston Terrier,14,16,Blue,Female
+West Highland White Terrier,1,14,Bicolor,Male
+Doberman Pinscher,5,6,Brown,Female
+Vizsla,8,31,Red,Female
+Bernese Mountain Dog,4,16,Brindle,Male
+Papillon,13,36,Brown,Female
+Shetland Sheepdog,13,53,Sable,Male
+Weimaraner,9,16,Blue,Female
+Bulldog,7,6,Merle,Male
+Jack Russell Terrier,7,13,Spotted,Male
+Akita,13,30,Cream,Male
+Pembroke Welsh Corgi,6,35,Black and Tan,Female
+Akita,13,38,Black and White,Female
+Chesapeake Bay Retriever,3,49,Spotted,Male
+Irish Setter,14,28,Red,Female
+Cocker Spaniel,7,25,Brindle,Male
+Lhasa Apso,7,54,White,Female
+Pembroke Welsh Corgi,6,13,Brindle,Male
+Chesapeake Bay Retriever,13,5,Tricolor,Female
+Bernese Mountain Dog,1,39,Black and Tan,Female
+Chesapeake Bay Retriever,3,35,Gray,Female
+Schnauzer,14,43,Black and Tan,Female
+Samoyed,2,25,Sable,Male
+Beagle,7,42,Brown,Male
+Bernese Mountain Dog,14,27,Tricolor,Female
+Maltese,2,47,Brown,Male
+Samoyed,5,53,Sable,Male
+Bloodhound,3,27,Sable,Female
+Chinese Shar-Pei,12,46,Brown,Male
+Pug,14,25,Cream,Female
+Havanese,2,48,Sable,Female
+Border Collie,6,12,Sable,Female
+French Bulldog,3,6,White,Female
+Border Collie,14,50,Tan,Female
+Irish Setter,2,35,Merle,Female
+Pekingese,6,17,Cream,Male
+Golden Retriever,3,10,Red,Female
+Poodle,7,26,Blue,Male
+Rottweiler,13,10,Tan,Male
+Australian Shepherd,7,21,Tricolor,Male
+Chihuahua,11,48,White,Male
+Saint Bernard,3,28,Blue,Male
+Papillon,1,45,Black and White,Female
+Bull Terrier,5,42,Sable,Male
+Rottweiler,6,52,Tan,Female
+Chinese Shar-Pei,8,53,Bicolor,Female
+Bloodhound,4,44,Black and Tan,Female
+Chinese Shar-Pei,7,45,Red,Female
+Pekingese,6,43,Spotted,Female
+Rottweiler,6,48,Brindle,Female
+Pembroke Welsh Corgi,10,53,Gray,Male
+French Bulldog,11,5,Black and White,Male
+Shih Tzu,3,14,Cream,Female
+Maltese,13,20,Sable,Male
+Bulldog,1,57,Bicolor,Male
+Dogo Argentino,6,49,Gray,Male
+Chinese Shar-Pei,2,58,Tan,Male
+Pomeranian,4,9,Brindle,Male
+Pekingese,11,33,Black and White,Female
+Bloodhound,1,54,Red,Female
+Pembroke Welsh Corgi,8,40,Black and White,Female
+Chihuahua,2,25,Brown,Male
+Miniature Schnauzer,10,11,Tricolor,Male
+Bernese Mountain Dog,4,46,Blue,Female
+Airedale Terrier,13,36,Brindle,Female
+French Bulldog,7,30,Red,Female
+Vizsla,6,21,Black and White,Male
+Rottweiler,7,9,Sable,Male
+Pekingese,10,51,Tan,Female
+Chihuahua,7,18,Merle,Male
+Pembroke Welsh Corgi,2,38,Black,Female
+Boxer,14,22,Sable,Male
+Pembroke Welsh Corgi,12,52,Brown,Male
+Pug,6,6,Blue,Male
+Bull Terrier,11,30,Brindle,Male
+German Shepherd,5,52,White,Female
+Miniature Schnauzer,8,27,Cream,Male
+Dogo Argentino,7,47,Blue,Male
+Great Dane,4,27,White,Male
+Labrador Retriever,3,22,Tan,Female
+Shetland Sheepdog,4,8,Red,Male
+Maltese,7,24,Sable,Female
+Boxer,6,51,Black,Male
+Yorkshire Terrier,8,34,Brown,Male
+Miniature Schnauzer,14,59,Bicolor,Male
+Pembroke Welsh Corgi,12,9,Black,Male
+Great Dane,8,25,Brindle,Female
+Dogo Argentino,7,50,Black and White,Male
+Chinese Shar-Pei,7,35,Gray,Female
+Doberman Pinscher,6,49,Sable,Male
+Australian Shepherd,12,20,Spotted,Male
+French Bulldog,9,38,Brindle,Female
+West Highland White Terrier,6,9,Cream,Male
+Maltese,4,24,Red,Male
+Shetland Sheepdog,8,42,Black,Male
+Great Dane,14,57,Red,Female
+Shetland Sheepdog,3,5,Red,Female
+Chihuahua,8,22,Black and White,Female
+Jack Russell Terrier,3,22,Gray,Female
+German Shepherd,10,54,Tricolor,Male
+Siberian Husky,6,44,Blue,Male
+Pembroke Welsh Corgi,1,45,Blue,Female
+Bernese Mountain Dog,3,23,Spotted,Male
+Bull Terrier,9,10,Gray,Female
+Pembroke Welsh Corgi,2,39,Black and White,Female
+Border Collie,9,8,Tan,Male
+Samoyed,3,5,Sable,Male
+Akita,13,40,Tan,Male
+German Shepherd,9,30,White,Male
+Pug,7,25,Merle,Female
+German Shepherd,14,34,Cream,Male
+Pug,9,6,Brown,Male
+Chesapeake Bay Retriever,13,19,Bicolor,Female
+Chesapeake Bay Retriever,4,49,Gray,Male
+Airedale Terrier,13,43,Cream,Female
+Bloodhound,12,9,Merle,Female
+Basenji,7,11,Black and White,Female
+Yorkshire Terrier,5,22,Black and Tan,Male
+Shih Tzu,1,34,Merle,Female
+West Highland White Terrier,12,6,Merle,Male
+Cocker Spaniel,7,21,Brown,Female
+Whippet,7,7,Brindle,Male
+Shiba Inu,4,19,Black and White,Male
+Havanese,5,47,Tricolor,Female
+Bulldog,9,54,Blue,Male
+Schnauzer,7,29,Blue,Male
+Pomeranian,1,10,Brindle,Male
+Labrador Retriever,1,26,Black,Female
+Vizsla,4,13,Black and Tan,Female
+Schnauzer,12,13,Gray,Male
+Australian Shepherd,6,38,Tricolor,Female
+Cocker Spaniel,14,10,Blue,Female
+Australian Shepherd,8,37,Brown,Male
+Chinese Shar-Pei,12,58,Merle,Male
+Siberian Husky,1,5,Bicolor,Female
+Samoyed,10,48,Brindle,Female
+Dachshund,10,56,Black,Female
+Papillon,12,11,Merle,Male
+Belgian Malinois,12,19,Gray,Female
+Pug,9,42,Tan,Female
+Beagle,1,33,Red,Female
+Shetland Sheepdog,2,21,Spotted,Female
+Cavalier King Charles Spaniel,10,58,Spotted,Female
+French Bulldog,5,34,Brown,Female
+Pug,1,57,Brown,Male
+Labrador Retriever,3,23,Spotted,Female
+German Shepherd,5,34,Black,Female
+Whippet,9,42,Black,Female
+Shiba Inu,3,8,Sable,Male
+Alaskan Malamute,3,47,Bicolor,Female
+Miniature Schnauzer,12,15,Blue,Female
+Miniature Schnauzer,8,46,Cream,Female
+Pomeranian,7,44,Brown,Female
+Australian Shepherd,4,37,Brindle,Female
+Australian Shepherd,11,37,White,Male
+Great Dane,3,33,Red,Female
+Rottweiler,7,19,Merle,Female
+Bichon Frise,6,36,Black and Tan,Male
+Maltese,5,39,Gray,Female
+Maltese,11,42,Sable,Male
+Siberian Husky,4,40,Sable,Female
+Shih Tzu,12,8,Black,Female
+Miniature Schnauzer,4,18,Tan,Male
+Chihuahua,10,23,Brindle,Female
+Chihuahua,13,22,Sable,Female
+Boston Terrier,8,39,Cream,Male
+Rottweiler,5,39,Spotted,Female
+Airedale Terrier,5,24,Brindle,Male
+Alaskan Malamute,6,55,Brindle,Male
+Dogo Argentino,10,9,White,Female
+Bichon Frise,5,16,Black,Male
+Airedale Terrier,2,26,Red,Male
+Australian Shepherd,2,8,Tan,Female
+Havanese,11,54,Tan,Female
+Pembroke Welsh Corgi,8,39,White,Male
+Shih Tzu,10,24,Gray,Male
+Pekingese,1,31,Black and Tan,Male
+Schnauzer,1,13,Blue,Female
+Irish Setter,14,46,Brindle,Male
+Miniature Schnauzer,6,19,Sable,Male
+Bulldog,13,40,Blue,Female
+Great Dane,8,17,Cream,Female
+German Shepherd,1,22,Tricolor,Female
+Rottweiler,6,47,Red,Female
+Rottweiler,14,28,Tricolor,Male
+Havanese,3,22,Black and Tan,Female
+Pug,1,37,Brindle,Male
+Belgian Malinois,10,54,Black and White,Male
+Border Collie,8,16,Black,Female
+Lhasa Apso,14,45,Gray,Female
+Golden Retriever,6,7,Black and Tan,Male
+Jack Russell Terrier,1,53,Tan,Female
+Doberman Pinscher,4,27,Tricolor,Male
+Boston Terrier,6,9,Blue,Female
+Bloodhound,11,46,Sable,Male
+Labrador Retriever,13,47,Brindle,Male
+Beagle,4,20,Cream,Male
+Airedale Terrier,3,22,Brindle,Female
+Pomeranian,11,44,Brindle,Male
+Australian Shepherd,3,18,Sable,Male
+Dachshund,1,36,Spotted,Female
+Akita,9,40,Bicolor,Female
+Basenji,12,54,Black and White,Male
+Bloodhound,4,8,Black,Male
+Shetland Sheepdog,10,50,Tricolor,Female
+Akita,10,30,Black,Male
+Dogo Argentino,10,56,Red,Female
+Shiba Inu,7,33,Sable,Male
+West Highland White Terrier,11,23,Red,Male
+Airedale Terrier,5,49,Blue,Female
+Saint Bernard,10,36,Brown,Female
+Belgian Malinois,4,28,Black and Tan,Female
+Bull Terrier,5,51,Spotted,Male
+Bichon Frise,2,15,White,Female
+Lhasa Apso,1,18,Red,Female
+Dachshund,14,18,Black and White,Female
+Bulldog,10,18,Cream,Male
+Doberman Pinscher,2,24,Black,Female
+French Bulldog,11,6,Black and White,Male
+Vizsla,11,8,Black and Tan,Male
+Cavalier King Charles Spaniel,2,17,Black,Female
+Havanese,8,13,Cream,Male
+Pekingese,3,56,Brindle,Female
+Bloodhound,8,15,Bicolor,Male
+Cavalier King Charles Spaniel,1,11,Brindle,Female
+Pembroke Welsh Corgi,13,57,Sable,Female
+Golden Retriever,13,36,Bicolor,Male
+Pekingese,11,48,Spotted,Female
+Rottweiler,2,36,Red,Male
+Chinese Shar-Pei,9,26,Tricolor,Female
+Papillon,1,18,Black,Female
+Boxer,12,12,Tricolor,Female
+Havanese,11,50,Black,Male
+Labrador Retriever,12,33,Bicolor,Female
+Lhasa Apso,11,23,Brindle,Male
+Doberman Pinscher,4,34,Bicolor,Female
+Basenji,6,31,Brindle,Male
+Chinese Shar-Pei,2,55,White,Female
+Shetland Sheepdog,11,20,Brindle,Male
+Cavalier King Charles Spaniel,13,51,White,Male
+Border Collie,3,6,Black and Tan,Female
+Australian Shepherd,13,50,Brindle,Male
+Lhasa Apso,12,56,Merle,Female
+Doberman Pinscher,12,30,Red,Male
+Dachshund,2,23,Gray,Female
+Doberman Pinscher,5,58,Sable,Male
+French Bulldog,8,44,Tricolor,Female
+Bull Terrier,10,53,Red,Female
+Boxer,9,50,Bicolor,Female
+Pekingese,5,27,Tricolor,Male
+French Bulldog,11,32,Brown,Male
+Rottweiler,5,16,Black,Female
+Pug,12,49,Tan,Female
+Akita,7,43,Blue,Female
+Bulldog,6,54,Sable,Male
+Border Collie,14,5,Sable,Male
+Weimaraner,2,14,Brown,Male
+Beagle,1,27,Tricolor,Female
+Shiba Inu,2,10,Black and Tan,Male
+Doberman Pinscher,1,28,Spotted,Male
+Dogo Argentino,14,11,Brown,Female
+Vizsla,4,27,Black,Male
+Bichon Frise,6,28,Spotted,Male
+Chinese Shar-Pei,6,6,Tan,Female
+Chihuahua,7,31,Black,Female
+Pomeranian,10,36,Red,Male
+Schnauzer,3,24,Tan,Female
+Yorkshire Terrier,11,30,Red,Female
+Pekingese,10,45,White,Male
+Great Dane,6,12,Brindle,Male
+Schnauzer,8,16,Brindle,Male
+Akita,6,22,Red,Female
+Doberman Pinscher,10,59,Black,Female
+Great Dane,9,45,Tan,Female
+Jack Russell Terrier,2,5,Tan,Female
+Pug,14,16,Cream,Male
+Yorkshire Terrier,6,41,Black,Female
+Airedale Terrier,9,40,White,Female
+Rottweiler,10,18,Red,Female
+Siberian Husky,14,13,Cream,Female
+Shiba Inu,2,43,Blue,Male
+Boston Terrier,5,15,Spotted,Female
+Alaskan Malamute,1,30,Red,Male
+Pembroke Welsh Corgi,12,46,Spotted,Female
+Pekingese,3,14,Brown,Female
+Basenji,1,59,Bicolor,Male
+Labrador Retriever,10,25,Cream,Female
+Boston Terrier,14,9,White,Female
+Samoyed,8,44,Blue,Female
+Great Dane,11,21,Gray,Male
+Shih Tzu,10,23,Merle,Female
+Vizsla,4,51,Brindle,Female
+Jack Russell Terrier,9,19,Sable,Male
+Bull Terrier,8,28,Blue,Female
+Whippet,14,51,Brown,Female
+Bulldog,8,57,Merle,Female
+Irish Setter,14,40,Sable,Female
+Siberian Husky,9,53,Black and White,Male
+Vizsla,2,35,White,Male
+Lhasa Apso,10,8,Tan,Female
+Bulldog,9,15,White,Male
+Belgian Malinois,10,37,Spotted,Female
+Weimaraner,1,26,Black and White,Male
+Pug,13,46,Black and Tan,Female
+Miniature Schnauzer,12,51,Bicolor,Male
+Vizsla,8,38,Black and Tan,Female
+Cavalier King Charles Spaniel,8,23,Tan,Male
+Dogo Argentino,7,38,Blue,Male
+Irish Setter,6,56,Blue,Female
+Saint Bernard,9,17,Red,Female
+Lhasa Apso,6,57,Merle,Female
+Labrador Retriever,12,7,Gray,Female
+Rottweiler,12,30,Red,Male
+Boxer,5,47,Sable,Female
+Whippet,1,35,Bicolor,Male
+Chesapeake Bay Retriever,10,56,White,Female
+Lhasa Apso,2,33,Tan,Male
+Rottweiler,9,46,Black,Female
+Siberian Husky,1,22,Black,Female
+Beagle,4,19,Black and Tan,Male
+Chinese Shar-Pei,8,18,Sable,Male
+Weimaraner,4,38,Tan,Male
+Saint Bernard,8,27,Sable,Female
+Bloodhound,6,57,Blue,Male
+Weimaraner,11,29,Sable,Male
+Cavalier King Charles Spaniel,4,35,Black and Tan,Female
+Whippet,9,15,Tan,Female
+Cocker Spaniel,11,8,Bicolor,Male
+Bloodhound,4,36,White,Male
+Airedale Terrier,2,54,Gray,Male
+Saint Bernard,4,37,Merle,Female
+Chihuahua,12,18,Cream,Male
+Pekingese,4,54,Cream,Female
+Chinese Shar-Pei,12,44,Cream,Male
+Doberman Pinscher,13,5,White,Female
+French Bulldog,1,51,Tricolor,Female
+Pekingese,8,29,White,Male
+Bichon Frise,3,25,Blue,Male
+French Bulldog,1,48,Red,Male
+Chesapeake Bay Retriever,7,46,Black and White,Male
+Dogo Argentino,7,31,Black,Female
+Chinese Shar-Pei,8,32,Cream,Female
+Bichon Frise,8,28,Cream,Male
+Weimaraner,12,31,Sable,Female
+Shetland Sheepdog,2,14,Black and White,Female
+Bull Terrier,3,38,Bicolor,Female
+West Highland White Terrier,14,31,Bicolor,Female
+Dachshund,9,46,Tan,Male
+Pekingese,6,52,Bicolor,Male
+Rottweiler,2,36,Tan,Male
+Pekingese,8,45,Spotted,Male
+Maltese,4,36,Bicolor,Female
+Whippet,2,13,Blue,Male
+Pug,7,54,Brown,Female
+Labrador Retriever,9,41,Sable,Male
+Weimaraner,3,22,Blue,Female
+Akita,8,35,Bicolor,Female
+Shih Tzu,9,6,White,Female
+German Shepherd,10,34,Tan,Female
+Golden Retriever,7,58,Gray,Female
+Golden Retriever,10,21,Gray,Female
+Cocker Spaniel,9,25,Black and Tan,Male
+Papillon,14,13,Tan,Male
+Siberian Husky,6,41,Tan,Male
+Cavalier King Charles Spaniel,1,34,Tan,Male
+Bull Terrier,1,48,Gray,Male
+Shetland Sheepdog,10,49,Red,Female
+Shih Tzu,5,20,Spotted,Male
+Rottweiler,7,18,Tricolor,Male
+Border Collie,1,30,Merle,Male
+Chinese Shar-Pei,12,42,Bicolor,Male
+Siberian Husky,10,21,Tan,Female
+Rottweiler,5,55,Brown,Male
+Labrador Retriever,3,16,Black and White,Female
+German Shepherd,13,51,White,Male
+Weimaraner,3,7,Brown,Female
+Dachshund,5,38,Tan,Female
+West Highland White Terrier,8,33,Merle,Female
+Shiba Inu,2,31,Spotted,Male
+Great Dane,12,46,Brown,Male
+Golden Retriever,10,6,Black and White,Male
+Great Dane,13,31,Cream,Female
+German Shepherd,7,13,Brindle,Female
+Shih Tzu,5,24,Spotted,Female
+Cocker Spaniel,7,32,Tricolor,Female
+Jack Russell Terrier,11,40,Red,Female
+Doberman Pinscher,9,27,Black and White,Female
+Weimaraner,7,30,Tricolor,Female
+Rottweiler,10,29,Cream,Male
+Dogo Argentino,3,49,Red,Female
+Beagle,8,25,Tricolor,Female
+Boxer,13,41,Black and Tan,Male
+Australian Shepherd,5,58,White,Female
+Miniature Schnauzer,1,29,Sable,Male
+Pekingese,2,35,Merle,Female
+Dogo Argentino,7,17,Brown,Male
+West Highland White Terrier,5,57,Black and Tan,Male
+Miniature Schnauzer,12,47,Spotted,Male
+Golden Retriever,1,33,Tan,Female
+Pekingese,1,55,Blue,Male
+Doberman Pinscher,3,9,Sable,Female
+Saint Bernard,11,6,White,Female
+Cocker Spaniel,11,10,Red,Female
+Pug,8,49,Brown,Male
+Havanese,7,26,Bicolor,Female
+Siberian Husky,7,54,Brown,Female
+Saint Bernard,13,29,Red,Female
+Samoyed,8,13,Black and Tan,Female
+Golden Retriever,14,49,Blue,Female
+Boston Terrier,8,53,Black,Male
+French Bulldog,1,35,Tan,Female
+Doberman Pinscher,10,37,Bicolor,Female
+Airedale Terrier,12,26,Tricolor,Male
+Bloodhound,13,8,Black and White,Male
+West Highland White Terrier,5,58,Merle,Male
+Dachshund,2,25,Sable,Male
+Vizsla,5,22,Spotted,Female
+West Highland White Terrier,10,22,Bicolor,Female
+Basenji,6,16,Spotted,Male
+Jack Russell Terrier,10,23,Cream,Female
+Bichon Frise,1,40,Cream,Male
+Bulldog,7,26,Bicolor,Female
+Chinese Shar-Pei,5,50,Red,Female
+Pomeranian,5,48,Bicolor,Female
+Vizsla,12,39,Gray,Male
+Saint Bernard,2,56,Merle,Female
+Cavalier King Charles Spaniel,12,38,Tricolor,Male
+Rottweiler,8,14,Gray,Male
+Maltese,14,32,Tan,Female
+Maltese,12,28,Blue,Male
+Jack Russell Terrier,14,46,Bicolor,Male
+Australian Shepherd,12,56,Red,Male
+Dachshund,11,41,Tricolor,Female
+Cocker Spaniel,1,53,Merle,Female
+Shih Tzu,2,38,Brown,Male
+Bull Terrier,13,16,Bicolor,Female
+Vizsla,3,50,Blue,Male
+Bull Terrier,11,13,Merle,Female
+Miniature Schnauzer,11,48,White,Male
+Rottweiler,13,51,Brown,Female
+Maltese,11,34,Bicolor,Female
+Shiba Inu,11,38,Brindle,Male
+Airedale Terrier,13,52,Tan,Female
+Bull Terrier,9,19,Bicolor,Female
+Papillon,8,35,White,Female
+Basenji,14,51,Black and White,Female
+Jack Russell Terrier,11,36,Cream,Female
+Papillon,10,28,Bicolor,Male
+Weimaraner,9,48,Sable,Female
+West Highland White Terrier,13,26,Black and Tan,Female
+Pug,1,7,Sable,Male
+Papillon,1,31,White,Female
+Border Collie,12,41,Blue,Female
+Basenji,13,51,Brindle,Female
+Pug,1,14,Merle,Male
+Irish Setter,13,6,Tricolor,Female
+Shiba Inu,14,8,Black and White,Male
+Cavalier King Charles Spaniel,3,22,Tan,Male
+Boston Terrier,7,6,Tan,Female
+Havanese,13,53,Red,Female
+Australian Shepherd,9,35,Black and White,Male
+Airedale Terrier,13,39,Cream,Female
+Cocker Spaniel,4,38,Gray,Male
+Akita,14,52,Brindle,Female
+Bichon Frise,8,53,Brindle,Male
+Samoyed,4,15,Brown,Male
+Akita,4,11,Tan,Female
+Doberman Pinscher,6,10,Black and White,Female
+Havanese,6,47,Blue,Female
+Bichon Frise,14,11,Brindle,Male
+Shih Tzu,5,46,Merle,Male
+Lhasa Apso,9,43,Tan,Male
+Havanese,11,10,Bicolor,Female
+Cavalier King Charles Spaniel,10,35,Gray,Female
+Poodle,3,13,Spotted,Male
+Bull Terrier,14,22,Merle,Male
+Chesapeake Bay Retriever,12,27,Cream,Male
+Rottweiler,14,8,Sable,Female
+Akita,9,20,Brown,Male
+Great Dane,6,43,Blue,Female
+Papillon,8,51,Sable,Female
+German Shepherd,6,57,Spotted,Female
+Bulldog,5,35,Black and White,Male
+Shetland Sheepdog,5,11,Tricolor,Female
+Yorkshire Terrier,8,34,Brindle,Female
+Whippet,9,27,Brindle,Female
+Chesapeake Bay Retriever,9,15,Blue,Male
+Saint Bernard,6,33,Bicolor,Male
+Lhasa Apso,7,12,Merle,Female
+Saint Bernard,7,32,Merle,Male
+Bernese Mountain Dog,4,53,Blue,Male
+Poodle,12,24,Sable,Female
+German Shepherd,7,7,Red,Female
+Saint Bernard,1,56,White,Female
+Rottweiler,12,12,Merle,Male
+German Shepherd,6,17,Cream,Male
+German Shepherd,7,56,Blue,Male
+Rottweiler,10,24,Red,Female
+Bernese Mountain Dog,6,56,Blue,Male
+Weimaraner,5,35,Brindle,Male
+Shih Tzu,12,35,Black and Tan,Male
+Airedale Terrier,12,32,Bicolor,Female
+Whippet,4,20,Red,Male
+Bichon Frise,1,52,Black,Female
+Shiba Inu,14,28,Blue,Male
+Alaskan Malamute,6,35,Spotted,Male
+Cocker Spaniel,2,24,Black and Tan,Female
+Akita,6,13,Sable,Male
+Samoyed,12,18,Spotted,Male
+Weimaraner,2,43,Black and White,Male
+Pug,2,43,Blue,Male
+Lhasa Apso,9,7,Black and White,Female
+West Highland White Terrier,12,47,Bicolor,Female
+Alaskan Malamute,8,56,Tan,Male
+French Bulldog,10,9,Spotted,Female
+Yorkshire Terrier,12,43,Brown,Male
+Cocker Spaniel,4,10,Black and Tan,Female
+Irish Setter,6,58,Black and White,Male
+Labrador Retriever,3,51,Sable,Female
+Papillon,7,55,Black and White,Female
+Boston Terrier,13,38,Brindle,Male
+Shiba Inu,4,29,Red,Male
+Akita,14,49,Red,Male
+Alaskan Malamute,9,33,Cream,Female
+Poodle,14,26,Black,Female
+Shetland Sheepdog,5,49,Tan,Male
+Maltese,9,19,Black and Tan,Female
+Golden Retriever,1,55,Brown,Female
+Rottweiler,9,57,Merle,Female
+Airedale Terrier,11,9,Sable,Male
+Pembroke Welsh Corgi,5,46,Black and White,Male
+Chinese Shar-Pei,1,22,Gray,Male
+Great Dane,6,20,Spotted,Male
+Schnauzer,6,30,Brindle,Female
+German Shepherd,3,41,Spotted,Female
+Pug,5,17,Merle,Female
+Whippet,14,43,White,Male
+Miniature Schnauzer,9,34,Merle,Male
+Chihuahua,9,35,White,Female
+Shetland Sheepdog,12,39,Black,Female
+Jack Russell Terrier,5,24,Tricolor,Female
+Jack Russell Terrier,14,47,Sable,Female
+Poodle,2,24,Gray,Male
+Chesapeake Bay Retriever,9,36,Gray,Female
+West Highland White Terrier,9,46,Spotted,Female
+Golden Retriever,9,41,Black,Male
+Bichon Frise,12,46,Brown,Male
+Basenji,14,16,Bicolor,Female
+Cocker Spaniel,4,12,Tan,Female
+Australian Shepherd,4,10,Black,Female
+Rottweiler,13,18,Blue,Female
+Airedale Terrier,3,39,Bicolor,Male
+Pekingese,13,51,Brown,Female
+Saint Bernard,11,37,Sable,Male
+Chesapeake Bay Retriever,10,37,Blue,Male
+Lhasa Apso,13,33,Spotted,Male
+Rottweiler,6,17,Blue,Female
+Pug,8,34,Brindle,Male
+Maltese,14,56,Spotted,Female
+Poodle,6,15,Black and White,Male
+Chinese Shar-Pei,14,47,Merle,Male
+West Highland White Terrier,9,14,Brown,Male
+Cocker Spaniel,8,56,Bicolor,Male
+Doberman Pinscher,10,54,Sable,Female
+Samoyed,1,24,Cream,Female
+Shiba Inu,3,27,Black,Male
+Pomeranian,8,28,Spotted,Male
+Chesapeake Bay Retriever,4,35,Gray,Female
+Bloodhound,11,57,Cream,Female
+Boxer,13,18,Black and White,Female
+Poodle,6,55,Sable,Male
+Siberian Husky,2,36,Brindle,Female
+West Highland White Terrier,6,21,Spotted,Female
+Pug,2,23,Spotted,Male
+Doberman Pinscher,2,6,Red,Female
+Bulldog,3,20,Cream,Male
+Bernese Mountain Dog,5,37,Blue,Male
+Chihuahua,4,19,White,Female
+Samoyed,2,14,Black,Male
+Dogo Argentino,12,11,Merle,Male
+Doberman Pinscher,10,56,Black and Tan,Female
+Pekingese,2,52,Sable,Female
+Beagle,3,8,Blue,Female
+Great Dane,9,11,Gray,Female
+Dachshund,2,59,Black and Tan,Female
+Poodle,8,20,Gray,Female
+Weimaraner,9,34,Brindle,Male
+Weimaraner,3,26,Bicolor,Female
+Boston Terrier,10,56,Black and Tan,Male
+Whippet,7,15,Black and Tan,Female
+Whippet,6,18,Gray,Male
+Pomeranian,13,32,White,Male
+Dogo Argentino,2,31,Spotted,Male
+Dachshund,10,31,Tan,Male
+Alaskan Malamute,7,46,Brindle,Female
+Cavalier King Charles Spaniel,13,9,Bicolor,Male
+Chihuahua,13,34,Tan,Female
+Chinese Shar-Pei,10,53,Red,Female
+Lhasa Apso,12,33,Black and Tan,Female
+German Shepherd,3,20,Blue,Female
+Basenji,6,51,Merle,Male
+Rottweiler,7,32,White,Male
+Poodle,12,45,White,Female
+Australian Shepherd,14,37,Brown,Male
+Belgian Malinois,2,50,Black and Tan,Male
+Papillon,6,54,Brown,Male
+Shiba Inu,9,19,Red,Female
+Havanese,5,9,Merle,Male
+Chihuahua,7,30,Spotted,Male
+Akita,6,37,Sable,Male
+Pekingese,14,17,Sable,Female
+Chinese Shar-Pei,13,49,Sable,Male
+Bernese Mountain Dog,7,46,Sable,Male
+Dogo Argentino,1,47,Black and White,Female
+Bulldog,3,57,Brindle,Female
+Labrador Retriever,6,18,Black and White,Female
+Border Collie,7,57,Cream,Male
+Boston Terrier,3,55,Black,Male
+Poodle,10,55,Blue,Female
+Maltese,2,54,Merle,Female
+Doberman Pinscher,5,10,Brindle,Female
+Bulldog,9,28,Gray,Female
+Shiba Inu,9,42,Tricolor,Female
+Rottweiler,4,57,Brindle,Female
+Doberman Pinscher,8,35,Spotted,Male
+Yorkshire Terrier,11,33,Brown,Male
+Boxer,14,59,Black and White,Female
+Weimaraner,3,26,Cream,Female
+Schnauzer,10,24,Brindle,Male
+Cavalier King Charles Spaniel,2,29,Cream,Female
+Boxer,11,52,Cream,Male
+Airedale Terrier,12,28,Black and Tan,Male
+Lhasa Apso,2,50,White,Female
+Saint Bernard,2,15,Brown,Female
+Shiba Inu,7,35,Tan,Male
+Chihuahua,14,37,Brown,Female
+Havanese,4,26,Brindle,Male
+Shiba Inu,14,45,Merle,Female
+Great Dane,7,59,Brown,Male
+Alaskan Malamute,6,35,Merle,Male
+Chesapeake Bay Retriever,5,11,Brown,Female
+Whippet,3,30,Tan,Female
+Irish Setter,8,10,Bicolor,Male
+Airedale Terrier,9,36,Black,Male
+Yorkshire Terrier,9,52,Tricolor,Female
+Vizsla,1,51,Black,Male
+Golden Retriever,8,32,Black and White,Female
+Doberman Pinscher,9,30,Sable,Female
+Australian Shepherd,9,38,Spotted,Female
+French Bulldog,8,32,Merle,Male
+Shetland Sheepdog,5,21,Brindle,Female
+Lhasa Apso,11,21,Tricolor,Male
+Whippet,7,20,Spotted,Female
+Pekingese,10,35,Red,Female
+Vizsla,7,39,Tan,Male
+Pomeranian,9,10,Merle,Male
+Miniature Schnauzer,4,13,Black and Tan,Male
+Rottweiler,8,21,Bicolor,Male
+Rottweiler,9,43,Merle,Male
+Border Collie,5,56,Black,Female
+Bulldog,3,44,Spotted,Female
+Samoyed,4,33,Bicolor,Female
+Bernese Mountain Dog,1,10,Brindle,Male
+Border Collie,5,5,Gray,Female
+Chinese Shar-Pei,9,24,White,Female
+Jack Russell Terrier,1,28,Black,Female
+Cocker Spaniel,12,35,Black,Female
+Chihuahua,13,57,Black,Female
+Miniature Schnauzer,11,51,Gray,Female
+Shiba Inu,5,43,Merle,Male
+Bichon Frise,3,45,Gray,Female
+Weimaraner,7,39,Black,Male
+Bloodhound,3,22,Black and White,Female
+Boston Terrier,3,20,Blue,Female
+Airedale Terrier,3,15,Red,Male
+French Bulldog,13,23,White,Male
+Miniature Schnauzer,8,45,Blue,Male
+Shih Tzu,12,32,Bicolor,Female
+Chinese Shar-Pei,11,56,Merle,Female
+Rottweiler,10,47,Bicolor,Female
+Schnauzer,11,43,Sable,Male
+Chesapeake Bay Retriever,7,19,Sable,Male
+Miniature Schnauzer,10,52,Cream,Female
+Siberian Husky,7,22,Gray,Female
+Jack Russell Terrier,1,46,Spotted,Female
+Bichon Frise,3,49,Blue,Female
+Bull Terrier,2,8,Sable,Female
+Akita,11,53,Bicolor,Male
+Rottweiler,5,58,Merle,Female
+Cavalier King Charles Spaniel,7,30,Cream,Female
+Samoyed,4,29,Gray,Male
+Pug,9,49,Red,Female
+German Shepherd,12,36,Sable,Female
+Maltese,12,28,Black,Female
+Pug,13,20,Black and White,Male
+Samoyed,8,26,Gray,Female
+Bichon Frise,6,34,Tan,Female
+Vizsla,10,27,Bicolor,Male
+Whippet,1,29,Gray,Male
+Maltese,12,8,Sable,Male
+Lhasa Apso,3,14,Spotted,Male
+Siberian Husky,14,43,Merle,Male
+Bulldog,2,5,Merle,Male
+Lhasa Apso,1,20,Cream,Male
+Chinese Shar-Pei,12,49,White,Female
+Irish Setter,6,46,Tricolor,Female
+Basenji,12,19,Tan,Female
+Chihuahua,10,10,Brown,Female
+Rottweiler,8,22,Tricolor,Male
+Dachshund,11,46,Blue,Male
+Bichon Frise,4,8,Tricolor,Female
+Chihuahua,5,53,Brindle,Female
+Bloodhound,5,24,Black,Male
+Shih Tzu,8,23,Black and White,Female
+Bulldog,14,48,Cream,Female
+Pomeranian,2,54,Red,Male
+Australian Shepherd,8,54,Blue,Male
+Pekingese,8,6,Brown,Male
+Chihuahua,9,12,Black and White,Female
+West Highland White Terrier,10,13,Blue,Female
+Bernese Mountain Dog,6,36,Cream,Female
+Pembroke Welsh Corgi,7,19,Sable,Female
+Schnauzer,2,19,Gray,Male
+Bichon Frise,1,25,Blue,Male
+Pomeranian,1,23,Bicolor,Male
+Irish Setter,1,52,Black and Tan,Female
+Alaskan Malamute,3,40,Black and White,Male
+Boston Terrier,4,49,Spotted,Male
+Golden Retriever,2,45,Black and Tan,Male
+Bernese Mountain Dog,7,44,Brindle,Female
+Labrador Retriever,5,36,Merle,Male
+Schnauzer,1,6,Gray,Male
+Irish Setter,9,31,Red,Male
+Beagle,9,29,Bicolor,Female
+Miniature Schnauzer,7,43,Black,Female
+Pomeranian,12,46,Gray,Male
+Irish Setter,5,36,Blue,Male
+Bernese Mountain Dog,6,16,White,Male
+Shih Tzu,6,53,Bicolor,Female
+Siberian Husky,8,40,White,Female
+Vizsla,8,16,Red,Male
+Cocker Spaniel,10,54,Merle,Female
+Schnauzer,4,52,Blue,Male
+Great Dane,11,54,Black and Tan,Male
+Cocker Spaniel,6,54,Red,Male
+Basenji,6,55,Brindle,Male
+Basenji,5,52,Brindle,Male
+Bernese Mountain Dog,13,55,Black and Tan,Male
+Jack Russell Terrier,11,50,Merle,Female
+Pekingese,10,34,Black and Tan,Female
+Great Dane,13,41,Gray,Female
+Papillon,1,55,Bicolor,Male
+West Highland White Terrier,10,15,Blue,Female
+Dachshund,6,47,White,Male
+Boston Terrier,14,31,Black and Tan,Male
+Doberman Pinscher,12,16,Red,Male
+Labrador Retriever,7,46,Black and Tan,Male
+Bull Terrier,11,12,White,Female
+Bloodhound,8,57,Black and Tan,Female
+Akita,1,37,Merle,Female
+German Shepherd,9,32,Brindle,Female
+Lhasa Apso,1,12,White,Female
+Pomeranian,12,25,Tan,Female
+Samoyed,8,22,Black,Male
+Rottweiler,9,15,Black and White,Female
+Pomeranian,13,33,Brown,Female
+Bull Terrier,9,11,Spotted,Female
+Great Dane,10,33,Sable,Male
+German Shepherd,5,21,Red,Female
+Shetland Sheepdog,1,9,Merle,Male
+Golden Retriever,14,10,Gray,Male
+Shiba Inu,4,29,Merle,Female
+Whippet,7,49,Tricolor,Female
+Beagle,9,59,White,Male
+Bloodhound,4,53,Brown,Male
+Saint Bernard,5,37,Tan,Female
+Dogo Argentino,5,51,Cream,Female
+Weimaraner,13,17,Blue,Female
+Havanese,5,6,Brindle,Male
+Chinese Shar-Pei,12,52,Tricolor,Female
+Miniature Schnauzer,2,17,Cream,Female
+Bloodhound,12,30,Black and White,Female
+Bernese Mountain Dog,4,5,White,Male
+Irish Setter,9,10,Black,Female
+Australian Shepherd,9,17,Black,Male
+Rottweiler,4,35,Sable,Female
+Bichon Frise,3,45,Bicolor,Male
+Shetland Sheepdog,2,22,White,Female
+German Shepherd,13,33,Spotted,Male
+Boxer,5,57,Spotted,Female
+Chinese Shar-Pei,8,33,Tricolor,Male
+Doberman Pinscher,7,16,Brindle,Male
+Pembroke Welsh Corgi,13,34,Spotted,Male
+Labrador Retriever,9,6,Red,Female
+French Bulldog,1,45,Red,Female
+Weimaraner,2,5,Black,Female
+Boston Terrier,14,49,Gray,Female
+Cocker Spaniel,2,55,Gray,Female
+Jack Russell Terrier,4,32,Tan,Female
+Poodle,8,20,Blue,Male
+Boston Terrier,9,48,Red,Female
+Bulldog,5,57,Red,Female
+Belgian Malinois,7,21,Tricolor,Female
+Pug,12,31,Gray,Female
+Pug,11,18,Brown,Female
+Poodle,3,30,Black and White,Male
+Shiba Inu,14,46,Black and Tan,Female
+Pomeranian,7,28,Brown,Male
+French Bulldog,10,12,Brown,Male
+Yorkshire Terrier,1,24,Gray,Male
+Great Dane,1,43,Spotted,Male
+Belgian Malinois,3,6,Bicolor,Female
+Dachshund,10,48,Bicolor,Male
+Bloodhound,10,45,White,Female
+Great Dane,1,9,Brown,Female
+Schnauzer,6,20,Gray,Female
+Airedale Terrier,1,26,Gray,Female
+Pembroke Welsh Corgi,11,24,Spotted,Female
+Akita,14,33,Brown,Male
+Bichon Frise,5,38,Red,Male
+Rottweiler,8,15,Spotted,Male
+Rottweiler,8,29,Tan,Female
+Bull Terrier,2,30,Brown,Female
+Bloodhound,9,58,White,Female
+Poodle,7,12,Red,Female
+Boxer,14,25,Black,Female
+Maltese,6,40,Bicolor,Female
+Siberian Husky,2,28,Spotted,Female
+Basenji,6,19,Sable,Female
+Chesapeake Bay Retriever,5,20,Gray,Female
+Chihuahua,3,9,Gray,Female
+Samoyed,7,48,Merle,Male
+Australian Shepherd,13,41,Brindle,Female
+Bulldog,11,35,Sable,Male
+Pomeranian,2,37,Gray,Male
+Papillon,12,44,Merle,Male
+Golden Retriever,2,47,Black and Tan,Male
+Rottweiler,12,26,Tan,Female
+Samoyed,8,56,Tricolor,Male
+Yorkshire Terrier,14,6,Tricolor,Female
+Poodle,10,55,Black and Tan,Male
+Bull Terrier,6,28,Sable,Female
+Australian Shepherd,5,5,Brown,Male
+Australian Shepherd,11,19,Sable,Male
+Belgian Malinois,2,32,White,Female
+Bernese Mountain Dog,6,57,Sable,Female
+Pomeranian,8,18,Sable,Male
+Bernese Mountain Dog,9,42,Brindle,Male
+Bernese Mountain Dog,3,57,Tan,Female
+Cocker Spaniel,5,39,Tricolor,Female
+Pekingese,10,17,Brindle,Female
+Boxer,8,7,Red,Female
+Pembroke Welsh Corgi,14,55,Black and White,Female
+Saint Bernard,3,38,Spotted,Female
+Border Collie,9,19,Bicolor,Female
+Bull Terrier,3,22,Tan,Female
+Miniature Schnauzer,2,46,Blue,Female
+Yorkshire Terrier,9,49,Black and Tan,Male
+German Shepherd,8,12,Tricolor,Female
+Saint Bernard,2,32,Brindle,Female
+Whippet,4,28,Black and White,Male
+Rottweiler,11,40,Bicolor,Female
+Irish Setter,6,52,Red,Male
+Dachshund,9,6,Blue,Male
+Dachshund,2,12,Tricolor,Female
+Maltese,4,16,Black and Tan,Male
+Schnauzer,10,44,Tan,Male
+Alaskan Malamute,2,15,Spotted,Female
+Bichon Frise,11,13,Black and Tan,Male
+Shih Tzu,3,19,Merle,Male
+Chihuahua,8,34,Brindle,Male
+Poodle,12,36,Tricolor,Female
+Havanese,6,31,Brindle,Female
+West Highland White Terrier,11,56,Gray,Female
+Bull Terrier,9,46,Black and Tan,Female
+Rottweiler,6,21,Tan,Male
+Vizsla,4,46,Blue,Male
+Bloodhound,3,50,Sable,Female
+Pembroke Welsh Corgi,6,36,Merle,Male
+Dogo Argentino,5,31,Sable,Male
+Alaskan Malamute,9,58,Blue,Male
+Maltese,2,42,Black,Female
+Doberman Pinscher,1,10,Sable,Male
+Shetland Sheepdog,9,18,Sable,Male
+Cavalier King Charles Spaniel,14,14,Gray,Male
+Miniature Schnauzer,9,26,Brown,Male
+Bernese Mountain Dog,5,7,Brindle,Female
+Pekingese,1,52,Merle,Male
+Vizsla,5,37,Black and Tan,Male
+Rottweiler,13,9,Spotted,Male
+Basenji,3,45,Black and Tan,Male
+Rottweiler,8,11,Sable,Female
+West Highland White Terrier,5,6,Brown,Male
+Schnauzer,5,58,Brindle,Male
+Bull Terrier,6,59,Black and Tan,Female
+Pembroke Welsh Corgi,14,44,White,Male
+Dogo Argentino,7,57,Spotted,Male
+Chihuahua,4,47,Merle,Male
+Shiba Inu,13,17,Blue,Male
+German Shepherd,14,50,Blue,Male
+Dogo Argentino,8,27,Tan,Male
+German Shepherd,1,45,Cream,Female
+Weimaraner,10,17,Brown,Male
+Bernese Mountain Dog,5,21,Tricolor,Male
+Siberian Husky,5,8,Brindle,Female
+Yorkshire Terrier,11,27,Blue,Male
+Whippet,6,29,Tricolor,Female
+Siberian Husky,11,10,Brown,Male
+Maltese,9,25,Brindle,Female
+Cocker Spaniel,12,15,Black,Female
+French Bulldog,6,45,Red,Male
+Dachshund,13,30,Sable,Male
+Rottweiler,7,31,Black,Female
+Papillon,2,30,Blue,Male
+Great Dane,5,35,Merle,Female
+Chihuahua,14,30,Black and White,Male
+Yorkshire Terrier,12,10,Sable,Female
+Irish Setter,6,32,Bicolor,Female
+Saint Bernard,4,5,Black and Tan,Female
+Saint Bernard,14,38,Brown,Female
+Doberman Pinscher,10,7,Bicolor,Male
+Havanese,7,14,Tricolor,Female
+Dogo Argentino,9,19,Black and Tan,Male
+Dogo Argentino,8,44,Gray,Female
+Siberian Husky,5,28,White,Male
+Samoyed,13,48,Bicolor,Male
+Rottweiler,11,57,Black and White,Female
+Jack Russell Terrier,8,10,Black,Male
+Irish Setter,9,39,White,Female
+Bull Terrier,2,36,Merle,Female
+Cavalier King Charles Spaniel,5,7,Tricolor,Female
+Cocker Spaniel,6,41,Merle,Female
+West Highland White Terrier,6,19,Black and Tan,Male
+Samoyed,14,32,Black and White,Female
+Whippet,4,32,Sable,Male
+German Shepherd,9,5,Gray,Male
+Alaskan Malamute,4,26,White,Male
+Miniature Schnauzer,6,47,Tricolor,Male
+Chihuahua,4,42,Blue,Male
+Bernese Mountain Dog,5,22,Blue,Male
+Vizsla,7,13,Merle,Male
+Yorkshire Terrier,2,13,Sable,Male
+Whippet,10,50,Brown,Male
+Akita,10,18,Black and White,Male
+Border Collie,13,25,White,Male
+Pembroke Welsh Corgi,8,53,Black and White,Female
+Airedale Terrier,7,26,Cream,Male
+Pembroke Welsh Corgi,6,28,Brown,Male
+Basenji,3,6,Brindle,Male
+Weimaraner,10,43,Tan,Male
+Rottweiler,12,51,White,Male
+Siberian Husky,4,16,Red,Female
+Doberman Pinscher,6,29,Black and Tan,Female
+Schnauzer,11,34,Black and White,Male
+Dachshund,9,36,Merle,Female
+Lhasa Apso,13,26,Blue,Female
+Dachshund,13,33,White,Female
+Pembroke Welsh Corgi,4,17,Merle,Female
+Pekingese,2,33,Merle,Male
+Akita,10,45,Tricolor,Male
+Dachshund,7,6,Black,Female
+Siberian Husky,11,36,Brown,Male
+Rottweiler,8,59,Black,Male
+Bull Terrier,9,15,Black,Female
+Lhasa Apso,2,33,White,Male
+Dachshund,10,53,Merle,Male
+Golden Retriever,8,47,Black and White,Male
+Jack Russell Terrier,4,42,Brindle,Male
+Pembroke Welsh Corgi,14,26,Gray,Female
+Irish Setter,8,16,Tricolor,Female
+Chinese Shar-Pei,10,56,Brindle,Female
+Papillon,5,9,Gray,Female
+Belgian Malinois,2,43,Sable,Male
+Bichon Frise,2,49,Black and Tan,Female
+French Bulldog,9,19,Bicolor,Male
+Pug,13,58,Merle,Female
+Labrador Retriever,11,40,Sable,Female
+Shih Tzu,13,44,Brown,Female
+Bloodhound,3,47,Brindle,Female
+Bulldog,1,36,Gray,Female
+French Bulldog,9,48,Cream,Male
+Cocker Spaniel,6,13,Tricolor,Female
+Doberman Pinscher,6,27,Gray,Female
+Pug,4,44,White,Female
+Rottweiler,1,45,Merle,Female
+Maltese,2,39,Blue,Male
+Pembroke Welsh Corgi,8,40,Cream,Female
+Pomeranian,5,57,Cream,Female
+Bichon Frise,11,41,Red,Female
+Golden Retriever,5,57,Cream,Female
+Yorkshire Terrier,5,36,Black,Male
+Yorkshire Terrier,13,41,Gray,Male
+Bernese Mountain Dog,13,54,Bicolor,Female
+Bloodhound,5,23,Tan,Male
+Papillon,6,58,Tricolor,Male
+Chesapeake Bay Retriever,7,18,Red,Male
+Maltese,9,59,Bicolor,Female
+Shetland Sheepdog,14,59,Black and Tan,Female
+Bulldog,5,52,Merle,Female
+Schnauzer,5,16,Merle,Female
+Chinese Shar-Pei,11,48,Sable,Male
+Pembroke Welsh Corgi,13,55,Black and White,Male
+Vizsla,8,26,Spotted,Female
+Rottweiler,8,5,Black and White,Male
+Pomeranian,5,46,Brown,Male
+West Highland White Terrier,6,22,Black and Tan,Male
+Schnauzer,8,22,Merle,Female
+Boxer,5,38,Black and Tan,Male
+Chinese Shar-Pei,10,45,Cream,Male
+Chinese Shar-Pei,6,40,Black,Male
+Miniature Schnauzer,10,40,Tricolor,Male
+Havanese,2,39,Tricolor,Female
+Cocker Spaniel,5,32,Brown,Female
+Bernese Mountain Dog,1,40,Cream,Male
+Poodle,2,56,Blue,Male
+Bernese Mountain Dog,4,37,Red,Male
+Samoyed,10,29,White,Male
+Jack Russell Terrier,3,14,White,Male
+Maltese,1,32,Black,Male
+Chinese Shar-Pei,8,50,Black and Tan,Male
+Airedale Terrier,14,31,White,Female
+Border Collie,11,18,Gray,Female
+Dogo Argentino,3,41,Black and Tan,Male
+Alaskan Malamute,10,47,White,Male
+Shiba Inu,11,29,Bicolor,Male
+Cavalier King Charles Spaniel,11,53,Sable,Female
+Chihuahua,1,56,Black and White,Male
+Rottweiler,2,33,Black,Male
+Shiba Inu,9,53,Spotted,Female
+German Shepherd,13,40,Tan,Female
+Jack Russell Terrier,2,36,Tricolor,Male
+Samoyed,11,37,Blue,Female
+Alaskan Malamute,14,49,Spotted,Male
+Border Collie,2,31,Bicolor,Female
+Australian Shepherd,6,13,Spotted,Male
+Bulldog,10,22,Gray,Male
+Dachshund,7,52,Merle,Male
+Shetland Sheepdog,13,27,White,Female
+Bull Terrier,7,34,Black and Tan,Male
+West Highland White Terrier,9,5,Gray,Female
+Alaskan Malamute,2,51,Sable,Male
+Cavalier King Charles Spaniel,6,11,Spotted,Male
+Pomeranian,10,20,Black and Tan,Male
+Labrador Retriever,6,26,Cream,Female
+Doberman Pinscher,7,23,Gray,Male
+Siberian Husky,12,8,Sable,Male
+Bichon Frise,10,58,Brown,Male
+Alaskan Malamute,1,56,Red,Male
+Jack Russell Terrier,4,28,Sable,Male
+Pomeranian,14,16,Gray,Male
+Schnauzer,11,59,Spotted,Male
+Papillon,8,5,Brown,Female
+Akita,3,41,Sable,Male
+Akita,10,29,Brindle,Male
+West Highland White Terrier,1,9,Merle,Female
+Bulldog,10,46,Brown,Female
+Weimaraner,11,39,Tricolor,Male
+Cocker Spaniel,10,7,Black and Tan,Male
+Airedale Terrier,10,13,Sable,Female
+Doberman Pinscher,8,40,Black and White,Female
+Lhasa Apso,11,47,Merle,Female
+Jack Russell Terrier,8,9,Cream,Female
+Beagle,7,8,Brindle,Male
+Beagle,11,41,Blue,Male
+Lhasa Apso,12,7,Black and Tan,Female
+Boxer,8,17,Sable,Female
+Great Dane,12,30,Spotted,Male
+Shih Tzu,1,29,Blue,Male
+Boxer,14,38,Red,Male
+Shetland Sheepdog,7,52,Bicolor,Female
+Golden Retriever,14,53,Black and White,Male
+Boxer,1,49,Blue,Female
+Irish Setter,3,40,Blue,Male
+Weimaraner,7,40,Black,Female
+Great Dane,9,14,White,Male
+Papillon,9,52,Tricolor,Male
+Labrador Retriever,7,9,Tricolor,Male
+Dachshund,4,16,Black and White,Male
+Shih Tzu,3,45,Merle,Female
+Alaskan Malamute,4,31,Merle,Male
+Golden Retriever,2,14,Red,Female
+Vizsla,11,30,Blue,Female
+Rottweiler,5,14,Spotted,Male
+Havanese,1,33,Brindle,Male
+Cavalier King Charles Spaniel,9,30,Brown,Male
+Doberman Pinscher,3,50,Blue,Male
+French Bulldog,7,9,Black and Tan,Female
+Jack Russell Terrier,8,35,Blue,Male
+Akita,13,52,Spotted,Male
+Pug,14,38,Red,Male
+Chinese Shar-Pei,11,58,Tan,Male
+Miniature Schnauzer,8,34,Cream,Male
+Whippet,9,34,Black and White,Male
+West Highland White Terrier,14,25,Bicolor,Female
+Miniature Schnauzer,1,58,Black,Male
+Great Dane,3,21,Brindle,Male
+Saint Bernard,14,36,Black,Female
+Dogo Argentino,2,43,Merle,Female
+Border Collie,7,6,White,Female
+Rottweiler,4,6,Blue,Male
+Bull Terrier,11,50,Tan,Male
+West Highland White Terrier,7,35,Cream,Male
+Irish Setter,8,46,Sable,Female
+Poodle,10,57,Tricolor,Male
+Great Dane,5,42,Tricolor,Male
+Alaskan Malamute,1,47,Merle,Female
+Cocker Spaniel,9,6,Gray,Male
+Dachshund,3,10,Black,Female
+Dachshund,13,19,Black and Tan,Female
+Boxer,11,14,Tan,Female
+Bichon Frise,4,26,Tan,Female
+Saint Bernard,3,8,Brindle,Male
+Pembroke Welsh Corgi,9,35,Cream,Female
+Shiba Inu,1,28,Black,Male
+Bloodhound,7,22,Brindle,Female
+Schnauzer,14,15,Black and White,Male
+Chinese Shar-Pei,7,52,Gray,Female
+Pomeranian,10,53,Black and White,Male
+Bichon Frise,12,11,Merle,Male
+Shetland Sheepdog,6,11,Black,Female
+Chesapeake Bay Retriever,14,26,Bicolor,Male
+Airedale Terrier,14,40,Brown,Male
+Belgian Malinois,10,48,Spotted,Male
+Chinese Shar-Pei,8,32,Gray,Female
+Alaskan Malamute,4,21,Brindle,Male
+Saint Bernard,7,43,Black and Tan,Male
+Belgian Malinois,9,41,White,Male
+Havanese,14,12,Black,Male
+Basenji,6,19,Red,Male
+Papillon,14,42,Cream,Male
+Havanese,3,9,Tan,Female
+Yorkshire Terrier,9,36,Blue,Male
+Belgian Malinois,10,13,White,Male
+Samoyed,2,40,Brown,Female
+Jack Russell Terrier,11,12,Cream,Male
+Australian Shepherd,14,28,Tricolor,Female
+Weimaraner,5,8,Black,Female
+German Shepherd,1,48,Brindle,Male
+Cavalier King Charles Spaniel,10,22,Gray,Female
+Vizsla,13,45,Black,Female
+West Highland White Terrier,5,58,Brindle,Female
+Labrador Retriever,8,32,Blue,Male
+Cocker Spaniel,1,41,Black and Tan,Female
+Beagle,10,41,Cream,Female
+Pekingese,13,22,Brown,Female
+French Bulldog,2,38,Brown,Male
+Schnauzer,5,45,Tan,Female
+Pekingese,1,50,Cream,Female
+Pug,1,45,Brown,Female
+French Bulldog,10,24,Black and Tan,Male
+Border Collie,1,36,Brown,Female
+Beagle,4,55,Red,Female
+Belgian Malinois,9,27,Blue,Male
+Vizsla,7,8,Spotted,Male
+Pembroke Welsh Corgi,3,49,Cream,Male
+Doberman Pinscher,1,5,Black,Male
+Alaskan Malamute,10,37,Blue,Female
+French Bulldog,7,10,Bicolor,Male
+Boston Terrier,6,45,Black,Male
+Bichon Frise,13,12,Sable,Male
+Great Dane,7,10,Black and White,Female
+Chihuahua,12,20,Blue,Female
+Chihuahua,10,50,Black,Male
+Pug,2,29,Merle,Female
+Saint Bernard,5,47,Sable,Male
+Dogo Argentino,5,16,Merle,Female
+Bloodhound,3,5,Gray,Female
+Alaskan Malamute,10,38,Red,Female
+Bichon Frise,12,39,Red,Female
+Bloodhound,11,37,Red,Female
+Havanese,3,51,Black,Male
+Boston Terrier,12,7,Black and Tan,Male
+Havanese,13,36,Black and Tan,Male
+Akita,5,21,Black and White,Female
+Shiba Inu,10,11,Tan,Female
+German Shepherd,11,15,Black and White,Male
+Pomeranian,4,27,Sable,Male
+Shetland Sheepdog,4,59,Bicolor,Male
+Bulldog,7,19,Brown,Female
+Samoyed,12,40,Sable,Male
+Basenji,11,57,Spotted,Female
+Bull Terrier,1,8,Gray,Female
+Maltese,9,47,Black and Tan,Male
+Pomeranian,10,53,Brindle,Male
+Doberman Pinscher,6,56,Black and White,Male
+Papillon,11,43,Brindle,Female
+Border Collie,6,47,Brown,Female
+Yorkshire Terrier,3,27,Tricolor,Female
+Poodle,1,50,Gray,Male
+Chesapeake Bay Retriever,5,50,Blue,Male
+Pomeranian,1,59,Black,Female
+Miniature Schnauzer,6,42,Black,Male
+Dachshund,3,21,White,Female
+Pekingese,14,38,Sable,Male
+Pembroke Welsh Corgi,4,25,Bicolor,Male
+Cavalier King Charles Spaniel,3,44,Spotted,Male
+Rottweiler,10,39,Gray,Male
+Cavalier King Charles Spaniel,9,47,Merle,Male
+West Highland White Terrier,10,59,Spotted,Female
+Shetland Sheepdog,1,37,Black and Tan,Female
+Rottweiler,7,38,Black and Tan,Male
+Bernese Mountain Dog,1,54,White,Female
+Airedale Terrier,10,53,Black and White,Female
+Cocker Spaniel,2,54,Spotted,Male
+Bernese Mountain Dog,4,36,Tan,Male
+Samoyed,6,26,Blue,Female
+West Highland White Terrier,2,5,Blue,Male
+French Bulldog,13,27,Sable,Male
+Papillon,3,22,Tricolor,Female
+Boston Terrier,14,5,Tan,Female
+Rottweiler,12,42,Brindle,Female
+Cocker Spaniel,1,50,Blue,Male
+Vizsla,6,59,Bicolor,Male
+Chesapeake Bay Retriever,7,52,Brown,Female
+Airedale Terrier,13,13,Bicolor,Female
+Bernese Mountain Dog,10,59,Bicolor,Male
+Rottweiler,2,53,Tan,Female
+Vizsla,13,46,Black and White,Male
+Boston Terrier,3,38,Blue,Female
+Akita,7,26,Black and Tan,Male
+Pug,7,42,Spotted,Male
+Samoyed,13,37,Tricolor,Female
+Basenji,8,21,Black and Tan,Male
+Bull Terrier,1,22,Black,Male
+Chesapeake Bay Retriever,6,31,Brindle,Male
+Chesapeake Bay Retriever,5,10,Blue,Female
+German Shepherd,8,48,Black,Female
+Boxer,14,27,Sable,Female
+Havanese,12,9,Black,Female
+Bulldog,5,14,Black,Female
+Maltese,7,26,Brindle,Female
+Beagle,7,48,Brindle,Female
+Chesapeake Bay Retriever,13,26,Spotted,Female
+Whippet,9,30,Black and Tan,Male
+Maltese,7,20,Sable,Female
+Papillon,1,38,Bicolor,Male
+Dachshund,3,55,Merle,Female
+Pekingese,1,29,Red,Male
+Jack Russell Terrier,1,10,Tricolor,Male
+Great Dane,9,11,Red,Female
+Maltese,13,18,Blue,Male
+French Bulldog,5,32,Black,Male
+Miniature Schnauzer,1,17,Red,Female
+Shetland Sheepdog,2,7,Black and White,Male
+Beagle,1,25,Brown,Male
+Boston Terrier,9,59,Gray,Female
+Shetland Sheepdog,6,5,White,Male
+Bichon Frise,3,24,Spotted,Female
+Border Collie,9,40,Cream,Female
+Bernese Mountain Dog,1,27,Red,Female
+Labrador Retriever,6,24,Merle,Male
+Irish Setter,11,6,Spotted,Female
+French Bulldog,1,35,Black and White,Female
+Dogo Argentino,9,50,Black and White,Male
+Vizsla,12,40,Brown,Female
+Rottweiler,6,17,Tricolor,Female
+Pug,7,56,Cream,Female
+Pembroke Welsh Corgi,11,56,Tan,Male
+Pembroke Welsh Corgi,11,30,Spotted,Male
+Airedale Terrier,12,54,Tricolor,Male
+Golden Retriever,11,22,Bicolor,Female
+Poodle,14,21,Tan,Male
+Doberman Pinscher,10,20,Merle,Female
+Chihuahua,5,59,Black and Tan,Male
+Poodle,5,30,Cream,Female
+Chihuahua,14,20,Tricolor,Female
+Doberman Pinscher,3,45,Sable,Male
+Belgian Malinois,5,32,Tricolor,Male
+Irish Setter,1,15,Merle,Male
+Airedale Terrier,9,13,Merle,Female
+Cavalier King Charles Spaniel,2,54,White,Male
+Akita,8,29,Spotted,Female
+French Bulldog,12,25,Brindle,Female
+Labrador Retriever,14,49,Gray,Female
+Pekingese,5,20,Tan,Female
+Airedale Terrier,2,35,Merle,Female
+Airedale Terrier,13,56,Gray,Male
+Airedale Terrier,1,30,Black and Tan,Male
+Chinese Shar-Pei,10,41,White,Male
+Labrador Retriever,6,14,Merle,Male
+Doberman Pinscher,2,51,Black,Female
+Pekingese,12,36,White,Male
+Bichon Frise,9,40,Black,Male
+Akita,2,14,Black,Male
+Whippet,7,14,Black and White,Male
+Chinese Shar-Pei,1,21,Brindle,Female
+Weimaraner,1,44,Merle,Male
+Shetland Sheepdog,3,18,Black and White,Male
+Cavalier King Charles Spaniel,11,38,Gray,Male
+Vizsla,12,53,Brindle,Male
+Doberman Pinscher,1,45,Bicolor,Male
+Bloodhound,8,38,Brown,Male
+Australian Shepherd,3,52,Black and White,Male
+German Shepherd,8,58,Black and White,Female
+Australian Shepherd,6,48,Black,Male
+Belgian Malinois,14,50,Cream,Male
+Pomeranian,5,24,Gray,Female
+Samoyed,1,17,Black and Tan,Female
+Doberman Pinscher,8,14,Gray,Male
+Airedale Terrier,10,46,Brown,Female
+Dogo Argentino,9,21,Blue,Male
+Pomeranian,2,40,Black and Tan,Male
+Shih Tzu,4,10,Merle,Female
+Whippet,3,42,Cream,Male
+Jack Russell Terrier,13,38,Red,Male
+Golden Retriever,3,40,Red,Female
+Pembroke Welsh Corgi,6,10,Cream,Female
+Boxer,8,31,Cream,Female
+Whippet,2,34,Black and White,Male
+Basenji,6,54,Black and White,Female
+Chinese Shar-Pei,4,37,Black,Male
+Jack Russell Terrier,10,51,Red,Male
+Bulldog,6,17,Tricolor,Female
+Dachshund,12,40,Brindle,Male
+Rottweiler,7,48,Sable,Female
+Beagle,14,50,Bicolor,Male
+Airedale Terrier,4,9,Spotted,Female
+Yorkshire Terrier,7,47,Blue,Female
+Yorkshire Terrier,8,10,Spotted,Male
+Yorkshire Terrier,6,46,Sable,Female
+Airedale Terrier,13,30,Merle,Female
+Vizsla,7,30,Black and White,Female
+Miniature Schnauzer,13,59,Merle,Male
+Golden Retriever,11,58,Bicolor,Male
+Poodle,13,8,Blue,Female
+Pekingese,10,49,Sable,Female
+Vizsla,10,32,Black,Male
+Weimaraner,6,30,Blue,Male
+West Highland White Terrier,8,49,Red,Male
+Pekingese,6,54,Spotted,Male
+Bichon Frise,4,46,Bicolor,Female
+Doberman Pinscher,11,23,Black and Tan,Male
+Pembroke Welsh Corgi,14,15,Gray,Male
+Rottweiler,11,31,Black and Tan,Male
+Yorkshire Terrier,11,25,Black and White,Male
+Maltese,4,37,Black and Tan,Male
+French Bulldog,5,17,Black,Male
+Lhasa Apso,1,22,Black,Female
+Pembroke Welsh Corgi,2,34,Sable,Male
+Whippet,4,14,Red,Male
+Australian Shepherd,10,10,Brindle,Male
+French Bulldog,13,7,Black,Male
+Weimaraner,13,6,Red,Female
+Bull Terrier,4,40,Bicolor,Female
+Shetland Sheepdog,4,24,Brown,Male
+Pekingese,9,44,Sable,Male
+Dogo Argentino,11,25,Brown,Male
+French Bulldog,9,42,Black,Female
+Pembroke Welsh Corgi,4,59,Cream,Male
+Australian Shepherd,9,16,Black and White,Male
+Samoyed,14,23,Sable,Male
+Border Collie,14,39,Tricolor,Male
+Australian Shepherd,14,59,Cream,Male
+Chesapeake Bay Retriever,10,30,Red,Female
+Pembroke Welsh Corgi,13,23,Brown,Female
+Poodle,5,47,Sable,Female
+Cavalier King Charles Spaniel,1,48,White,Male
+Bulldog,14,50,Merle,Female
+Shiba Inu,11,53,Brindle,Female
+Vizsla,7,14,Gray,Female
+Alaskan Malamute,12,57,Black and Tan,Male
+Samoyed,13,32,Tan,Female
+Pekingese,9,28,Tricolor,Male
+Bichon Frise,7,6,Sable,Female
+Bull Terrier,4,59,Bicolor,Female
+Bichon Frise,13,24,Merle,Male
+Pekingese,14,11,Sable,Male
+Yorkshire Terrier,9,33,Tricolor,Female
+Pembroke Welsh Corgi,12,33,Red,Female
+Chesapeake Bay Retriever,3,34,Black and White,Male
+Chihuahua,9,36,Brindle,Male
+Bloodhound,9,21,Brindle,Male
+Pembroke Welsh Corgi,9,54,Gray,Male
+Dachshund,13,42,Gray,Female
+Bernese Mountain Dog,3,52,Tan,Male
+Shiba Inu,6,44,Merle,Female
+Whippet,11,41,Brindle,Male
+Basenji,7,48,Brindle,Female
+Beagle,6,36,Spotted,Female
+Cavalier King Charles Spaniel,9,6,Merle,Female
+Pomeranian,6,29,Tricolor,Female
+Pembroke Welsh Corgi,9,39,Tan,Female
+Saint Bernard,3,41,Tan,Male
+Boston Terrier,12,47,Black and Tan,Male
+Bulldog,1,16,Tan,Male
+Bulldog,3,32,Cream,Male
+Rottweiler,13,54,Merle,Female
+Papillon,11,36,Brown,Female
+Pekingese,12,45,Spotted,Male
+Bichon Frise,1,5,Cream,Female
+Jack Russell Terrier,14,8,Red,Male
+Cocker Spaniel,3,7,Gray,Male
+Basenji,10,7,Cream,Male
+Border Collie,1,50,Gray,Male
+Border Collie,9,22,Blue,Male
+Boxer,10,17,Black,Male
+Whippet,1,57,Blue,Male
+Schnauzer,5,44,Black and White,Male
+Cavalier King Charles Spaniel,5,46,Blue,Male
+Doberman Pinscher,4,28,Brown,Male
+Rottweiler,6,11,Cream,Female
+Chinese Shar-Pei,12,27,Tan,Female
+Saint Bernard,3,56,Black and White,Male
+Boxer,11,19,Cream,Male
+Great Dane,5,50,Black and Tan,Male
+Jack Russell Terrier,1,5,Spotted,Female
+Lhasa Apso,14,25,Brown,Female
+Rottweiler,6,41,Gray,Male
+Dogo Argentino,10,37,Brown,Male
+French Bulldog,6,41,Black and Tan,Female
+Rottweiler,13,23,Brindle,Male
+Yorkshire Terrier,12,55,Black,Male
+Vizsla,8,40,Brindle,Male
+Poodle,12,30,Tricolor,Female
+Chesapeake Bay Retriever,12,35,Gray,Male
+Great Dane,14,36,Blue,Female
+Irish Setter,8,20,Bicolor,Male
+Bloodhound,14,29,Bicolor,Female
+Rottweiler,2,27,Brindle,Female
+Yorkshire Terrier,12,7,Merle,Female
+German Shepherd,12,28,Bicolor,Female
+Golden Retriever,3,38,White,Female
+Pug,9,58,Sable,Female
+Golden Retriever,14,47,Black and Tan,Male
+Pembroke Welsh Corgi,8,57,Red,Female
+Schnauzer,9,13,Black,Male
+Dachshund,2,46,Black and White,Male
+Boston Terrier,4,52,Cream,Male
+Weimaraner,3,50,Brown,Male
+Chihuahua,9,20,Black and White,Male
+Papillon,8,24,Sable,Female
+Rottweiler,2,19,Brown,Female
+Pekingese,11,43,Cream,Female
+Poodle,12,42,Black and Tan,Female
+Chihuahua,10,40,Black,Male
+Whippet,14,16,Brown,Female
+Irish Setter,7,43,Bicolor,Male
+Australian Shepherd,11,33,Sable,Male
+Chinese Shar-Pei,1,40,Black and White,Male
+Shiba Inu,13,47,Brindle,Female
+Havanese,9,36,Merle,Female
+Bichon Frise,5,50,Spotted,Male
+Beagle,7,22,Sable,Male
+Boxer,7,46,White,Female
+German Shepherd,2,19,Black and White,Male
+Pembroke Welsh Corgi,11,45,Blue,Male
+Havanese,11,55,Black,Female
+Beagle,11,40,Sable,Female
+Basenji,4,42,Cream,Female
+Weimaraner,1,36,Merle,Female
+Siberian Husky,13,39,Cream,Female
+Saint Bernard,12,51,Brindle,Female
+Poodle,8,36,Tan,Female
+Siberian Husky,2,24,Tan,Female
+Miniature Schnauzer,8,24,Cream,Female
+Labrador Retriever,2,42,White,Female
+German Shepherd,6,28,Gray,Female
+Boston Terrier,6,17,Cream,Male
+Shih Tzu,12,51,Brown,Male
+Border Collie,7,21,Tricolor,Female
+Lhasa Apso,14,38,Cream,Male
+Alaskan Malamute,8,35,Tricolor,Male
+Shetland Sheepdog,13,32,Brown,Male
+Chihuahua,10,43,Brown,Male
+Shih Tzu,14,8,Tan,Male
+Basenji,14,27,Brown,Female
+French Bulldog,14,6,Sable,Male
+Belgian Malinois,8,19,Sable,Female
+Doberman Pinscher,9,32,White,Female
+Poodle,10,5,Black,Female
+Border Collie,5,48,Red,Female
+Bichon Frise,6,14,White,Male
+Alaskan Malamute,9,40,Gray,Male
+Samoyed,12,19,Red,Male
+Belgian Malinois,7,37,Spotted,Male
+Shih Tzu,13,31,White,Female
+Samoyed,9,17,White,Female
+Lhasa Apso,6,57,White,Male
+Doberman Pinscher,9,50,Red,Male
+Pomeranian,9,19,Gray,Male
+Schnauzer,5,24,Bicolor,Female
+Bernese Mountain Dog,6,34,Spotted,Female
+Great Dane,3,56,Black and White,Male
+Shih Tzu,2,59,Cream,Female
+Rottweiler,11,22,Brindle,Male
+Border Collie,14,11,Blue,Male
+Doberman Pinscher,2,52,Brindle,Female
+Bulldog,8,38,Spotted,Female
+Alaskan Malamute,13,18,Tricolor,Female
+Jack Russell Terrier,10,27,Brindle,Female
+Cavalier King Charles Spaniel,14,48,Blue,Female
+Great Dane,13,5,Blue,Female
+Yorkshire Terrier,8,27,Bicolor,Female
+Bichon Frise,1,51,Bicolor,Female
+Beagle,7,19,Black and White,Female
+Rottweiler,4,41,Brindle,Female
+Dogo Argentino,3,10,Black and Tan,Male
+Border Collie,11,15,Black and White,Male
+Pembroke Welsh Corgi,13,8,White,Male
+Vizsla,2,9,Brown,Male
+Pekingese,2,57,Black,Female
+Rottweiler,12,57,Blue,Male
+Boston Terrier,1,35,Red,Female
+Pekingese,8,10,Blue,Female
+Great Dane,10,16,Cream,Male
+Havanese,8,18,Brindle,Female
+Boxer,10,17,Black and White,Female
+Labrador Retriever,14,12,Black and White,Female
+Bloodhound,1,10,Merle,Male
+Cocker Spaniel,4,15,Gray,Female
+Rottweiler,10,35,Black and White,Male
+Whippet,7,8,Bicolor,Female
+Bloodhound,5,39,Merle,Male
+French Bulldog,9,6,Black and Tan,Male
+Cavalier King Charles Spaniel,2,48,Cream,Female
+Vizsla,12,21,Brown,Male
+Belgian Malinois,11,44,Spotted,Female
+Poodle,5,22,White,Female
+Pug,6,57,Bicolor,Female
+Border Collie,5,51,Black and White,Male
+Schnauzer,13,57,Brown,Male
+Beagle,13,53,Blue,Male
+Bernese Mountain Dog,11,12,Blue,Female
+Pembroke Welsh Corgi,3,23,Gray,Male
+Doberman Pinscher,11,26,Cream,Male
+Schnauzer,11,27,Merle,Male
+Schnauzer,7,35,Merle,Male
+Boston Terrier,4,9,Black and White,Male
+Border Collie,10,36,Black and White,Female
+Bull Terrier,3,8,Brown,Male
+Dogo Argentino,3,54,Bicolor,Female
+Whippet,4,53,Bicolor,Male
+Dachshund,1,14,Tricolor,Female
+Bloodhound,12,14,Spotted,Male
+Bulldog,1,39,Black and White,Female
+Bull Terrier,7,43,Gray,Male
+Australian Shepherd,5,35,Black and White,Male
+Shih Tzu,4,17,Bicolor,Female
+Saint Bernard,13,53,Tricolor,Female
+Bloodhound,1,54,Spotted,Female
+Pembroke Welsh Corgi,12,13,Gray,Male
+Bull Terrier,1,51,Black and White,Female
+Pembroke Welsh Corgi,9,29,Black and Tan,Male
+Lhasa Apso,13,41,Brindle,Male
+Weimaraner,9,14,Black and White,Male
+Miniature Schnauzer,10,11,Brindle,Male
+Pembroke Welsh Corgi,3,13,Black and Tan,Female
+Chinese Shar-Pei,12,22,Spotted,Female
+Akita,5,14,Tricolor,Male
+Pug,11,6,Brindle,Female
+Great Dane,5,41,Tricolor,Male
+Boxer,10,5,Red,Female
+Vizsla,14,46,Tan,Male
+Yorkshire Terrier,11,19,Merle,Female
+Doberman Pinscher,12,59,White,Male
+Lhasa Apso,14,32,Bicolor,Female
+Airedale Terrier,9,31,Black and White,Female
+Great Dane,6,39,Black,Male
+Bernese Mountain Dog,9,10,Red,Male
+Cavalier King Charles Spaniel,3,12,Black,Male
+Vizsla,13,55,Black and White,Male
+Cavalier King Charles Spaniel,7,23,Cream,Female
+Miniature Schnauzer,7,20,Red,Male
+Siberian Husky,12,34,White,Female
+German Shepherd,1,43,Cream,Female
+Bichon Frise,11,21,Blue,Male
+Dachshund,11,55,Brown,Female
+French Bulldog,2,8,Brown,Male
+Pug,6,54,Brindle,Female
+Bichon Frise,4,10,Brindle,Female
+Beagle,4,42,Tan,Male
+Labrador Retriever,5,31,Blue,Female
+Rottweiler,13,39,White,Female
+Bernese Mountain Dog,11,38,Sable,Male
+French Bulldog,2,29,Black and White,Male
+Papillon,3,58,Cream,Male
+Weimaraner,5,47,Gray,Female
+Airedale Terrier,9,39,Brown,Female
+Shetland Sheepdog,2,15,Merle,Female
+Rottweiler,14,7,Brindle,Male
+Yorkshire Terrier,4,6,Red,Female
+Jack Russell Terrier,1,5,Cream,Female
+Bloodhound,8,48,White,Female
+West Highland White Terrier,9,16,Blue,Male
+Chesapeake Bay Retriever,14,59,White,Male
+Weimaraner,12,12,Bicolor,Male
+Bulldog,14,40,Black and Tan,Male
+Bichon Frise,3,22,Blue,Female
+Shih Tzu,2,45,Black,Female
+Shih Tzu,7,13,Sable,Female
+Belgian Malinois,9,42,Black,Male
+Yorkshire Terrier,14,37,Tan,Male
+Beagle,14,6,Bicolor,Female
+Cavalier King Charles Spaniel,3,46,Merle,Female
+Siberian Husky,12,9,Tricolor,Female
+Akita,11,51,Bicolor,Female
+French Bulldog,9,22,Red,Female
+Basenji,2,33,Blue,Male
+Pug,8,36,Black and Tan,Male
+Poodle,10,22,Merle,Male
+Basenji,12,41,Tricolor,Male
+Pekingese,11,5,Merle,Female
+Dogo Argentino,5,50,Spotted,Male
+Pomeranian,10,24,Brindle,Male
+Vizsla,5,30,Cream,Female
+Havanese,11,34,Bicolor,Male
+Weimaraner,3,12,Sable,Female
+Alaskan Malamute,5,31,Gray,Female
+Akita,8,11,Cream,Female
+Beagle,4,36,Red,Female
+Beagle,5,50,Bicolor,Male
+Maltese,8,8,White,Female
+Siberian Husky,1,9,Bicolor,Male
+Doberman Pinscher,5,6,Gray,Female
+Schnauzer,5,17,Tricolor,Male
+Lhasa Apso,12,56,Gray,Female
+Vizsla,9,13,Spotted,Male
+Labrador Retriever,11,38,White,Female
+Dachshund,8,38,Tan,Male
+Rottweiler,9,34,Black,Male
+Airedale Terrier,13,34,White,Female
+Bulldog,6,27,Brindle,Male
+Schnauzer,11,30,Black and Tan,Female
+Dachshund,7,34,Spotted,Female
+Pekingese,12,8,Tan,Male
+Chesapeake Bay Retriever,3,47,Blue,Female
+Belgian Malinois,12,32,Merle,Female
+Lhasa Apso,13,45,Black and White,Male
+Shih Tzu,9,57,Black,Male
+Cocker Spaniel,9,49,Brindle,Male
+Belgian Malinois,9,18,Red,Male
+Siberian Husky,14,31,Brown,Female
+Airedale Terrier,1,49,Gray,Male
+Chinese Shar-Pei,1,29,Blue,Male
+Alaskan Malamute,2,39,White,Male
+Pug,13,53,Spotted,Male
+Whippet,1,30,Brown,Female
+Vizsla,6,42,Black and Tan,Female
+Chihuahua,9,36,Cream,Female
+Weimaraner,12,20,Cream,Male
+Whippet,13,27,Black and White,Female
+Bulldog,4,38,Brindle,Female
+Whippet,1,16,Tricolor,Female
+Jack Russell Terrier,13,43,Brown,Female
+Labrador Retriever,5,43,Black and White,Male
+Rottweiler,13,22,Gray,Female
+Vizsla,3,33,Red,Female
+Pembroke Welsh Corgi,2,48,Black and Tan,Female
+Airedale Terrier,10,25,Tricolor,Male
+Poodle,9,49,Bicolor,Female
+Basenji,10,41,Tricolor,Female
+Irish Setter,5,13,Cream,Female
+Pug,11,52,White,Female
+Pug,2,10,Brown,Male
+Dachshund,7,35,Sable,Female
+Poodle,2,56,Brown,Female
+Havanese,3,52,Merle,Female
+Jack Russell Terrier,4,56,Brindle,Male
+French Bulldog,1,7,Brown,Female
+Bloodhound,5,25,Spotted,Female
+Lhasa Apso,6,29,Red,Female
+Miniature Schnauzer,11,49,Red,Female
+Cavalier King Charles Spaniel,4,18,Black and Tan,Female
+Pug,14,24,Red,Male
+Schnauzer,9,38,Sable,Female
+West Highland White Terrier,8,43,Merle,Male
+Jack Russell Terrier,12,33,Brown,Male
+Shetland Sheepdog,9,21,Gray,Male
+Chesapeake Bay Retriever,10,24,Black,Male
+Dachshund,11,41,Tan,Female
+Airedale Terrier,9,20,Tricolor,Male
+Schnauzer,11,42,Sable,Female
+Cocker Spaniel,3,59,Cream,Female
+Golden Retriever,6,43,White,Female
+Cocker Spaniel,4,15,Bicolor,Male
+Schnauzer,8,46,Bicolor,Female
+Whippet,13,59,Bicolor,Female
+Cocker Spaniel,7,56,White,Female
+Bull Terrier,4,24,Merle,Female
+Bull Terrier,6,58,Merle,Female
+Chesapeake Bay Retriever,12,46,Red,Female
+Airedale Terrier,13,47,Tricolor,Female
+Papillon,6,14,Red,Female
+Airedale Terrier,5,18,Black and White,Male
+Cavalier King Charles Spaniel,4,14,Spotted,Male
+Bull Terrier,3,34,Spotted,Female
+Siberian Husky,2,6,Tan,Female
+Pug,13,58,Tan,Female
+Pug,10,24,Blue,Female
+Beagle,7,37,Blue,Male
+Bulldog,11,39,Black and Tan,Female
+Samoyed,13,35,Sable,Female
+Boston Terrier,1,58,Blue,Male
+Cavalier King Charles Spaniel,1,41,Brown,Female
+Siberian Husky,7,31,Sable,Male
+Dogo Argentino,4,45,Brindle,Male
+Chesapeake Bay Retriever,10,5,Black and Tan,Male
+Border Collie,9,22,White,Female
+Miniature Schnauzer,4,36,Gray,Female
+Beagle,12,28,Cream,Male
+Golden Retriever,4,37,White,Male
+Border Collie,14,22,Blue,Female
+Irish Setter,11,12,White,Male
+Bernese Mountain Dog,8,12,Tan,Male
+Shih Tzu,10,59,Sable,Male
+Bichon Frise,5,58,Blue,Female
+Vizsla,12,21,Black and Tan,Male
+Samoyed,13,47,Tan,Male
+Shetland Sheepdog,9,35,Merle,Female
+Alaskan Malamute,7,35,Gray,Female
+Poodle,7,59,Blue,Male
+Rottweiler,8,39,Gray,Male
+Bernese Mountain Dog,3,30,Spotted,Female
+Siberian Husky,6,23,Black and Tan,Male
+Papillon,5,14,Gray,Female
+Beagle,12,23,Black and Tan,Male
+Jack Russell Terrier,11,25,Sable,Male
+Boxer,12,17,Merle,Male
+Dachshund,11,20,Red,Female
+Yorkshire Terrier,13,26,Bicolor,Male
+Border Collie,13,47,Bicolor,Male
+Pug,1,43,Black and Tan,Male
+Schnauzer,6,26,Merle,Male
+Cavalier King Charles Spaniel,10,16,Black and Tan,Female
+Vizsla,7,55,Black and White,Male
+Bloodhound,14,10,Blue,Male
+Lhasa Apso,7,26,White,Female
+Beagle,12,59,Brindle,Male
+Lhasa Apso,12,27,Brindle,Male
+Beagle,9,48,Cream,Female
+German Shepherd,14,31,Black and White,Female
+Jack Russell Terrier,11,22,Brown,Male
+German Shepherd,6,13,Bicolor,Female
+Shetland Sheepdog,3,22,Black and White,Male
+Irish Setter,13,26,White,Male
+Labrador Retriever,13,56,Cream,Male
+Pomeranian,4,7,Bicolor,Male
+Weimaraner,8,52,Blue,Female
+Border Collie,10,53,Gray,Female
+Boston Terrier,4,53,Bicolor,Female
+Boston Terrier,6,46,White,Female
+Bull Terrier,11,34,Red,Male
+Akita,2,30,Black,Male
+Rottweiler,2,24,Spotted,Female
+Irish Setter,1,37,White,Male
+Cavalier King Charles Spaniel,5,17,Merle,Male
+Bichon Frise,10,54,Brindle,Male
+Weimaraner,14,52,Brindle,Male
+Boxer,12,58,Red,Female
+Yorkshire Terrier,11,43,Blue,Male
+Papillon,13,49,Tan,Female
+Boston Terrier,14,22,Gray,Female
+Havanese,12,34,Merle,Female
+Lhasa Apso,11,9,Black and White,Male
+Bull Terrier,4,27,Blue,Male
+Alaskan Malamute,4,19,Tricolor,Female
+West Highland White Terrier,5,41,White,Male
+Shih Tzu,11,54,Blue,Male
+Jack Russell Terrier,4,21,Black and White,Male
+Boxer,10,20,Black,Female
+Bichon Frise,6,36,Brown,Male
+Border Collie,14,22,Blue,Female
+Vizsla,13,5,Black and Tan,Female
+Akita,9,20,Black and Tan,Male
+Beagle,2,7,Brindle,Male
+Belgian Malinois,11,34,Black and White,Male
+Samoyed,14,44,Black,Male
+Vizsla,10,50,Sable,Female
+Beagle,4,39,Cream,Female
+Shetland Sheepdog,1,18,Bicolor,Male
+French Bulldog,7,55,Black and Tan,Male
+Pembroke Welsh Corgi,5,35,Black and White,Female
+West Highland White Terrier,8,8,Red,Male
+Pembroke Welsh Corgi,7,38,Red,Female
+Pekingese,6,59,Spotted,Male
+Chihuahua,7,57,Black and Tan,Male
+Cocker Spaniel,1,40,Gray,Male
+Border Collie,8,24,White,Male
+Alaskan Malamute,8,9,Red,Male
+Pug,14,16,Brown,Female
+Saint Bernard,2,55,Black and White,Male
+Papillon,1,42,Spotted,Female
+Doberman Pinscher,11,19,Blue,Male
+Pug,14,52,Sable,Male
+Dachshund,12,17,Blue,Male
+Boxer,12,43,Brindle,Female
+Saint Bernard,3,47,Tan,Female
+Bernese Mountain Dog,12,54,Tricolor,Female
+Border Collie,7,33,Black and Tan,Male
+Chinese Shar-Pei,7,25,Black and White,Female
+Australian Shepherd,8,37,Brown,Male
+Bichon Frise,5,48,Spotted,Male
+Bulldog,4,11,Tan,Female
+Bloodhound,4,19,Black,Female
+Shetland Sheepdog,6,53,Red,Female
+Bull Terrier,2,42,Blue,Female
+Rottweiler,1,50,Spotted,Female
+Dogo Argentino,12,7,Blue,Male
+Havanese,2,57,Spotted,Female
+Airedale Terrier,3,14,Cream,Male
+Bloodhound,6,32,Spotted,Male
+Alaskan Malamute,13,52,Tricolor,Female
+Alaskan Malamute,11,34,Merle,Female
+Pomeranian,5,39,Black and White,Male
+Great Dane,10,10,Tan,Male
+Irish Setter,3,29,Sable,Male
+Alaskan Malamute,10,47,Black and Tan,Male
+Beagle,7,50,Merle,Male
+Shih Tzu,5,15,Red,Female
+Shih Tzu,12,50,Black and White,Female
+Doberman Pinscher,2,17,White,Female
+Basenji,1,9,Gray,Female
+Cavalier King Charles Spaniel,12,59,Spotted,Male
+Bulldog,8,38,Tricolor,Male
+Miniature Schnauzer,12,41,Gray,Female
+Lhasa Apso,9,41,Black and White,Male
+Golden Retriever,3,34,Brown,Female
+Bichon Frise,9,43,Tan,Female
+Yorkshire Terrier,6,15,Bicolor,Female
+Alaskan Malamute,4,47,Black and White,Female
+Australian Shepherd,3,40,Spotted,Male
+Chinese Shar-Pei,3,39,Black and White,Male
+Havanese,13,17,Red,Male
+Jack Russell Terrier,7,26,Black and Tan,Female
+Cavalier King Charles Spaniel,9,11,Brindle,Male
+Shih Tzu,12,36,Black and White,Male
+Great Dane,2,17,Cream,Female
+Irish Setter,5,47,Sable,Male
+Chihuahua,14,7,Tan,Female
+Whippet,14,56,White,Female
+Irish Setter,2,28,Merle,Female
+Samoyed,11,29,Bicolor,Male
+Chesapeake Bay Retriever,4,15,Black,Female
+Bulldog,8,54,Black and White,Male
+Papillon,14,16,Cream,Female
+Dachshund,14,59,Black,Female
+Papillon,4,45,Tan,Male
+Miniature Schnauzer,1,58,Brown,Female
+Weimaraner,12,9,Bicolor,Male
+Yorkshire Terrier,8,39,Black and Tan,Male
+Boxer,4,22,Bicolor,Female
+Irish Setter,1,9,Black and Tan,Female
+Shih Tzu,9,31,Black and White,Female
+Siberian Husky,4,45,Bicolor,Male
+Pekingese,12,12,Black and White,Female
+Chihuahua,8,7,Spotted,Female
+Basenji,5,58,Tan,Male
+Shih Tzu,2,39,Brown,Male
+Boxer,7,38,Bicolor,Female
+Irish Setter,13,48,Spotted,Female
+Siberian Husky,5,25,Tan,Female
+Vizsla,11,34,Blue,Female
+Pekingese,4,49,Bicolor,Male
+Samoyed,13,7,Blue,Female
+Pembroke Welsh Corgi,7,19,White,Female

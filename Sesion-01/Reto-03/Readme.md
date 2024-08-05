@@ -8,7 +8,7 @@
 
 ## 📝 Instrucciones
 
-1. 📂 **Carga el dataset**: Descarga el archivo [Student_Performance.csv](../../Datasets/Student_Performance.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
+1. 📂 **Carga el dataset**: Descarga el archivo [Student_Performance.csv](../../Datasets/S01/Reto_03_Student_Performance.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
 
 2. 📊 **Calcular los cuartiles**: Calcula el primer cuartil (Q1), el segundo cuartil (Q2) o mediana, y el tercer cuartil (Q3) de la columna `StudyTimeWeekly`.
 
