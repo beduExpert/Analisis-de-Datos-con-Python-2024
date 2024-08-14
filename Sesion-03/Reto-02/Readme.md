@@ -35,4 +35,4 @@ Imagina que eres un analista de datos que trabaja en una empresa que quiere ente
 
 ---
 
-⬅️ [**Anterior**](../Readme.md) | [**Siguiente**](../Ejemplo-04/Readme.md) ➡️
+⬅️ [**Anterior**](../Readme.md) | [**Siguiente**](../../Sesion-04/Readme.md) ➡️
