@@ -50,7 +50,7 @@ Las visualizaciones multi-axis, que usan múltiples ejes o tipos de gráficos, s
 En el análisis de datos, comparar diferentes conjuntos es crucial para identificar patrones y relaciones significativas. Las visualizaciones comparativas, como los violinplots, permiten observar cómo se relacionan los datos, detectar tendencias y tomar decisiones informadas.
 
 #### 📜 **[Ejemplo 04: Visualizaciones comparativas](Ejemplo-04/Readme.md)**
-#### 🔥 **[Reto 02: Pendiente](Reto-02/Readme.md)**
+#### 🔥 **[Reto 02: Análisis de brecha salarial](Reto-02/Readme.md)**
 
 ---
 

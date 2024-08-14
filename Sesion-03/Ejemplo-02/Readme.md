@@ -137,9 +137,14 @@ pivot_table.head()
 
 ---
 
+
+Aquí tienes la sección de "¿Sabías que?..." ajustada para que esté relacionada con el dataset de flores:
+
+---
+
 ### 💡 **¿Sabías que?...**
 
-La diferencia entre `.xs` y `.loc` en `pandas` radica en cómo y para qué se utilizan al acceder a datos en un `DataFrame` o `Series`, especialmente cuando se trata de índices jerárquicos (o `MultiIndex`). Ambos métodos son poderosos, pero tienen sus casos de uso específicos.
+En `pandas`, cuando trabajas con un `DataFrame` que tiene un `MultiIndex`, como una tabla de contingencia generada a partir de un dataset de flores, puedes utilizar los métodos `.xs()` y `.loc[]` para acceder a los datos de diferentes maneras, dependiendo de lo que necesites hacer.
 
 #### `.xs()`
 
@@ -147,8 +152,9 @@ La diferencia entre `.xs` y `.loc` en `pandas` radica en cómo y para qué se ut
 - **Uso**: Selecciona todas las filas o columnas que comparten un valor en un nivel del índice.
 - **Ejemplo**:
   ```python
-  # Extrae todas las filas donde 'Smoker' es 'no'
-  no_smokers = df.xs('no', level='Smoker')
+  # Extrae todas las filas donde la fragancia es 'strong'
+  strong_fragrance = contingency_table_2.xs('strong', level='fragrance', axis=1)
+  strong_fragrance.head()
   ```
 
 #### `.loc[]`
@@ -157,21 +163,20 @@ La diferencia entre `.xs` y `.loc` en `pandas` radica en cómo y para qué se ut
 - **Uso**: Filtrar filas y columnas por etiquetas y condiciones booleanas.
 - **Ejemplo**:
   ```python
-  # Accede a datos específicos usando etiquetas
-  specific_entry = df.loc[('north', 'yes')]
-  # Filtrar por condiciones
-  filtered_data = df.loc[df.index.get_level_values('Smoker') == 'no']
+  # Accede a los datos de la especie 'rose' para plantas con fragancia 'mild' y tamaño 'medium'
+  mild_medium_rose = contingency_table_2.loc['rose', ('mild', 'medium')]
+  print(f"El número de rosas de tamaño medio con fragancia suave es: {mild_medium_rose}")
   ```
 
 #### Diferencias clave
 
-- **`.xs()`** es útil para extraer todas las entradas de un nivel de `MultiIndex`.
-- **`.loc[]`** es más flexible, permitiendo combinaciones complejas de selecciones de filas y columnas.
+- **`.xs()`** es especialmente útil cuando quieres extraer todas las entradas que comparten un valor en un nivel específico de un `MultiIndex`, como todas las flores con un tipo específico de fragancia.
+- **`.loc[]`** ofrece más flexibilidad, permitiéndote filtrar y acceder a datos de manera más específica, como obtener las frecuencias de flores de una especie particular con combinaciones específicas de tamaño y fragancia.
 
 #### En pocas palabras
 
-- **`.xs()`**: Especializado en `MultiIndex`, selecciona por nivel.
-- **`.loc[]`**: Generalizado, selecciona por etiquetas con flexibilidad en condiciones.
+- **`.xs()`**: Ideal para seleccionar todas las entradas de un nivel específico en un `MultiIndex`.
+- **`.loc[]`**: Más general y flexible, permite selecciones detalladas basadas en etiquetas y condiciones.
 
 ---
 

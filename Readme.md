@@ -16,6 +16,6 @@
 6. 🎨 [Sesión 06: Visualización de datos avanzada.](Sesion-06/Readme.md)
 7. 🧪 [Sesión 07: Pruebas A/B y procesamiento de lenguaje natural.](Sesion-07/Readme.md)
 8. 🤖 [Sesión 08: Introducción a machine learning: clasificación no supervisada y supervisada.](Sesion-08/Readme.md)
-9. 📁 [Datasets](Datasets/)
+9. 📁 [Datasets](Datasets/Readme.md)
 
 ➡️ [**Siguiente**](Sesion-01/Readme.md)
