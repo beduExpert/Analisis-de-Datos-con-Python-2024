@@ -1,3 +1,5 @@
+🏠 [**Inicio**](../Readme.md)
+
 <div align="center">
     <img src="../Sesion-01/Imagenes/Bedu.png" alt="Sesion_01" width=800>
 </div>
@@ -28,6 +30,7 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
     - 🔗 [Students_Health](https://www.kaggle.com/datasets/innocentmfa/students-health-and-academic-performance)
 
 4. 📁 [Sesión 04: Correlaciones y regresión lineal simple.](S04/)
+    - 🎲 Reto_01_Act_Extra_Desempeño: Valores aleatorios.
 
 5. 📁 [Sesión 05: Distribuciones muestrales y técnicas de evaluación de modelos.](S05/)
 
@@ -38,5 +41,3 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
 8. 📁 [Sesión 08: Introducción a machine learning: clasificación no supervisada y supervisada.](S08/)
 
 ---
-
-🏠 [**Inicio**](../Readme.md)
