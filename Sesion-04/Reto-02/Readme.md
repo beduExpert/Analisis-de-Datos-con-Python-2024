@@ -7,7 +7,7 @@ Aplicar técnicas de regresión lineal simple para evaluar y cuantificar la rela
 
 ## 📝 Instrucciones
 
-1. 📂 **Carga el dataset**: Descarga el archivo [Reto_01_Act_Extra_Desempeño.csv](../../Datasets/S04/Reto_01_Act_Extra_Desempeño.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un DataFrame de Pandas.
+1. 📂 **Carga el dataset**: Descarga el archivo [Reto_01_Act_Extra_Desempeño.csv](../../Datasets/S04/Reto_01_Act_Extra_Desempeño.csv) y súbelo a tu Google Drive. Luego, carga el dataset en un dataframe de Pandas.
 
 2. 🧹 **Limpieza de datos**: Identificar y eliminar columnas irrelevantes o vacías, y verificar la integridad de los datos realizando cualquier limpieza adicional que sea necesaria.
 
