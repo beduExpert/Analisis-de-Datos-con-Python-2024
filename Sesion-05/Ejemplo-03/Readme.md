@@ -62,7 +62,7 @@ La elección de técnicas de evaluación depende del tipo de problema (clasifica
 ---
 
 ### 🛠️ **Aplicación de técnicas de evaluación de modelos predictivos**
-Vamos a implementar estas métricas utilizando el dataset Ejemplo_03_04_Dataset_Quimico que usamos anteriormente. Entrenaremos un modelo y luego mediremos su rendimiento usando precisión, recall y F1-score.
+Vamos a implementar estas métricas utilizando el dataset `Ejemplo_03_04_Dataset_Quimico` que usamos anteriormente. Entrenaremos un modelo y luego mediremos su rendimiento usando precisión, recall y F1-score.
 
 1. **Cargar y preparar el dataset:** Como siempre, asegúrate de tener tus bibliotecas importadas y tu dataset cargado correctamente. Ahora también dividiremos los datos en conjunto de entrenamiento `(70%)` y prueba `(30%)` como lo aprendimos anteriormente.
 

@@ -21,8 +21,6 @@ Utilizaremos un caso de estimación de costos en proyectos de construcción, con
 
     ```python
     !pip install numpy pandas
-    ```
-    ```python
     import numpy as np
     import pandas as pd
     ```
@@ -131,7 +129,7 @@ plt.show()
   </div>
 </details>
 
-Lo que observamos es:
+**Lo que observamos es:**
 
 - El **histograma** (en azul) muestra cómo se distribuyen los costos de los proyectos.
 - La **línea roja discontinua** representa la media de los costos, que es el valor central en esta distribución.
@@ -143,19 +141,18 @@ Como puedes ver, el error estándar es pequeño en comparación con la dispersi�
 ### 🛠️ **Cálculo de los intervalos de confianza**
 Un intervalo de confianza es un rango que estima dónde se encuentra un parámetro poblacional, como la media, basado en una muestra. Un intervalo estrecho indica mayor precisión, mientras que uno amplio refleja más incertidumbre.
 
-Antes de calcular intervalos de confianza en Python, es crucial entender que estos nos indican con qué certeza nuestra estimación se acerca al valor real en la población. Un intervalo de confianza, como el 95%, significa que estamos bastante seguros de que el valor real se encuentra dentro de ese rango. Continuaremos usando el caso de estimación de costos en proyectos de construcción con datos históricos. Los pasos son:
+Antes de calcular intervalos de confianza en Python, es crucial entender que estos nos indican con qué certeza nuestra estimación se acerca al valor real en la población. Un intervalo de confianza, como el `95%`, significa que estamos bastante seguros de que el valor real se encuentra dentro de ese rango. Continuaremos usando el caso de estimación de costos en proyectos de construcción con datos históricos. Los pasos son:
 
 
 1. **Instalación de las bibliotecas necesarias:** Asegúrate de tener instaladas las bibliotecas necesarias. Si aún no las tienes, puedes instalarlas utilizando el siguiente comando:
 
     ```python
     !pip install numpy pandas scipy
-    ```
-    ```python
     import numpy as np
     import pandas as pd
     from scipy import stats
-
+    ```
+    ```python
     # Cargar los datos desde un archivo CSV, y mostrar los primeros registros.
     df = pd.read_csv('../../Ejemplo_01_Costos_Proyectos.csv') # Cambiar la ruta del archivo si es necesario.
 
@@ -191,7 +188,7 @@ Antes de calcular intervalos de confianza en Python, es crucial entender que est
     print(f"Intervalo de confianza al 95%: {round(intervalo_confianza[0], 2)} a {round(intervalo_confianza[1], 2)}")
     ```
 
-- `confianza = 0.95`: Define el nivel de confianza deseado, en este caso, 95%.
+- `confianza = 0.95`: Define el nivel de confianza deseado, en este caso, `95%`.
 - `stats.t.interval(confianza, n-1, loc=media_costos, scale=desviacion_estandar/np.sqrt(n))`: Calcula el intervalo de confianza utilizando la distribución t de Student, que es apropiada cuando se trabaja con muestras pequeñas y se desconoce la desviación estándar poblacional.
     - `confianza`: Nivel de confianza.
     - `n-1`: Grados de libertad.
@@ -203,24 +200,23 @@ Antes de calcular intervalos de confianza en Python, es crucial entender que est
 
 ### 📉 **Interpretación de los intervalos de confianza**
 
-Los intervalos de confianza indican el rango en el que se espera que se encuentre el verdadero valor de un parámetro poblacional, como la media de los costos, con un cierto nivel de confianza. Aquí usamos un intervalo del **95%**.
+Los intervalos de confianza indican el rango en el que se espera que se encuentre el verdadero valor de un parámetro poblacional, como la media de los costos, con un cierto nivel de confianza. Aquí usamos un intervalo del `95%`.
 
 Resultado:
 - **Intervalo de confianza al 95%:** $\$79,293.75$ a $\$81,161.27$ USD.
 
-Esto significa que, con un **95%** de confianza, la verdadera media de los costos de todos los proyectos está entre esos valores. Un intervalo estrecho sugiere una estimación precisa, mientras que uno amplio indica mayor incertidumbre. En este caso, el intervalo es estrecho, lo que refleja una estimación precisa.
-
+Esto significa que, con un `95%` de confianza, la verdadera media de los costos de todos los proyectos está entre esos valores. Un intervalo estrecho sugiere una estimación precisa, mientras que uno amplio indica mayor incertidumbre. En este caso, el intervalo es estrecho, lo que refleja una estimación precisa.
 
 ---
 
 ### 💡 **¿Sabías que?...**
 
-Al calcular intervalos de confianza, el **nivel de confianza** nos dice qué tan probable es que el intervalo incluya el verdadero valor del parámetro poblacional. Por ejemplo, un nivel de confianza del 95% significa que, si repitiéramos el proceso con muchas muestras diferentes, el 95% de esos intervalos contendrían la verdadera media. ¡Es por eso por lo que el 95% es tan común en análisis estadísticos!
+Al calcular intervalos de confianza, el **nivel de confianza** nos dice qué tan probable es que el intervalo incluya el verdadero valor del parámetro poblacional. Por ejemplo, un nivel de confianza del `95%` significa que, si repitiéramos el proceso con muchas muestras diferentes, el `95%` de esos intervalos contendrían la verdadera media. ¡Es por eso por lo que el `95%` es tan común en análisis estadísticos!
 Sin embargo, también se pueden usar otros niveles de confianza según la precisión y certeza deseadas:
-- 80%: Acepta más riesgo con intervalos muy estrechos.
-- 90%: Menor certeza, intervalos más estrechos.
-- 99%: Mayor certeza, intervalos más amplios.
-- 99.9%: Máxima certeza, pero con intervalos muy amplios.
+- **80%:** Acepta más riesgo con intervalos muy estrechos.
+- **90%:** Menor certeza, intervalos más estrechos.
+- **99%:** Mayor certeza, intervalos más amplios.
+- **99.9%:** Máxima certeza, pero con intervalos muy amplios.
 Además, cuando calculamos la desviación estándar de una muestra, **usamos n-1 grados de libertad** en lugar de solo n. Esto corrige el sesgo por haber usado la muestra en lugar de la población completa, dando una estimación más precisa de la variabilidad. Este ajuste es necesario para obtener resultados más confiables.
 
 ---

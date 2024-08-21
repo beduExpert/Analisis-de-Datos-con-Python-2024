@@ -14,7 +14,7 @@ Una distribución muestral es la distribución de un estadístico (como la media
 ### 🛠️ **Creación de distribuciones muestrales**
 Las distribuciones muestrales son clave para hacer inferencias sobre la población a partir de muestras, ya que nos permiten entender la variabilidad y la precisión de nuestras estimaciones. Esta variabilidad se refleja en la forma de la distribución muestral, y su análisis es crucial para realizar estimaciones confiables y tomar decisiones basadas en datos.
 
-Aplica los siguientes pasos:
+**Aplica los siguientes pasos:**
 
 1. **Instalación de las bibliotecas necesarias:** Asegúrate de tener instaladas las bibliotecas necesarias. Si aún no las tienes, puedes instalarlas utilizando el siguiente comando:
 

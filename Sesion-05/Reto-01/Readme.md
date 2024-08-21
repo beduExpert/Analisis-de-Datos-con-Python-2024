@@ -1,4 +1,4 @@
-🏠 [**Inicio**](../../Readme.md) ➡️ / 📖 [**Sesión 05**](../Readme.md) ➡️ / ⚡`Reto 01:  `
+🏠 [**Inicio**](../../Readme.md) ➡️ / 📖 [**Sesión 05**](../Readme.md) ➡️ / ⚡`Reto 01:  Análisis de la distribución de recursos naturales`
 
 ## 🎯 Objetivo
 Analizar la distribución espacial de recursos naturales, como agua subterránea o minerales, en diferentes áreas geográficas.
@@ -8,7 +8,7 @@ Analizar la distribución espacial de recursos naturales, como agua subterránea
 ## 📝 Instrucciones
 Como geógrafo especializado en sistemas de información geográfica (SIG), estás trabajando en un proyecto para analizar la distribución espacial de recursos naturales, específicamente agua subterránea, en diferentes áreas geográficas. Tienes acceso a datos muestrales sobre la cantidad de agua subterránea en varias regiones, pero los datos son limitados en algunas áreas en el archivo [Reto_01_Recursos_Naturales](../../Datasets/S05/Reto_01_Recursos_Naturales.csv).
 
-Tu objetivo es:
+**Tu objetivo es:**
 
 - 📊 Calcular el error estándar de las estimaciones de la cantidad de agua subterránea en cada área para evaluar la precisión de las mediciones.
 

@@ -20,7 +20,7 @@
 ### 📖 Error estándar e intervalos de confianza
 El error estándar es una medida de la variabilidad o dispersión de una estadística muestral, como la media, con relación a la verdadera media poblacional. Se utiliza para cuantificar la precisión de la estimación de la estadística de muestra y se calcula como la desviación estándar de la distribución muestral.
 
-El intervalo de confianza da una aproximación de los valores entre los cuales se encuentra el valor de un parámetro poblacional con un determinado nivel de confianza. Los intervalos de confianza más habituales tienen un nivel de confianza del 95% o del 99%.
+El intervalo de confianza da una aproximación de los valores entre los cuales se encuentra el valor de un parámetro poblacional con un determinado nivel de confianza. Los intervalos de confianza más habituales tienen un nivel de confianza del `95%` o del `99%`.
 
 #### 📜 **[Ejemplo 01: Error estándar e intervalos de confianza](Ejemplo-01/Readme.md)**
 

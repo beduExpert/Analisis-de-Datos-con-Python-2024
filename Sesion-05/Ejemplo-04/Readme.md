@@ -175,4 +175,4 @@ Por otro lado, el **underfitting** sucede cuando un modelo es demasiado simple p
 
 ---
 
-⬅️ [**Anterior**](../Readme.md) | [**Siguiente**](../Reto-02/Readme.md) ➡️
+⬅️ [**Anterior**](../Readme.md) | [**Siguiente**](../../Sesion-06/Readme.md) ➡️
