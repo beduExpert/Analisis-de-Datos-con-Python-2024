@@ -33,6 +33,10 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
     - 🎲 Reto_01_Act_Extra_Desempeño: Valores aleatorios.
 
 5. 📁 [Sesión 05: Distribuciones muestrales y técnicas de evaluación de modelos.](S05/)
+    - 🎲 Ejemplo_01_Costos_Proyectos: Valores aleatorios.
+    - 🎲 Ejemplo_03_04_Dataset_Quimico: Valores aleatorios.
+    - 🎲 Reto_01_Recursos_Naturales: Valores aleatorios.
+    - 🎲 Reto_02_Geografia_Clasificacion: Valores aleatorios.
 
 6. 📁 [Sesión 06: Visualización de datos avanzada.](S06/)
 
