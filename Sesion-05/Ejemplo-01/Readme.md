@@ -67,7 +67,7 @@ Utilizaremos un caso de estimación de costos en proyectos de construcción, con
     - `np.std(costos, ddof=1)`: Calcula la desviación estándar de los valores en costos. El parámetro ddof=1 es necesario para que el cálculo sea correcto en el contexto de una muestra.
     - `len(costos)`: Devuelve el número total de elementos en la columna costos, es decir, el tamaño de la muestra.
     - También estamos redondeando a dos decimales con el round incluidos en los prints.
-
+    <br>
 
 5. **Calcular el error estándar:** Finalmente, podemos calcular el error estándar usando la fórmula:
 
@@ -128,6 +128,7 @@ plt.show()
       <img src="../Imagenes/Error_Estandar.png" alt="Grafica de error estandar" width="50%">
   </div>
 </details>
+<br>
 
 **Lo que observamos es:**
 

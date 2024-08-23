@@ -1,0 +1,501 @@
+attack_type,severity,response_time
+Ransomware,4,2.8
+Brute Force,9,11.6
+Malware,6,4.7
+Brute Force,3,2.0
+Brute Force,1,1.8
+DDoS,4,3.2
+Malware,9,6.5
+Malware,3,0.8
+Malware,9,10.1
+Brute Force,7,4.3
+Ransomware,4,6.8
+Malware,3,1.6
+Brute Force,10,11.2
+DDoS,5,3.7
+Ransomware,5,3.2
+DDoS,3,3.5
+Ransomware,9,11.1
+Brute Force,4,3.5
+Phishing,5,4.9
+Ransomware,4,5.6
+DDoS,5,6.7
+Brute Force,7,6.9
+Ransomware,9,8.1
+Phishing,7,7.2
+Phishing,5,4.6
+Malware,10,10.6
+Malware,10,7.6
+DDoS,7,7.6
+Ransomware,10,8.6
+Ransomware,5,6.8
+Malware,3,1.7
+Ransomware,7,5.7
+Ransomware,2,2.9
+Phishing,9,9.0
+Malware,10,14.6
+Brute Force,10,6.7
+Malware,1,1.2
+Brute Force,6,8.3
+Phishing,7,5.8
+DDoS,8,6.2
+Ransomware,10,8.3
+Phishing,9,5.8
+Ransomware,2,4.7
+DDoS,10,9.3
+DDoS,2,1.1
+Phishing,5,0.8
+DDoS,5,2.1
+Brute Force,6,8.9
+DDoS,3,3.6
+Ransomware,8,10.3
+Ransomware,1,3.1
+Ransomware,6,4.0
+Ransomware,4,8.9
+Brute Force,1,4.9
+Malware,7,5.9
+Phishing,9,1.9
+Ransomware,4,3.3
+DDoS,4,4.5
+Ransomware,6,4.9
+DDoS,3,2.6
+DDoS,6,4.3
+Ransomware,7,8.8
+Brute Force,10,10.1
+DDoS,10,11.9
+DDoS,3,5.4
+Ransomware,7,2.7
+DDoS,3,1.5
+DDoS,2,0.8
+Ransomware,10,15.1
+Ransomware,4,4.3
+Phishing,8,9.6
+Brute Force,9,5.2
+Brute Force,7,7.3
+DDoS,1,3.0
+Brute Force,3,4.7
+DDoS,9,10.2
+Phishing,1,1.0
+Ransomware,9,9.1
+Ransomware,8,4.6
+Ransomware,1,0.0
+Brute Force,6,6.5
+Phishing,5,3.6
+Brute Force,6,7.4
+Brute Force,10,10.9
+Phishing,5,7.7
+Phishing,6,7.9
+Phishing,5,5.5
+Phishing,5,6.5
+Ransomware,4,6.0
+Malware,3,2.0
+Malware,3,2.3
+Phishing,4,3.8
+Malware,9,8.0
+Malware,2,4.0
+Phishing,9,7.7
+Malware,1,3.5
+Brute Force,1,0.3
+DDoS,5,5.9
+DDoS,6,6.3
+Phishing,6,4.0
+Ransomware,3,3.0
+Phishing,7,7.7
+Ransomware,9,8.9
+DDoS,10,7.3
+Phishing,8,11.4
+Brute Force,6,6.2
+Malware,8,6.4
+Ransomware,5,8.2
+Malware,8,9.2
+Malware,10,7.6
+Phishing,4,1.9
+Malware,10,9.6
+Brute Force,8,8.6
+Malware,10,11.2
+Phishing,2,3.9
+Brute Force,5,6.1
+DDoS,9,11.7
+Malware,4,4.3
+Phishing,6,4.5
+DDoS,1,1.0
+DDoS,9,8.9
+Ransomware,1,0.0
+Brute Force,5,3.9
+Malware,4,4.6
+Phishing,3,2.2
+Ransomware,6,4.7
+Brute Force,2,3.8
+Ransomware,3,1.2
+Brute Force,5,6.4
+Brute Force,9,6.3
+Malware,2,7.5
+Brute Force,10,9.6
+Ransomware,8,7.4
+Brute Force,2,4.3
+Malware,5,4.2
+Malware,7,9.9
+Ransomware,8,8.7
+DDoS,1,0.8
+DDoS,6,5.5
+Brute Force,1,3.4
+Phishing,2,2.5
+Brute Force,1,1.9
+Ransomware,5,6.1
+Ransomware,10,10.3
+Ransomware,9,10.0
+Ransomware,6,5.8
+Ransomware,1,0.9
+Malware,1,0.0
+DDoS,2,2.6
+Ransomware,9,5.6
+Phishing,3,3.6
+Phishing,1,0.4
+Phishing,5,5.7
+Phishing,7,4.9
+Malware,6,1.8
+Phishing,1,0.3
+Ransomware,5,2.9
+Brute Force,5,1.4
+Phishing,6,7.5
+Malware,3,6.2
+Malware,5,3.4
+Phishing,7,6.8
+Brute Force,5,4.4
+Phishing,5,3.7
+Malware,5,6.3
+DDoS,10,12.0
+Ransomware,10,8.3
+Malware,3,3.1
+Phishing,1,3.6
+Ransomware,5,6.4
+Phishing,9,10.7
+Phishing,1,3.7
+DDoS,3,5.7
+Ransomware,4,6.1
+Ransomware,1,1.3
+DDoS,1,0.2
+Malware,8,8.2
+Phishing,2,0.9
+Brute Force,8,4.1
+Phishing,7,6.4
+Phishing,10,10.7
+Malware,10,8.8
+Phishing,2,1.6
+DDoS,6,5.7
+DDoS,6,8.7
+Ransomware,3,2.3
+Brute Force,2,4.7
+Phishing,1,0.0
+Phishing,6,8.7
+Malware,5,7.6
+DDoS,9,10.8
+Brute Force,1,0.0
+Ransomware,7,9.0
+DDoS,5,4.9
+Ransomware,5,0.0
+Malware,2,4.6
+Malware,3,5.9
+Phishing,7,3.2
+Brute Force,6,6.4
+Ransomware,2,4.8
+DDoS,6,8.5
+Malware,2,3.7
+Phishing,2,0.0
+Phishing,2,3.5
+Ransomware,3,2.6
+Malware,2,4.0
+Brute Force,4,4.5
+Malware,9,9.0
+Ransomware,6,7.3
+Ransomware,1,0.7
+Malware,8,8.0
+Ransomware,7,5.9
+Malware,10,6.8
+DDoS,3,4.1
+Malware,1,0.0
+Malware,5,4.6
+Ransomware,4,4.6
+Ransomware,10,5.8
+Phishing,8,4.3
+Phishing,1,0.4
+DDoS,10,10.9
+Phishing,1,2.5
+Malware,4,0.8
+Ransomware,8,9.3
+Phishing,5,4.5
+Phishing,2,0.2
+DDoS,6,4.7
+DDoS,5,6.6
+Malware,2,2.5
+Ransomware,3,3.1
+DDoS,9,9.5
+Phishing,7,8.9
+Ransomware,7,6.8
+Ransomware,6,6.1
+Phishing,8,10.3
+DDoS,4,3.3
+Phishing,8,9.2
+Ransomware,4,3.0
+Brute Force,8,7.2
+Brute Force,9,8.8
+Malware,3,4.0
+Phishing,3,5.4
+Phishing,2,2.2
+Malware,10,7.0
+Malware,3,4.3
+Malware,3,7.9
+Ransomware,5,5.2
+Phishing,5,1.6
+Ransomware,2,2.3
+Malware,10,10.0
+Phishing,6,5.8
+Ransomware,5,6.9
+Ransomware,6,8.8
+Malware,1,2.4
+Phishing,5,4.7
+Malware,9,11.3
+Phishing,10,7.0
+Brute Force,2,0.6
+DDoS,1,0.0
+DDoS,10,9.9
+DDoS,9,10.0
+Malware,10,9.6
+Brute Force,9,7.2
+Phishing,9,10.9
+Ransomware,6,5.5
+Phishing,8,8.2
+Ransomware,1,2.1
+Phishing,10,10.1
+Brute Force,4,4.1
+Ransomware,1,3.1
+Malware,8,8.3
+Phishing,1,2.7
+Phishing,3,4.1
+Ransomware,4,8.0
+Malware,8,8.8
+Malware,6,7.3
+Brute Force,10,12.2
+Malware,7,7.1
+Malware,8,6.7
+Malware,2,1.1
+DDoS,10,9.1
+Brute Force,8,6.1
+Phishing,3,3.6
+Ransomware,7,5.7
+Phishing,3,3.4
+Brute Force,7,6.7
+Ransomware,2,1.9
+Brute Force,10,11.1
+Malware,6,4.9
+Ransomware,3,4.3
+Malware,3,6.1
+Phishing,9,9.7
+Phishing,7,5.4
+Ransomware,5,3.8
+Ransomware,10,9.5
+Brute Force,7,5.8
+Brute Force,9,7.0
+Malware,1,1.3
+Ransomware,7,6.6
+Phishing,6,6.4
+Brute Force,10,12.4
+Brute Force,9,8.5
+Phishing,1,0.0
+Brute Force,4,3.2
+Malware,9,10.5
+Ransomware,4,5.4
+Phishing,10,11.0
+Ransomware,3,1.8
+Brute Force,9,10.5
+Brute Force,2,4.0
+Phishing,4,2.6
+Malware,6,5.9
+DDoS,2,6.0
+Phishing,8,6.5
+DDoS,8,4.6
+DDoS,1,3.8
+Malware,3,5.3
+DDoS,10,9.1
+DDoS,9,8.8
+Malware,5,2.6
+DDoS,6,6.2
+DDoS,4,6.3
+DDoS,10,8.9
+Phishing,2,3.8
+Phishing,8,8.9
+Phishing,6,7.2
+Malware,5,4.0
+Brute Force,9,8.3
+DDoS,1,0.0
+DDoS,5,3.9
+Malware,6,8.3
+DDoS,5,3.1
+Phishing,6,4.4
+Brute Force,6,7.3
+Ransomware,7,7.8
+DDoS,4,5.4
+Phishing,8,5.7
+Ransomware,7,12.1
+Brute Force,9,6.6
+Ransomware,7,7.3
+Phishing,3,2.7
+Ransomware,3,0.6
+Malware,8,7.3
+Ransomware,5,5.0
+DDoS,4,2.7
+DDoS,8,9.9
+Malware,6,5.7
+Phishing,2,0.0
+DDoS,4,1.1
+Brute Force,4,5.2
+DDoS,6,3.0
+DDoS,6,6.6
+Phishing,1,1.9
+Ransomware,8,6.0
+DDoS,6,7.8
+Malware,3,0.0
+Ransomware,9,9.6
+Brute Force,2,1.9
+Phishing,8,7.8
+Brute Force,10,7.6
+Ransomware,3,1.1
+Ransomware,5,8.2
+Ransomware,6,8.4
+Brute Force,10,11.5
+Ransomware,6,7.9
+Brute Force,4,5.7
+Ransomware,3,2.4
+Malware,4,4.1
+Ransomware,1,0.0
+Brute Force,4,3.8
+DDoS,1,3.4
+Ransomware,1,0.0
+DDoS,10,12.0
+Malware,6,6.2
+Phishing,5,2.2
+Malware,4,1.8
+Ransomware,3,4.8
+DDoS,1,2.1
+DDoS,6,6.2
+Brute Force,2,1.5
+DDoS,8,8.4
+Brute Force,10,11.8
+Phishing,5,8.0
+Ransomware,7,10.0
+Brute Force,10,10.7
+Phishing,2,1.7
+DDoS,8,8.3
+DDoS,2,3.0
+Phishing,4,5.0
+DDoS,1,3.6
+Phishing,5,9.2
+Brute Force,9,8.6
+Brute Force,1,5.3
+Phishing,9,11.3
+Brute Force,8,7.8
+Brute Force,6,9.0
+Brute Force,7,10.4
+Malware,3,2.1
+Ransomware,1,4.5
+DDoS,5,7.2
+Malware,2,6.7
+Brute Force,5,4.2
+Phishing,8,7.3
+Brute Force,9,4.9
+Ransomware,2,3.1
+Brute Force,3,3.8
+Phishing,3,1.9
+Ransomware,1,0.8
+Brute Force,8,5.4
+Ransomware,6,8.4
+DDoS,8,7.0
+DDoS,9,15.2
+Brute Force,5,4.6
+Ransomware,3,1.5
+Phishing,5,4.2
+Brute Force,5,2.2
+DDoS,5,6.0
+DDoS,3,2.2
+Brute Force,10,12.3
+Ransomware,4,3.5
+DDoS,9,11.8
+Ransomware,10,11.5
+DDoS,9,9.1
+DDoS,2,5.2
+Malware,8,9.9
+DDoS,8,13.9
+Phishing,7,6.2
+Brute Force,8,8.2
+Brute Force,3,6.1
+Ransomware,6,2.9
+DDoS,1,3.6
+Phishing,7,7.9
+Ransomware,1,0.0
+Malware,9,6.3
+Ransomware,1,0.0
+Ransomware,1,0.0
+DDoS,7,6.0
+Malware,2,3.2
+Ransomware,5,4.0
+Phishing,8,10.8
+Phishing,8,11.3
+Brute Force,3,5.6
+Malware,7,7.5
+Malware,3,0.0
+Brute Force,6,4.6
+Ransomware,6,5.7
+Malware,3,1.2
+Phishing,7,6.7
+Phishing,3,6.2
+DDoS,8,4.7
+Malware,10,13.6
+Ransomware,4,5.8
+Brute Force,1,1.5
+Brute Force,4,2.6
+Ransomware,7,5.3
+DDoS,4,0.7
+Brute Force,6,9.4
+Malware,9,12.1
+DDoS,1,0.0
+Malware,5,3.9
+Phishing,7,7.9
+DDoS,1,0.4
+Brute Force,4,0.2
+DDoS,6,4.7
+DDoS,2,5.9
+DDoS,10,8.8
+DDoS,5,4.7
+Malware,10,7.7
+Phishing,1,2.2
+Ransomware,6,6.2
+DDoS,6,4.5
+Brute Force,4,1.4
+DDoS,8,10.8
+Brute Force,4,0.8
+Malware,8,9.0
+Brute Force,8,3.7
+Ransomware,5,6.4
+Phishing,4,5.9
+Brute Force,2,4.2
+Brute Force,3,2.7
+Phishing,3,6.2
+Ransomware,4,8.6
+DDoS,4,3.4
+Brute Force,10,9.1
+Phishing,5,5.3
+Malware,4,3.0
+Phishing,10,8.8
+Malware,8,6.9
+Ransomware,6,9.4
+DDoS,6,7.5
+Phishing,8,7.0
+Brute Force,7,2.1
+Ransomware,10,6.9
+Phishing,10,11.0
+Brute Force,8,3.8
+Phishing,2,2.6
+Malware,9,6.9
+Phishing,1,1.2
+Phishing,8,8.1
+Phishing,4,4.2

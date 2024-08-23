@@ -65,6 +65,8 @@ Vamos a ejecutar `K-Fold`, `LOOCV`, y `Stratified K-Fold` utilizando el ejemplo 
     - `cross_val_score`: Calcula la precisión del modelo en cada fold.
     - `scores.mean()`: Promedia los resultados para obtener una medida más robusta.
 
+  <br>
+
 3.  **Leave-One-Out Cross-Validation (LOOCV):** Implementamos LOOCV, que es más intensivo computacionalmente.
     ```python
     from sklearn.model_selection import LeaveOneOut
@@ -82,6 +84,7 @@ Vamos a ejecutar `K-Fold`, `LOOCV`, y `Stratified K-Fold` utilizando el ejemplo 
     - `LeaveOneOut()`: Deja una muestra fuera en cada iteración.
     - `cross_val_score`: Calcula la precisión para cada iteración y luego promedia los resultados.
 
+  <br>
 
 4.  **Stratified K-Fold Cross-Validation:** Implementamos Stratified K-Fold Cross-Validation para asegurar que cada fold tenga una distribución equilibrada de clases.
 

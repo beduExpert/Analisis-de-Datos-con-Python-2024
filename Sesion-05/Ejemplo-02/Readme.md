@@ -62,6 +62,8 @@ Las distribuciones muestrales son clave para hacer inferencias sobre la poblaci�
     - `np.random.choice(costos, size=tamaño_muestra, replace=True)`: Genera una muestra aleatoria de tamaño tamaño_muestra a partir de los datos de costos, con reemplazo.
     - `medias_muestrales.append(np.mean(muestra))`: Calcula la media de cada muestra y la almacena en la lista medias_muestrales.
 
+    <br>
+
 3. **Visualizar la distribución muestral:** Ahora vamos a graficar la distribución de las medias muestrales utilizando un histograma y sobreponer una curva de densidad para visualizar mejor la distribución.
 
     ```python
@@ -160,6 +162,7 @@ Aplica los siguientes pasos:
     - `medias_bootstrap.append(np.mean(muestra_bootstrap))`: Calcula la media de cada muestra bootstrap y la almacena en la lista medias_bootstrap.
     - `np.percentile(medias_bootstrap, [2.5, 97.5])`: Calcula el intervalo de confianza al 95% de las medias bootstrap.
 
+    <br>
 
 3. **Visualizar los resultados del Bootstrap:** Finalmente, vamos a graficar las distribuciones de las medias obtenidas a través del Bootstrap y el intervalo de confianza.
 

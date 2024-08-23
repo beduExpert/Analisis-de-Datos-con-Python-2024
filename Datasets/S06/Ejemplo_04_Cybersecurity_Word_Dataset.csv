@@ -1,0 +1,501 @@
+Country,Attack_Type,Severity,Economic_Impact_Million_USD
+France,Ransomware,7,28.15
+South Korea,Phishing,2,98.41
+Egypt,DDoS,2,41.52
+Japan,DDoS,1,89.52
+Russia,Ransomware,3,23.77
+France,Phishing,6,22.1
+Saudi Arabia,Brute Force,8,4.08
+Japan,Brute Force,9,65.52
+Japan,DDoS,7,37.48
+Brazil,Phishing,4,86.57
+Russia,DDoS,6,47.85
+Mexico,Malware,5,96.85
+Canada,DDoS,8,19.37
+Australia,DDoS,1,86.99
+Germany,Brute Force,1,77.88
+Canada,Brute Force,6,77.32
+United States,Brute Force,10,84.63
+Australia,Malware,2,76.34
+Australia,Brute Force,5,63.0
+Colombia,Phishing,1,13.99
+China,Ransomware,7,4.22
+Argentina,Phishing,1,92.16
+Egypt,Phishing,4,62.05
+Egypt,Brute Force,9,79.86
+Saudi Arabia,Ransomware,1,48.67
+Australia,Ransomware,4,12.61
+South Korea,Ransomware,6,13.39
+Mexico,Malware,6,68.87
+United Kingdom,Brute Force,8,43.6
+Saudi Arabia,Ransomware,1,20.85
+France,Malware,7,49.67
+India,DDoS,1,7.36
+France,DDoS,7,58.62
+Chile,Malware,3,27.63
+Brazil,Malware,8,79.96
+Nigeria,Brute Force,3,31.73
+Chile,Brute Force,1,46.07
+India,DDoS,8,2.15
+Canada,Ransomware,3,8.17
+South Korea,DDoS,2,39.86
+Egypt,Ransomware,1,48.51
+France,Ransomware,3,60.4
+Australia,Brute Force,2,29.87
+Russia,Phishing,2,69.8
+Egypt,Phishing,6,86.15
+Mexico,Malware,1,78.21
+Nigeria,Brute Force,2,4.92
+Colombia,Ransomware,6,48.57
+Brazil,Phishing,3,11.39
+Chile,Ransomware,4,24.96
+Russia,Phishing,1,98.68
+Brazil,Phishing,8,15.11
+Canada,Phishing,7,50.39
+Germany,Brute Force,7,62.2
+China,DDoS,3,70.54
+Brazil,Ransomware,10,56.41
+Chile,Brute Force,10,1.97
+Australia,Brute Force,3,33.32
+Canada,Brute Force,2,52.25
+China,Brute Force,1,9.7
+Brazil,Brute Force,7,35.71
+Nigeria,Malware,7,4.29
+Argentina,Ransomware,2,8.78
+Egypt,Brute Force,7,40.3
+Russia,Ransomware,8,14.14
+Nigeria,Malware,1,57.19
+Russia,Malware,9,69.26
+Argentina,Ransomware,7,80.26
+South Africa,Phishing,3,20.81
+Chile,DDoS,8,17.58
+Egypt,Phishing,7,11.35
+South Africa,Phishing,8,64.01
+India,Phishing,6,70.94
+Egypt,Brute Force,9,4.13
+South Africa,Malware,5,93.69
+United States,Phishing,3,6.15
+France,Malware,3,54.59
+India,Ransomware,1,71.2
+United States,DDoS,8,87.23
+Australia,Ransomware,2,71.69
+Russia,Ransomware,3,80.37
+Japan,Brute Force,8,34.61
+Saudi Arabia,DDoS,8,81.67
+Colombia,Ransomware,4,8.93
+Russia,Ransomware,4,89.59
+Mexico,DDoS,5,55.21
+Mexico,DDoS,6,81.91
+United States,Ransomware,5,45.78
+United Kingdom,DDoS,7,64.71
+China,Ransomware,2,53.11
+France,Ransomware,7,73.43
+India,Brute Force,10,9.08
+France,Phishing,7,6.97
+India,Ransomware,1,25.46
+Russia,Malware,7,16.79
+Australia,Phishing,5,87.31
+Canada,Phishing,3,22.7
+United States,Phishing,3,97.61
+Argentina,Brute Force,4,34.35
+United Kingdom,Ransomware,2,19.03
+Mexico,Brute Force,2,79.18
+Australia,Ransomware,1,66.21
+Russia,Brute Force,5,50.32
+Mexico,Brute Force,4,55.98
+United States,Malware,10,72.2
+Mexico,Brute Force,2,23.62
+United Kingdom,DDoS,3,99.64
+Egypt,Malware,7,97.5
+Nigeria,Brute Force,7,65.38
+Mexico,Phishing,4,20.75
+United States,DDoS,5,68.34
+United Kingdom,DDoS,5,8.15
+Nigeria,DDoS,6,4.03
+France,Malware,9,26.51
+India,Brute Force,2,46.8
+Egypt,Brute Force,5,86.96
+Egypt,Phishing,3,72.99
+China,Phishing,4,74.53
+South Africa,DDoS,10,43.12
+Saudi Arabia,Phishing,6,35.25
+France,Malware,8,37.73
+Colombia,Brute Force,1,98.78
+South Korea,DDoS,10,4.97
+Brazil,Phishing,8,86.84
+United Kingdom,Malware,7,58.29
+France,Malware,1,44.42
+South Africa,Phishing,2,72.8
+Egypt,Brute Force,3,49.18
+Japan,Phishing,1,87.47
+Brazil,DDoS,9,90.17
+South Africa,Phishing,8,42.75
+France,Malware,2,28.41
+Saudi Arabia,Phishing,9,59.64
+Canada,Brute Force,7,91.32
+China,Ransomware,9,21.86
+South Africa,Phishing,6,62.67
+Germany,Brute Force,6,63.52
+Australia,Brute Force,4,73.58
+Australia,Malware,10,14.03
+South Korea,Brute Force,10,71.87
+Japan,Brute Force,2,90.99
+France,Brute Force,7,18.79
+United States,Brute Force,5,24.52
+United States,DDoS,6,97.17
+South Korea,DDoS,2,18.92
+South Africa,Malware,5,85.58
+India,Phishing,10,49.74
+Mexico,Brute Force,4,25.48
+France,Phishing,9,87.2
+Germany,Phishing,6,45.09
+Russia,Malware,2,51.97
+India,Brute Force,1,36.56
+United Kingdom,Brute Force,5,59.7
+United States,Ransomware,9,17.19
+Saudi Arabia,Phishing,6,39.72
+China,Phishing,10,96.97
+Australia,DDoS,7,26.56
+Egypt,Ransomware,5,66.02
+India,DDoS,10,33.19
+South Korea,DDoS,6,77.57
+Colombia,DDoS,5,13.96
+Colombia,Malware,9,97.01
+South Korea,Malware,6,45.93
+Australia,DDoS,8,24.37
+France,Ransomware,2,8.28
+Canada,Phishing,9,17.81
+Mexico,Ransomware,5,52.46
+Colombia,Brute Force,7,34.36
+United Kingdom,Malware,10,83.06
+Colombia,Phishing,1,43.66
+Colombia,Phishing,10,25.62
+Colombia,Brute Force,5,62.1
+Canada,Brute Force,10,70.97
+Canada,DDoS,2,17.54
+United Kingdom,Malware,6,17.59
+United States,Malware,1,4.63
+United States,Ransomware,3,73.9
+Saudi Arabia,DDoS,5,66.72
+Canada,DDoS,4,47.99
+Australia,DDoS,3,84.57
+Germany,DDoS,10,80.76
+Brazil,Malware,5,58.95
+Japan,Malware,8,86.96
+Colombia,DDoS,4,21.38
+Germany,Ransomware,1,12.08
+United Kingdom,Phishing,7,27.71
+South Korea,Phishing,8,6.65
+Canada,Ransomware,3,53.59
+Germany,DDoS,6,93.72
+Japan,Malware,2,4.9
+Argentina,Phishing,7,13.09
+Argentina,Brute Force,8,45.77
+United States,Brute Force,6,93.45
+India,Ransomware,6,32.3
+Germany,DDoS,5,51.22
+Argentina,Phishing,8,5.12
+Mexico,DDoS,1,15.69
+South Korea,Phishing,10,98.68
+Brazil,Ransomware,4,96.55
+Saudi Arabia,Ransomware,4,1.49
+Mexico,Brute Force,3,95.23
+Saudi Arabia,DDoS,3,64.27
+South Korea,Brute Force,4,86.92
+France,DDoS,1,46.02
+South Korea,Brute Force,2,52.04
+India,Malware,9,49.4
+United States,Malware,10,67.02
+Russia,Malware,2,14.83
+France,Malware,5,3.97
+Chile,Phishing,9,31.49
+Russia,Malware,9,70.76
+United States,Ransomware,8,20.98
+Japan,Ransomware,1,67.67
+Chile,Phishing,1,97.02
+China,Malware,9,10.3
+Mexico,Malware,8,67.59
+France,Malware,10,44.93
+Argentina,Brute Force,9,86.95
+Argentina,DDoS,7,18.54
+South Korea,Brute Force,3,69.57
+Colombia,DDoS,3,83.97
+Canada,Malware,2,94.52
+United States,Malware,5,68.64
+Argentina,Brute Force,3,50.22
+Australia,Brute Force,6,62.17
+United Kingdom,DDoS,2,87.02
+United Kingdom,Ransomware,3,57.49
+India,DDoS,5,4.01
+India,Brute Force,1,93.16
+Mexico,Brute Force,1,69.26
+Saudi Arabia,Phishing,10,67.97
+Argentina,Brute Force,9,22.35
+Argentina,Phishing,7,66.23
+Mexico,Ransomware,1,39.99
+South Korea,DDoS,8,65.47
+United States,DDoS,3,11.55
+South Korea,Phishing,8,66.13
+Japan,DDoS,5,99.94
+Colombia,Brute Force,1,5.77
+Russia,Malware,7,97.74
+Brazil,Phishing,5,41.28
+Germany,DDoS,6,87.2
+Russia,Phishing,6,78.46
+South Korea,Phishing,8,57.13
+Mexico,Malware,9,74.11
+Argentina,Brute Force,2,87.97
+Mexico,Phishing,9,41.01
+Chile,DDoS,10,33.38
+Nigeria,Ransomware,9,67.09
+Chile,Phishing,10,80.98
+Canada,Phishing,10,76.47
+Mexico,Malware,7,79.98
+Argentina,Brute Force,1,44.12
+India,Ransomware,7,81.97
+Brazil,DDoS,10,12.9
+United States,Ransomware,5,54.9
+Brazil,DDoS,6,1.57
+United States,Brute Force,10,33.13
+Nigeria,DDoS,7,37.28
+Argentina,Malware,5,40.22
+South Korea,Malware,7,69.85
+Russia,Malware,9,39.47
+France,Malware,3,45.42
+Mexico,Ransomware,8,24.52
+Colombia,Brute Force,2,37.95
+United States,DDoS,7,23.5
+Argentina,DDoS,2,8.25
+Australia,Malware,4,60.74
+Saudi Arabia,Malware,7,67.15
+Nigeria,Phishing,3,62.33
+Germany,Brute Force,2,46.89
+Germany,Ransomware,10,38.6
+South Africa,DDoS,7,86.47
+Saudi Arabia,Phishing,1,52.39
+Russia,Phishing,8,48.44
+Canada,DDoS,3,3.54
+United States,Ransomware,2,34.78
+Egypt,Phishing,3,38.64
+United States,Phishing,5,40.48
+United Kingdom,Brute Force,8,58.44
+Argentina,Ransomware,10,53.83
+Saudi Arabia,Phishing,7,61.18
+Brazil,Ransomware,7,76.72
+Mexico,DDoS,7,81.49
+Colombia,Malware,8,72.09
+Colombia,Phishing,1,95.6
+Australia,Brute Force,4,2.81
+Nigeria,DDoS,6,20.38
+Germany,Ransomware,9,1.75
+Mexico,DDoS,2,65.1
+India,Phishing,1,89.91
+United Kingdom,Ransomware,10,25.1
+Colombia,Malware,2,92.78
+Nigeria,DDoS,7,6.97
+Mexico,Phishing,3,93.51
+United States,Brute Force,10,35.81
+South Korea,Ransomware,2,11.04
+United States,DDoS,7,49.1
+Mexico,DDoS,2,26.42
+Chile,Malware,3,29.2
+China,Malware,7,31.42
+Mexico,Brute Force,4,80.5
+Russia,Brute Force,1,54.38
+Nigeria,Phishing,5,31.82
+Chile,Phishing,9,61.42
+Egypt,Brute Force,8,71.9
+Canada,Brute Force,9,27.99
+China,Ransomware,10,41.94
+Canada,Malware,9,13.07
+Colombia,Phishing,7,18.93
+Russia,Malware,4,68.43
+United States,Malware,5,18.96
+India,Brute Force,1,52.99
+Japan,Ransomware,1,71.2
+Argentina,DDoS,3,11.58
+France,Ransomware,8,57.16
+China,Ransomware,2,26.4
+Mexico,Malware,4,96.33
+Chile,Ransomware,2,48.87
+South Africa,Phishing,5,80.79
+France,Malware,9,55.47
+Brazil,Phishing,1,5.3
+South Africa,DDoS,5,63.68
+South Korea,Malware,9,95.19
+United States,DDoS,1,60.56
+Russia,Malware,9,82.1
+Nigeria,Brute Force,8,88.54
+Argentina,Ransomware,4,23.58
+Nigeria,Brute Force,10,21.99
+Australia,DDoS,5,61.49
+Saudi Arabia,Ransomware,5,41.69
+Egypt,Malware,6,84.15
+Canada,Ransomware,7,90.1
+Canada,Phishing,8,35.99
+Saudi Arabia,Ransomware,8,24.45
+Colombia,Phishing,2,78.27
+South Korea,Ransomware,9,28.21
+China,Phishing,7,82.44
+Germany,DDoS,4,42.95
+Egypt,Brute Force,4,67.09
+Japan,Malware,8,10.46
+United Kingdom,Ransomware,4,62.76
+United States,Brute Force,6,45.73
+Russia,Malware,5,59.07
+Australia,Malware,3,17.63
+Australia,Phishing,10,73.95
+United Kingdom,DDoS,2,86.42
+France,DDoS,9,22.46
+Brazil,Brute Force,10,10.48
+Germany,DDoS,9,3.34
+South Africa,Ransomware,1,64.56
+South Korea,DDoS,10,61.1
+Egypt,Brute Force,3,55.12
+Mexico,DDoS,8,23.96
+Russia,Ransomware,6,39.7
+South Korea,Phishing,5,59.85
+Argentina,Brute Force,5,50.18
+South Africa,Phishing,6,98.79
+Chile,Phishing,7,14.51
+China,Phishing,1,69.82
+Saudi Arabia,Malware,9,41.03
+Colombia,Malware,3,43.39
+Saudi Arabia,Phishing,4,72.04
+United Kingdom,Brute Force,10,69.55
+India,Ransomware,1,99.13
+Australia,Ransomware,10,13.71
+United States,DDoS,3,11.31
+United States,Brute Force,2,72.71
+Egypt,Malware,2,58.26
+Canada,Phishing,1,28.14
+Argentina,DDoS,8,8.86
+Russia,Ransomware,3,9.48
+South Africa,Malware,3,89.52
+United States,Malware,6,19.99
+Argentina,Phishing,8,33.01
+France,Ransomware,9,23.44
+United Kingdom,Brute Force,9,36.14
+Mexico,Malware,4,7.87
+Australia,Phishing,5,52.39
+Argentina,Brute Force,2,7.69
+Saudi Arabia,Ransomware,9,80.24
+United Kingdom,Malware,8,24.14
+Nigeria,Brute Force,3,54.46
+United Kingdom,Brute Force,9,88.13
+Egypt,Brute Force,3,65.44
+Colombia,Malware,9,53.76
+Nigeria,Malware,2,33.11
+South Korea,DDoS,10,33.97
+United Kingdom,Ransomware,9,67.28
+Australia,Phishing,8,99.42
+Argentina,Brute Force,9,66.52
+Argentina,DDoS,5,56.22
+France,Phishing,2,73.33
+Brazil,DDoS,8,47.06
+United States,Malware,6,6.95
+United Kingdom,Brute Force,8,56.67
+China,Phishing,5,95.8
+United Kingdom,Phishing,10,18.35
+Brazil,Phishing,2,69.31
+Canada,Phishing,6,20.89
+South Korea,Phishing,5,54.05
+China,DDoS,5,10.57
+Saudi Arabia,Brute Force,1,45.59
+United States,Malware,2,75.86
+United Kingdom,Malware,8,35.41
+South Africa,Malware,3,66.83
+Brazil,Malware,10,79.75
+Argentina,DDoS,3,92.79
+Argentina,Ransomware,8,24.23
+Canada,Brute Force,8,40.53
+Colombia,Phishing,2,16.09
+South Korea,Ransomware,8,99.26
+Australia,Malware,1,92.77
+Chile,Ransomware,6,54.46
+Mexico,Brute Force,8,84.36
+United States,Phishing,3,52.57
+United States,Phishing,8,62.73
+Saudi Arabia,Brute Force,1,9.82
+Japan,Brute Force,9,75.77
+United Kingdom,Malware,9,13.64
+Australia,Phishing,5,82.78
+Mexico,Ransomware,10,78.42
+United States,DDoS,4,71.17
+United States,DDoS,6,4.58
+Russia,Brute Force,7,31.01
+China,Malware,5,27.05
+Japan,DDoS,10,36.65
+Australia,Phishing,9,9.68
+South Africa,Brute Force,3,93.76
+Australia,Ransomware,7,55.83
+Nigeria,Brute Force,10,31.25
+Canada,Ransomware,10,40.3
+Saudi Arabia,Brute Force,5,45.27
+Chile,Brute Force,7,60.46
+Mexico,Brute Force,2,52.05
+Colombia,Ransomware,4,92.02
+Russia,Ransomware,2,50.2
+China,Brute Force,7,99.22
+Canada,DDoS,2,85.29
+Saudi Arabia,Malware,1,21.64
+India,Malware,9,93.13
+France,Malware,1,12.52
+Brazil,Ransomware,8,81.93
+Chile,Ransomware,2,38.68
+South Africa,DDoS,8,87.92
+Japan,Malware,3,86.94
+Brazil,Malware,6,80.79
+Brazil,Brute Force,3,79.21
+China,Ransomware,7,31.16
+United Kingdom,Malware,10,9.01
+India,DDoS,9,40.9
+Mexico,DDoS,2,18.18
+Colombia,Malware,5,69.8
+Mexico,Ransomware,6,35.26
+Argentina,DDoS,4,97.59
+Brazil,Brute Force,4,64.46
+Chile,DDoS,4,82.43
+Colombia,Phishing,2,14.12
+France,Phishing,4,86.34
+United Kingdom,Ransomware,1,92.35
+Australia,Malware,6,49.22
+Colombia,Ransomware,1,61.02
+South Africa,Ransomware,10,76.72
+Mexico,Ransomware,6,18.31
+India,Ransomware,1,50.75
+Colombia,Brute Force,6,40.47
+Colombia,Brute Force,10,15.49
+South Korea,DDoS,8,37.39
+Argentina,Phishing,2,7.75
+South Africa,Ransomware,2,3.56
+Saudi Arabia,DDoS,4,14.38
+Colombia,Phishing,3,96.35
+Brazil,Malware,4,55.4
+Australia,Brute Force,7,96.62
+India,Phishing,1,43.82
+Saudi Arabia,Malware,6,31.87
+Australia,Phishing,3,51.11
+India,Brute Force,10,44.51
+France,Brute Force,7,11.46
+Nigeria,DDoS,10,64.44
+South Korea,Ransomware,2,22.39
+Saudi Arabia,Phishing,2,62.34
+Egypt,Phishing,4,65.37
+Argentina,Malware,1,16.05
+United Kingdom,Brute Force,3,7.07
+Mexico,Phishing,9,78.3
+Australia,Brute Force,7,46.52
+South Korea,Phishing,7,6.76
+Brazil,DDoS,4,99.49
+Argentina,Ransomware,2,6.72
+France,Phishing,4,69.81
+South Africa,Brute Force,6,98.38
+China,DDoS,3,24.68
+France,Phishing,1,15.08
+Nigeria,Malware,8,13.02
+United Kingdom,Ransomware,5,31.02
+Mexico,Phishing,5,11.0
+Japan,DDoS,4,69.52
+Japan,Malware,6,7.17
+Chile,DDoS,3,51.43

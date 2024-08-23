@@ -72,7 +72,7 @@ Vamos a implementar estas métricas utilizando el dataset `Ejemplo_03_04_Dataset
     from sklearn.tree import DecisionTreeClassifier
     from sklearn.metrics import precision_score, recall_score, f1_score
     ```
-    Utilizaremos:
+    **Utilizaremos:**
     - pandas para manejar y procesar datos estructurados.
     - train_test_split de Scikit-learn para dividir datos en conjuntos de entrenamiento y prueba.
     - DecisionTreeClassifier de Scikit-learn para crear y entrenar modelos de árboles de decisión.
@@ -98,6 +98,8 @@ Vamos a implementar estas métricas utilizando el dataset `Ejemplo_03_04_Dataset
     model.fit(X_train, y_train)
     ```
     - **Crear y entrenar un modelo:** Creamos un modelo de árbol de decisión y lo entrenamos con los datos de entrenamiento.
+
+    <br>
 
 3.  **Realizar predicciones y evaluar el modelo:** Después de entrenar el modelo, realizaremos predicciones en el conjunto de prueba y luego calcularemos las métricas de evaluación.
     ```python
