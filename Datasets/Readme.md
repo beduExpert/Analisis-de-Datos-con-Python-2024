@@ -39,6 +39,9 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
     - 🎲 Reto_02_Geografia_Clasificacion: Valores aleatorios.
 
 6. 📁 [Sesión 06: Visualización de datos avanzada.](S06/)
+    - 🎲 Ejemplo_02_03_Cybersecurity_Dataset: Valores aleatorios.
+    - 🎲 Ejemplo_04_Cybersecurity_Word_Dataset: Valores aleatorios.
+    - 🎲 Reto_01_02_Bio_Data: Valores aleatorios.
 
 7. 📁 [Sesión 07: Pruebas A/B y procesamiento de lenguaje natural.](S07/)
 
