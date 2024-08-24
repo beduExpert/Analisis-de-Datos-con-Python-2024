@@ -10,6 +10,11 @@ Utilizar visualizaciones jerárquicas y comparativas para obtener una comprensi�
 
 Tu tarea es analizar un dataset que contiene información sobre la expresión génica, la producción de metabolitos, y la respuesta a diferentes tratamientos en varias líneas celulares (células cancerosas, células sanas, y células tratadas con diversos fármacos). Utilizarás cuatro tipos de gráficos para explorar y visualizar los datos, identificando patrones clave que puedan influir en la comprensión de los procesos bioquímicos y la efectividad de tratamientos. Utiliza el archivo [Reto_01_02_Bio_Data.csv](../../Datasets/S06/Reto_01_02_Bio_Data.csv)
 
+Asegúrate de tener instaladas las librerías necesarias:
+
+```python
+!pip install squarify
+```
 **Tu reto es:**
 
 1. 🧬 Crea un **Scatterplot por categoría** que muestre la relación entre la expresión de un gen específico (escoge uno: A, B, C, D, E) y la cantidad producida de un metabolito clave (por ejemplo, glucosa), categorizado por el tipo de célula (células cancerosas, células sanas, etc.).
