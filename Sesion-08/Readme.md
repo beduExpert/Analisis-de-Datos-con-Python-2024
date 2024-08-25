@@ -40,7 +40,7 @@ La regresión logística es un algoritmo de aprendizaje supervisado utilizado pa
 Una matriz de confusión es una herramienta utilizada en aprendizaje supervisado para evaluar el rendimiento de un modelo de clasificación, mostrando la cantidad de predicciones correctas e incorrectas para cada clase a través de verdaderos positivos, verdaderos negativos, falsos positivos y falsos negativos. En la detección de fraude financiero, ayuda a analizar cuántas transacciones fraudulentas se detectan correctamente y cuántas legítimas se clasifican erróneamente, permitiendo ajustar los modelos para mejorar su precisión.
 
 ##### 📜 **[Ejemplo 03:  Matriz de confusión](Ejemplo-03/Readme.md)**
-##### 🔥 **[Reto 02: Pendiente](Reto-02/Readme.md)**
+##### 🔥 **[Reto 02: Predicción de inseguridad futura en los estudios](Reto-02/Readme.md)**
 ---
 
 ### 📖 Curva ROC / AUC

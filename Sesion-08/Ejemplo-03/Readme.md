@@ -184,4 +184,4 @@ La matriz de confusión se puede utilizar con cualquier tipo de modelo de clasif
 
 ---
 
-⬅️ [**Anterior**](../Readme.md) | [**Siguiente**](../Reto-03/Readme.md) ➡️
+⬅️ [**Anterior**](../Readme.md) | [**Siguiente**](../Reto-02/Readme.md) ➡️

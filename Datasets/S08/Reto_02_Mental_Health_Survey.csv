@@ -1,0 +1,88 @@
+gender,age,university,degree_level,degree_major,academic_year,cgpa,residential_status,campus_discrimination,sports_engagement,average_sleep,study_satisfaction,academic_workload,academic_pressure,financial_concerns,social_relationships,depression,anxiety,isolation,future_insecurity,stress_relief_activities
+Female,17,PU,Undergraduate,Computer Science,1st year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,5,5,5,1,5,5,5,3,Sleep
+Female,17,PU,Undergraduate,Computer Science,1st year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,4,4,5,3,4,4,5,2,Religious Activities
+Male,17,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,3,5,5,1,3,4,4,4,5,Outdoor Activities
+Male,18,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,4-6 times,4-6 hrs,4,3,4,4,4,3,4,4,2,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+Male,18,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,No Sports,7-8 hrs,5,3,1,1,3,1,2,2,1,Sleep
+Male,18,PU,Undergraduate,Data Science,1st year,1.5-2.0,On-Campus,No,No Sports,4-6 hrs,5,4,5,2,3,4,3,4,4,Religious Activities
+Male,18,PU,Undergraduate,Computer Science,1st year,3.5-4.0,Off-Campus,No,7+ times,4-6 hrs,3,3,4,5,2,4,3,4,5,"Religious Activities, Sports and Fitness, Social Connections"
+Female,18,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,1,4,5,5,2,5,5,5,5,Creative Outlets
+Male,18,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,2,4,4,5,1,5,4,5,5,Online Entertainment
+Male,18,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,4,3,3,2,3,3,3,3,4,Online Entertainment
+Male,18,PU,Undergraduate,Computer Science,1st year,3.5-4.0,Off-Campus,Yes,4-6 times,7-8 hrs,4,2,2,1,3,1,1,2,3,Online Entertainment
+Male,18,PU,Undergraduate,Data Science,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,4,4,4,4,5,3,3,1,3,Sports and Fitness
+Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,5,3,3,3,1,"Religious Activities, Sports and Fitness, Social Connections"
+Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,1-3 times,4-6 hrs,5,5,3,2,1,2,4,5,2,"Social Connections, Online Entertainment, Sleep"
+Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,3,3,4,5,3,5,4,5,1,Religious Activities
+Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,Yes,No Sports,7-8 hrs,5,3,3,4,3,1,1,1,3,"Religious Activities, Social Connections, Online Entertainment"
+Male,19,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,No Sports,7-8 hrs,5,3,5,3,3,2,2,3,1,Religious Activities
+Female,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,3,3,2,4,4,3,2,"Religious Activities, Creative Outlets, Social Connections"
+Male,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,5,4,4,5,3,5,5,4,3,Sports and Fitness
+Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,4,5,5,2,2,4,4,5,5,"Religious Activities, Social Connections"
+Female,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,5,4,4,1,3,3,4,3,3,"Religious Activities, Creative Outlets"
+Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,7+ times,4-6 hrs,5,5,3,5,5,4,1,3,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+Male,19,PU,Undergraduate,Data Science,1st year,2.0-2.5,On-Campus,No,No Sports,4-6 hrs,2,4,1,5,3,3,3,3,2,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,On-Campus,No,No Sports,7-8 hrs,5,4,4,3,2,4,2,3,1,Creative Outlets
+Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,4-6 times,7-8 hrs,5,3,2,2,4,1,2,1,1,Religious Activities
+Female,19,PU,Undergraduate,Data Science,2nd year,2.5-3.0,On-Campus,No,No Sports,2-4 hrs,2,4,4,1,2,3,3,4,3,Religious Activities
+Female,19,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,4,4,1,1,1,1,4,"Religious Activities, Social Connections, Online Entertainment"
+Male,19,NUST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,1-3 times,7-8 hrs,4,4,4,3,4,2,2,2,4,"Religious Activities, Online Entertainment, Outdoor Activities"
+Male,19,PU,Undergraduate,Computer Science,1st year,2.0-2.5,On-Campus,No,1-3 times,4-6 hrs,5,4,5,5,1,3,4,5,1,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+Female,19,PU,Undergraduate,Computer Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,4,3,3,3,3,4,4,3,2,"Religious Activities, Social Connections, Sleep"
+Male,19,UOL,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,4-6 times,7-8 hrs,3,2,4,4,4,1,1,3,3,Outdoor Activities
+Female,19,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,On-Campus,No,No Sports,4-6 hrs,3,5,5,3,3,5,5,3,5,Sleep
+Female,19,UET,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,No Sports,4-6 hrs,3,5,5,5,3,4,3,3,4,"Social Connections, Sleep"
+Female,19,PU,Undergraduate,Data Science,2nd year,3.5-4.0,On-Campus,No,4-6 times,4-6 hrs,4,4,4,3,4,2,2,1,3,Sports and Fitness
+Male,20,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,5,4,5,4,3,2,1,1,2,"Religious Activities, Social Connections, Online Entertainment"
+Male,20,UET,Postgraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,5,4,4,1,3,3,3,3,4,Online Entertainment
+Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,2-4 hrs,5,5,5,3,4,2,3,3,1,"Religious Activities, Sports and Fitness, Online Entertainment"
+Male,20,UET,Undergraduate,Computer Science,3rd year,2.5-3.0,On-Campus,No,No Sports,4-6 hrs,3,5,4,4,1,5,5,5,3,Online Entertainment
+Female,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,3,5,5,2,3,5,5,4,4,Online Entertainment
+Female,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,5,5,5,5,"Religious Activities, Social Connections, Online Entertainment"
+Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,3,4,2,3,4,3,5,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+Male,20,COMSATS,Undergraduate,Computer Science,2nd year,3.0-3.5,On-Campus,No,No Sports,4-6 hrs,5,4,4,1,4,3,3,1,3,"Religious Activities, Online Entertainment"
+Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,4,5,4,4,4,2,3,1,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+Female,20,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,3,3,3,3,2,4,3,5,3,Religious Activities
+Female,20,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,2-4 hrs,5,4,4,3,1,3,2,3,1,Social Connections
+Female,20,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,1-3 times,7-8 hrs,5,4,4,2,3,1,2,2,2,Social Connections
+Male,20,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,3,5,5,3,3,4,4,3,4,Outdoor Activities
+Male,20,UET,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,5,5,4,5,3,5,5,5,3,"Religious Activities, Online Entertainment"
+Male,20,PU,Undergraduate,Computer Science,1st year,1.5-2.0,Off-Campus,Yes,7+ times,2-4 hrs,1,4,5,5,1,5,5,5,5,Online Entertainment
+Male,20,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,4-6 times,7-8 hrs,5,5,5,3,5,5,3,3,2,"Religious Activities, Outdoor Activities"
+Male,20,PU,Undergraduate,Data Science,3rd year,3.5-4.0,Off-Campus,Yes,No Sports,7-8 hrs,4,4,3,1,1,3,3,5,2,Online Entertainment
+Male,20,PU,Undergraduate,Data Science,2nd year,3.0-3.5,On-Campus,No,No Sports,4-6 hrs,5,3,1,5,3,1,1,2,1,Religious Activities
+Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,Yes,4-6 times,7-8 hrs,4,3,5,3,3,4,4,4,4,Outdoor Activities
+Male,20,PU,Undergraduate,Data Science,1st year,0.0-0.0,On-Campus,No,No Sports,4-6 hrs,4,4,4,5,2,3,2,4,2,Sleep
+Male,20,PU,Undergraduate,Data Science,2nd year,3.5-4.0,Off-Campus,No,4-6 times,7-8 hrs,5,2,2,1,3,1,1,1,1,"Religious Activities, Social Connections"
+Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,3,4,3,4,1,1,2,1,3,"Religious Activities, Social Connections, Online Entertainment"
+Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,2,4,4,4,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,4,5,3,5,5,5,4,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,7-8 hrs,3,3,4,5,3,4,4,4,4,Social Connections
+Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,5,5,1,5,3,4,1,1,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+Male,20,FAST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,2,2,3,3,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,On-Campus,No,7+ times,4-6 hrs,4,5,5,5,4,3,4,2,3,"Social Connections, Sleep"
+Male,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,7+ times,7-8 hrs,4,2,3,4,2,3,3,4,3,"Religious Activities, Sports and Fitness, Sleep"
+Female,20,UET,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,No Sports,4-6 hrs,5,4,5,4,1,4,5,5,4,Online Entertainment
+Male,21,COMSATS,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,5,3,5,5,1,4,4,4,2,Nothing
+Male,21,PU,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,5,4,3,5,5,5,5,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+Male,21,PU,Undergraduate,Data Science,2nd year,3.5-4.0,On-Campus,No,1-3 times,4-6 hrs,5,4,3,4,5,2,2,2,3,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+Male,21,PU,Undergraduate,Data Science,2nd year,2.5-3.0,On-Campus,Yes,4-6 times,4-6 hrs,3,4,5,3,4,1,1,1,1,"Religious Activities, Social Connections"
+Male,21,FAST,Undergraduate,Data Science,3rd year,2.0-2.5,Off-Campus,No,1-3 times,7-8 hrs,3,5,4,1,3,2,2,4,4,"Religious Activities, Sports and Fitness"
+Male,21,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,4-6 times,7-8 hrs,4,4,4,2,4,2,2,2,3,Outdoor Activities
+Male,21,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,3,2,4,1,1,2,2,"Religious Activities, Social Connections"
+Female,21,PU,Undergraduate,Information Technology,4th year,3.5-4.0,Off-Campus,Yes,No Sports,7-8 hrs,3,3,3,3,3,5,5,5,1,Sleep
+Female,21,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,3,4,4,3,4,4,4,2,4,"Online Entertainment, Sleep"
+Male,21,PU,Undergraduate,Data Science,2nd year,2.0-2.5,Off-Campus,No,No Sports,4-6 hrs,5,4,2,4,3,1,2,1,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+Male,22,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,3,4,4,5,4,3,2,2,4,"Religious Activities, Social Connections, Online Entertainment"
+Male,22,VU,Undergraduate,Software Engineering,4th year,3.0-3.5,Off-Campus,No,1-3 times,7-8 hrs,4,4,3,5,1,3,3,4,1,"Religious Activities, Sports and Fitness, Outdoor Activities"
+Male,22,UET,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,4,4,5,4,3,4,4,4,5,Religious Activities
+Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,No,4-6 times,4-6 hrs,5,3,3,3,4,2,2,2,4,"Social Connections, Outdoor Activities"
+Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,5,4,2,5,1,5,5,5,3,"Religious Activities, Sports and Fitness, Online Entertainment"
+Male,22,PU,Undergraduate,Information Technology,4th year,2.5-3.0,Off-Campus,No,No Sports,7-8 hrs,1,2,2,1,2,2,2,5,2,Religious Activities
+Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,On-Campus,No,No Sports,7-8 hrs,4,3,1,4,4,2,3,1,2,"Online Entertainment, Outdoor Activities, Sleep"
+Female,22,COMSATS,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,No Sports,2-4 hrs,5,5,5,5,1,5,5,5,5,"Religious Activities, Sleep"
+Male,22,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,3,3,3,3,2,3,4,4,5,Sleep
+Male,23,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,3,5,3,5,1,5,5,5,5,Sports and Fitness
+Male,23,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,Yes,1-3 times,7-8 hrs,3,3,4,1,4,3,3,2,3,"Religious Activities, Online Entertainment, Outdoor Activities"
+Male,26,PU,Postgraduate,Data Science,1st year,2.5-3.0,On-Campus,Yes,1-3 times,7-8 hrs,4,4,4,5,2,5,4,4,5,"Social Connections, Online Entertainment"
+Male,26,KUST,Undergraduate,Data Science,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,7-8 hrs,5,5,1,5,1,5,5,3,5,"Creative Outlets, Social Connections, Online Entertainment"

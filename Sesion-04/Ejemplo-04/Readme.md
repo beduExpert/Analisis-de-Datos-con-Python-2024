@@ -1,4 +1,4 @@
-🏠 [**Inicio**](../../Readme.md) ➡️ / 📖 [**Sesión 04**](../Readme.md) ➡️ / 📝 `Ejemplo 03: Regresión lineal simple`
+🏠 [**Inicio**](../../Readme.md) ➡️ / 📖 [**Sesión 04**](../Readme.md) ➡️ / 📝 `Ejemplo 04: Regresión lineal simple`
 
 ## 🎯 Objetivo
 El objetivo es comprender y aplicar los conceptos de regresión lineal simple utilizando Python, con el fin de analizar y predecir la relación entre dos variables cuantitativas. A través de este aprendizaje, podrás desarrollar habilidades para construir modelos de regresión, interpretar los resultados y visualizar cómo una variable afecta a otra, lo que te permitirá extraer conclusiones informadas en distintos contextos profesionales.

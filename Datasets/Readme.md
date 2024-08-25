@@ -49,5 +49,7 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
     - 🔗 [Crime_Dataset](https://www.kaggle.com/datasets/aishwaryatechie/nypd-arrest-data-2024)
     - 🔗 [Mall_Customer_Segmentation_Data](https://www.kaggle.com/datasets/muzamillarr/mall-customer-segmentation-data)
     - 🔗 [Heart_Disease_Data](https://www.kaggle.com/datasets/aritrasarkar785/heart-diseases-detection-database)
+    - 🔗 [Financial_Fraud_Detection](https://www.kaggle.com/datasets/smmmmmmmmmmmm/financial-fraud-detection)
+    - 🔗 [Mental_Health_Survey](https://www.kaggle.com/datasets/willianoliveiragibin/student-mental)
 
 ---
