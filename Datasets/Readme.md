@@ -48,5 +48,6 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
 8. 📁 [Sesión 08: Introducción a machine learning: clasificación no supervisada y supervisada.](S08/)
     - 🔗 [Crime_Dataset](https://www.kaggle.com/datasets/aishwaryatechie/nypd-arrest-data-2024)
     - 🔗 [Mall_Customer_Segmentation_Data](https://www.kaggle.com/datasets/muzamillarr/mall-customer-segmentation-data)
+    - 🔗 [Heart_Disease_Data](https://www.kaggle.com/datasets/aritrasarkar785/heart-diseases-detection-database)
 
 ---
