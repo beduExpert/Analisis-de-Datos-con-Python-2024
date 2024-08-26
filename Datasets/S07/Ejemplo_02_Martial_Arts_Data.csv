@@ -1,0 +1,17 @@
+Match_ID,Round,Grupo,Ataques,Duracion_pelea,Emocion
+1,Quarterfinal,A,37,240,8
+2,Quarterfinal,A,55,210,7
+3,Quarterfinal,A,43,185,6
+4,Quarterfinal,A,20,258,3
+5,Quarterfinal,B,33,205,9
+6,Quarterfinal,B,45,206,3
+7,Quarterfinal,B,36,180,9
+8,Quarterfinal,B,31,222,5
+9,Semifinal,A,44,295,8
+10,Semifinal,A,60,255,4
+11,Semifinal,B,27,278,3
+12,Semifinal,B,39,192,6
+13,Final,A,47,231,10
+14,Final,B,36,192,3
+15,Championship,A,37,274,5
+16,Championship,B,41,283,8
