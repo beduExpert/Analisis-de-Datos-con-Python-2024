@@ -48,7 +48,6 @@ Una matriz de confusión es una herramienta utilizada en aprendizaje supervisado
 La curva ROC es una gráfica que evalúa el rendimiento de un modelo de clasificación binaria al mostrar la relación entre la tasa de verdaderos positivos y la tasa de falsos positivos, mientras que el AUC mide el área bajo esta curva, indicando la capacidad del modelo para distinguir entre clases. En sistemas de visión por computadora, se utiliza para evaluar la precisión de los modelos que identifican patrones en imágenes, como en sistemas de seguridad que diferencian entre personas y objetos, donde un AUC alto refleja un buen rendimiento.
 
 ##### 📜 **[Ejemplo 04: Curva ROC / AUC](Ejemplo-04/Readme.md)**
-##### 🔥 **[Reto 03: Pendiente](Reto-03/Readme.md)**
 ---
 
 ⬅️ [**Anterior**](../Sesion-07/Readme.md) | 🏠 [**Inicio**](../Readme.md)

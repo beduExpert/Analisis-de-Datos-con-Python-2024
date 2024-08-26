@@ -1,56 +1,64 @@
-🏠 [**Inicio**](../../Readme.md) ➡️ / 📖 [**Sesión 08**](../Readme.md) ➡️ / 📝 `Ejemplo 03: Curva ROC y AUC para evaluación de modelos`
+🏠 [**Inicio**](../../Readme.md) ➡️ / 📖 [**Sesión 08**](../Readme.md) ➡️ / 📝 `Ejemplo 04: Curva ROC / AUC`
 
 ## 🎯 Objetivo
 
-Aprender a utilizar la **Curva ROC** y el **Área Bajo la Curva (AUC)** para evaluar el rendimiento de un modelo de clasificación. En este caso, utilizaremos un dataset de transacciones de tarjetas de crédito para predecir si una transacción es fraudulenta o no, y analizaremos la capacidad del modelo para distinguir entre clases utilizando la curva ROC y el AUC.
+Aprender a utilizar la **Curva ROC** y el **Área Bajo la Curva (AUC)** para evaluar el rendimiento de un modelo de clasificación. En este caso, utilizaremos un dataset de comentarios de YouTube para predecir si un comentario es spam o no, y analizaremos la capacidad del modelo para distinguir entre clases utilizando la curva ROC y el AUC.
 
 ---
 
 ## 🚀 Comencemos
 
-La **Curva ROC (Receiver Operating Characteristic)** es una herramienta utilizada para evaluar el rendimiento de un modelo de clasificación binaria, mostrando la relación entre la tasa de verdaderos positivos (TPR) y la tasa de falsos positivos (FPR) para diferentes umbrales de decisión. El **Área Bajo la Curva (AUC)** mide la capacidad del modelo para distinguir entre las clases. En este ejemplo, utilizaremos un dataset de transacciones de tarjetas de crédito para analizar cómo estas métricas pueden ayudar a evaluar el desempeño del modelo de regresión logística en la detección de fraudes. Utilizaremos el archivo [Ejemplo_03_Credit_Card_Fraud_Dataset.csv](../../Datasets/S08/Ejemplo_03_Credit_Card_Fraud_Dataset.csv).
+La **Curva ROC (Receiver Operating Characteristic)** es una herramienta utilizada para evaluar el rendimiento de un modelo de clasificación binaria, mostrando la relación entre la tasa de verdaderos positivos (TPR) y la tasa de falsos positivos (FPR) para diferentes umbrales de decisión. El **Área Bajo la Curva (AUC)** mide la capacidad del modelo para distinguir entre las clases. En este ejemplo, utilizaremos un dataset de comentarios de YouTube para analizar cómo estas métricas pueden ayudar a evaluar el desempeño del modelo de regresión logística en la detección de spam. Utilizaremos el archivo [Ejemplo_04_Youtube_Spam_Dataset.csv](../../Datasets/S08/Ejemplo_04_Youtube_Spam_Dataset.csv).
 
 ---
 
-### 🛠️ **Aplicación de la Curva ROC y AUC para la evaluación de modelos**
-
-Sigue los siguientes pasos para calcular la curva ROC y AUC para el dataset de detección de fraudes:
+### 🛠️ **Aplicación de la Curva ROC y AUC para la evaluación de modelos en detección de spam**
 
 1. **Instalación de las bibliotecas necesarias:** Asegúrate de tener instaladas las bibliotecas necesarias para realizar el análisis. Si no las tienes, instálalas con el siguiente comando:
 
     ```bash
-    pip install pandas numpy scikit-learn matplotlib seaborn
+    pip install pandas numpy scikit-learn matplotlib
     ```
 
 2. **Importación de las bibliotecas:** Importa las bibliotecas que vas a utilizar:
 
     ```python
-    from sklearn.model_selection import train_test_split
     from sklearn.linear_model import LogisticRegression
-    from sklearn.metrics import roc_curve, roc_auc_score, RocCurveDisplay
+    from sklearn.model_selection import train_test_split
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.metrics import roc_curve, roc_auc_score
     import matplotlib.pyplot as plt
     import pandas as pd
-    import numpy as np
     ```
 
-3. **Carga y exploración del conjunto de datos:** Carga el dataset de detección de fraudes y explora las primeras filas para familiarizarte con los datos:
+3. **Carga y exploración del conjunto de datos:** Carga el dataset de detección de spam y explora las primeras filas para familiarizarte con los datos:
 
     ```python
     # Cargar el conjunto de datos
-    df = pd.read_csv('Ejemplo_03_Credit_Card_Fraud_Dataset.csv')  # Ajusta la ruta al archivo según tu entorno de trabajo.
+    df = pd.read_csv('Ejemplo_04_Youtube_Spam_Dataset.csv')  # Ajusta la ruta al archivo según tu entorno de trabajo.
 
     # Mostrar las primeras filas del DataFrame
     df.head()
     ```
 
-4. **Preprocesamiento de datos:** Selecciona las columnas relevantes para el análisis:
+4. **Preprocesamiento de datos:** Convierte el texto de los comentarios a una representación numérica usando TF-IDF:
 
     ```python
-    # Seleccionar las columnas relevantes para el análisis
-    X = df[['Transaction Amount', 'Transaction Month', 'Transaction Year', 'Transaction Day', 
-            'Transaction Hour', 'Transaction Minute', 'Transaction Second', 'Merchant ID']]
-    y = df['Fraudulent Flag']
+    # Convertir el texto a una representación TF-IDF
+    tfidf = TfidfVectorizer(stop_words='english')
+    X = tfidf.fit_transform(df['CONTENT'])
+
+    # Variable objetivo
+    y = df['CLASS']
     ```
+
+    - **`tfidf = TfidfVectorizer(stop_words='english')`**: Inicializa un vectorizador TF-IDF, que convierte el texto en una representación numérica basada en la frecuencia de términos (TF) y la frecuencia inversa de documentos (IDF). El parámetro `stop_words='english'` elimina palabras comunes en inglés que no aportan mucho significado, como "the", "is", "in", etc.
+
+    - **`X = tfidf.fit_transform(df['CONTENT'])`**: Ajusta el vectorizador TF-IDF a los datos de texto en la columna `'CONTENT'` del DataFrame `df` y transforma estos datos en una matriz de características numéricas. Cada fila de la matriz representa un comentario y cada columna representa una palabra del vocabulario generado, con valores que indican la importancia de cada palabra en cada comentario según TF-IDF.
+
+    - **`y = df['CLASS']`**: Asigna la columna `'CLASS'` del DataFrame `df` a la variable `y`, que es la variable objetivo que indica si un comentario es spam (1) o no spam (0). Esta variable se utilizará para entrenar y evaluar el modelo de clasificación.
+
+    <br>
 
 5. **División del conjunto de datos:** Divide el conjunto de datos en conjuntos de entrenamiento y prueba:
 
@@ -70,6 +78,19 @@ Sigue los siguientes pasos para calcular la curva ROC y AUC para el dataset de d
 
     # Predecir las probabilidades en el conjunto de prueba
     y_prob = logreg.predict_proba(X_test)[:, 1]
+
+    # Obtener el score del modelo en los datos de prueba
+    score = logreg.score(X_test, y_test)
+    print("Score del modelo:", score)
+
+    # Calcular la curva ROC y el AUC
+    fpr, tpr, thresholds = roc_curve(y_test, y_prob)
+    auc = roc_auc_score(y_test, y_prob)
+    print("AUC:", auc)
+    ```
+    ```plaintext
+    Score del modelo: 0.9387755102040817
+    AUC: 0.9844802188552189
     ```
 
 7. **Generar y visualizar la curva ROC:** Utiliza la curva ROC para evaluar el rendimiento del modelo:
@@ -93,25 +114,24 @@ Sigue los siguientes pasos para calcular la curva ROC y AUC para el dataset de d
     <details>
         <summary><b>✨Haz clic aquí para ver la imagen✨</b></summary>
         <div align="center">
-            <img src="../Imagenes/Ejemplo_03_Imagen_02.png" alt="Curva ROC" width="50%">
+            <img src="../Imagenes/Ejemplo_04_Imagen_01.png" alt="Curva ROC" width="50%">
         </div>
     </details>
 
     <br>
 
-8. **Interpretación de los resultados de la Curva ROC y AUC**:
-
-    - **Curva ROC:** Muestra el rendimiento del modelo para todos los umbrales posibles. Una curva más cercana a la esquina superior izquierda indica un mejor rendimiento.
-    - **AUC (Área Bajo la Curva):** Es un valor entre 0 y 1 que mide la capacidad del modelo para distinguir entre clases. Un AUC de 0.5 indica un modelo que no es mejor que el azar, mientras que un AUC de 1.0 indica un modelo perfecto.
+---
 
 ### 📉 **Interpretación de los resultados**
 
-- **Curva ROC:** La curva ROC muestra la relación entre la tasa de verdaderos positivos y la tasa de falsos positivos para diferentes umbrales de decisión. Cuanto más se acerque la curva a la esquina superior izquierda, mejor será el rendimiento del modelo.
-- **AUC (Área Bajo la Curva):** El AUC proporciona un solo número que resume el rendimiento del modelo. Un AUC más alto indica una mejor capacidad del modelo para discriminar entre clases. Por ejemplo, un AUC de 0.85 significa que hay un 85% de probabilidad de que el modelo clasifique correctamente una observación positiva sobre una negativa.
+1. **Precisión del modelo**:
+   - La precisión del modelo es **0.9388** (o 93.88%), lo que significa que el modelo de regresión logística predice correctamente si un comentario es spam o no en aproximadamente el 94% de los casos. Este alto nivel de precisión indica que el modelo es bastante efectivo para clasificar los comentarios como spam o no spam en este conjunto de datos específico.
 
----
+2. **Curva ROC**:
+   - La **Curva ROC (Receiver Operating Characteristic)** en el gráfico se aproxima mucho a la esquina superior izquierda, lo cual es un signo de un modelo robusto. Esta forma indica que el modelo tiene una alta **Tasa de Verdaderos Positivos (TPR)** y una baja **Tasa de Falsos Positivos (FPR)** a través de varios umbrales de decisión. En términos simples, el modelo es muy bueno para maximizar los verdaderos positivos mientras minimiza los falsos positivos, lo cual es crucial en tareas de clasificación como la detección de spam.
 
-🏆 ¡Bien hecho! Ahora estás listo para evaluar tus modelos de clasificación utilizando la curva ROC y AUC. ¡Mucho éxito en tu análisis!
+3. **Área Bajo la Curva (AUC)**:
+   - El **AUC (Área Bajo la Curva)** es **0.9845** (o 98.45%), lo que indica una capacidad excelente del modelo para distinguir entre comentarios de spam y comentarios legítimos. Un AUC cercano a 1 implica que el modelo tiene una alta discriminación entre las clases. En este caso, un AUC de 0.9845 sugiere que el modelo tiene un 98.45% de probabilidad de clasificar correctamente un comentario aleatorio como spam o no spam, lo que refuerza la efectividad del modelo en la detección de spam.
 
 ---
 
