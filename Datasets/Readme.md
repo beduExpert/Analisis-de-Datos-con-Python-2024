@@ -42,6 +42,10 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
     - 🎲 Reto_01_02_Bio_Data: Valores aleatorios.
 
 7. 📁 [Sesión 07: Pruebas A/B y procesamiento de lenguaje natural.](S07/)
+    - 🎲 Ejemplo_01_03_Amazon_Sales_Dataset: Valores aleatorios.
+    - 🎲 Ejemplo_02_Martial_Arts_Data: Valores aleatorios.
+    - 🎲 pieza_metálica: Imagen de muestra.
+    - 🎲 Reto_02_Tiempos_Ciclo_Produccion: Valores aleatorios.
 
 8. 📁 [Sesión 08: Introducción a machine learning: clasificación no supervisada y supervisada.](S08/)
     - 🔗 [Crime_Dataset](https://www.kaggle.com/datasets/aishwaryatechie/nypd-arrest-data-2024)

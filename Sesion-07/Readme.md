@@ -29,7 +29,7 @@ Son una técnica de experimentación utilizada para comparar dos variantes de un
 
 
 ##### 📜 **[Ejemplo 02: Pruebas A/B](Ejemplo-02/Readme.md)**
-##### 🔥 **[Reto 01: Pruebas A/B](Reto-02/Readme.md)**
+##### 🔥 **[Reto 02: Pruebas A/B](Reto-02/Readme.md)**
 ---
 
 ### 📖 Procesamiento de Lenguaje Natural (NLP)
@@ -49,4 +49,4 @@ Es un campo de la computación que se centra en el uso de algoritmos para realiz
 
 ---
 
-⬅️ [**Anterior**](../Sesion-05/Readme.md) | [**Siguiente**](../Sesion-07/Readme.md)➡️
+⬅️ [**Anterior**](../Sesion-06/Readme.md) | [**Siguiente**](../Sesion-08/Readme.md)➡️
