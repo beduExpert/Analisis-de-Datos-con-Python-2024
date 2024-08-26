@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Comprender y aplicar distribuciones muestrales y el método Bootstrap para realizar estimaciones precisas y robustas sobre una población a partir de datos muestrales. Las distribuciones muestrales te permiten visualizar y cuantificar la variabilidad de las estadísticas de muestra, como la media, mientras que el método Bootstrap te ayuda a evaluar la precisión de estas estimaciones sin hacer suposiciones sobre la distribución poblacional.
+Aprender a crear visualizaciones de datos efectivas para comunicar información de manera clara, identificando patrones y tendencias en los datos. Esto les permitirá analizar y presentar datos de forma visualmente atractiva y comprensible a traves de  Scatterplot por categorías, Scatterplot con variables condicionantes, Treemaps y gráfica de barras apiladas.
 
 ---
 
