@@ -96,7 +96,7 @@ La gráfica muestra la distribución muestral de la media de costos de los proye
 
 - **Forma:** La distribución es aproximadamente normal, lo que es común debido al Teorema del límite central, indicando que las medias de las muestras se distribuyen simétricamente alrededor de un valor central.
   
-- **Valor Central:** El valor central es la media de las medias muestrales, cercana a la media poblacional real.
+- **Valor central:** El valor central es la media de las medias muestrales, cercana a la media poblacional real.
 
 - **Variabilidad:** La anchura de la distribución refleja la variabilidad de las medias muestrales. Una distribución estrecha indica mayor consistencia en las estimaciones, mientras que una amplia sugiere mayor incertidumbre.
 
@@ -130,21 +130,17 @@ Aplica los siguientes pasos:
     costos = df['Costo_Total']
     ```
 
-
 2. **Aplicar el método Bootstrap:** Vamos a aplicar el método Bootstrap para estimar la media y el intervalo de confianza de los costos utilizando remuestreo con reemplazo.
 
     ```python
-    # Definir el número de remuestreos (R) y el tamaño de cada muestra (n)
+    # Definir el número de remuestreos (bootstrap) y el tamaño de cada muestra
     numero_remuestreos = 1000
-    tamaño_muestra = len(costos)
-
-    # Crear una lista vacia para almacenar las medias de cada remuestreo
     medias_bootstrap = []
 
     # Realizar el remuestreo y calcular la media para cada muestra bootstrap
     for _ in range(numero_remuestreos):
-        muestra_bootstrap = np.random.choice(costos, size=tamaño_muestra, replace=True)
-        medias_bootstrap.append(np.mean(muestra_bootstrap))
+        muestra = costos.sample(n=len(costos), replace=True)
+        medias_bootstrap.append(muestra.mean())
 
     # Convertir la lista de medias bootstrap a un array de numpy
     medias_bootstrap = np.array(medias_bootstrap)
@@ -158,8 +154,9 @@ Aplica los siguientes pasos:
     ```
 
     - `numero_remuestreos = 1000`: Definimos que realizaremos 1000 remuestreos.
-    - `np.random.choice(costos, size=tamano_muestra, replace=True)`: Realiza el remuestreo con reemplazo a partir de los datos originales.
-    - `medias_bootstrap.append(np.mean(muestra_bootstrap))`: Calcula la media de cada muestra bootstrap y la almacena en la lista medias_bootstrap.
+    - `costos.sample(n=len(costos), replace=True)`: Realiza el remuestreo con reemplazo a partir de los datos originales utilizando la función `sample` de pandas.
+    - `muestra.mean()`: Calcula la media de la muestra bootstrap generada en cada iteración.
+    - `medias_bootstrap.append(muestra.mean())`: Almacena la media de cada muestra bootstrap en la lista `medias_bootstrap`.
     - `np.percentile(medias_bootstrap, [2.5, 97.5])`: Calcula el intervalo de confianza al 95% de las medias bootstrap.
 
     <br>

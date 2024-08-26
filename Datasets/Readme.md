@@ -25,9 +25,7 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
     - 🔗 [Dogs_Dataset](https://www.kaggle.com/datasets/waqi786/dogs-dataset-3000-records)
     - 🔗 [Flowers_Dataset](https://www.kaggle.com/datasets/abhayayare/flower-dataset)
     - 🔗 [Financial_Risk](https://www.kaggle.com/datasets/preethamgouda/financial-risk)
-    - 🔗 [Obesity_Levels](https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels)
     - 🔗 [Medical_Costs](https://www.kaggle.com/datasets/waqi786/medical-costs)
-    - 🔗 [Students_Health](https://www.kaggle.com/datasets/innocentmfa/students-health-and-academic-performance)
 
 4. 📁 [Sesión 04: Correlaciones y regresión lineal simple.](S04/)
     - 🎲 Reto_01_Act_Extra_Desempeño: Valores aleatorios.
