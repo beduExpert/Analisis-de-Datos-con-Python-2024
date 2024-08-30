@@ -85,11 +85,11 @@ print(f'El rango de la edad de los pasajeros en el Titanic es: {rango_edad}')
 <!-- Interpretación de los datos -->
 **Interpretación de los datos:**
 
-- **Varianza**: La varianza de la tarifa de los pasajeros en el Titanic es $\$3,125.66$. Esto indica que las tarifas pagadas por los pasajeros varían significativamente alrededor de la media. La alta varianza sugiere que hay una gran variabilidad en las tarifas pagadas, con algunas tarifas muy bajas y otras muy altas.
+- **Varianza**: La varianza de la tarifa de los pasajeros en el Titanic es \$3,125.66. Esto indica que las tarifas pagadas por los pasajeros varían significativamente alrededor de la media. La alta varianza sugiere que hay una gran variabilidad en las tarifas pagadas, con algunas tarifas muy bajas y otras muy altas.
 
-- **Desviación Estándar**: La desviación estándar de la tarifa es $\$55.91$. Esto significa que, en promedio, las tarifas de los pasajeros se desvían en $\$55.91$ unidades monetarias de la media. Una desviación estándar alta indica que las tarifas están muy dispersas respecto a la media, podría decirse la mayoría de las tarifas pagadas se encuentran en un rango de $\$55.91$ de la media.
+- **Desviación Estándar**: La desviación estándar de la tarifa es \$55.91. Esto significa que, en promedio, las tarifas de los pasajeros se desvían en \$55.91 unidades monetarias de la media. Una desviación estándar alta indica que las tarifas están muy dispersas respecto a la media, podría decirse la mayoría de las tarifas pagadas se encuentran en un rango de \$55.91 de la media.
 
-- **Rango**: El rango de la edad de los pasajeros en el Titanic es de $79.58$. Esto indica que la edad de los pasajeros varía en un rango de $79.58$ años, desde $0.42$ años hasta $80$ años.
+- **Rango**: El rango de la edad de los pasajeros en el Titanic es de **79.58**. Esto indica que la edad de los pasajeros varía en un rango de **79.58** años, desde **0.42** años hasta 80 años.
 
 ---
 

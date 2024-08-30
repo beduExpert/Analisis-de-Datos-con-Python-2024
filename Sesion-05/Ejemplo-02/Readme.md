@@ -202,7 +202,7 @@ La gráfica que has obtenido muestra la distribución de las medias de los costo
 
 - **Intervalo de Confianza**
     - Las líneas rojas verticales marcan el **2.5 percentil y el 97.5 percentil**, lo que corresponde al intervalo de confianza al **95%** para la media de los costos.
-    - En este caso, el intervalo de confianza se encuentra entre aproximadamente $\$79,260.30$ y $\$81,128.97$ USD. Esto significa que, con un **95%** de confianza, puedes afirmar que la verdadera media poblacional de los costos se encuentra dentro de este rango.
+    - En este caso, el intervalo de confianza se encuentra entre aproximadamente \$79,260.30 y \$81,128.97 USD. Esto significa que, con un **95%** de confianza, puedes afirmar que la verdadera media poblacional de los costos se encuentra dentro de este rango.
 
 - **Variabilidad y precisión**
     - La anchura del intervalo de confianza refleja la variabilidad de las estimaciones de la media. Un intervalo más estrecho indicaría menos variabilidad y, por lo tanto, una estimación más precisa de la media poblacional.

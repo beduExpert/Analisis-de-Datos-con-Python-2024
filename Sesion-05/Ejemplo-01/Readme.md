@@ -85,9 +85,9 @@ $$
 
 ### 📉 **Interpretación del error estándar**
 A partir del cálculo realizado con los datos generados:
-- **Media de los costos:** El costo promedio de los proyectos es de aproximadamente $\$80,227.51$  USD.
-- **Desviación estándar:** En promedio, los costos de los proyectos varían en alrededor de $\$10,627.13$ USD respecto al promedio. Esto significa que hay cierta variabilidad en los costos de los diferentes proyectos.
-- **Error estándar:** La variabilidad en la estimación de este costo promedio es de aproximadamente $\$475.26$ USD. Esto nos indica que la media que hemos calculado es bastante precisa, ya que el error estándar es relativamente pequeño (en comparación con la desviación estándar)
+- **Media de los costos:** El costo promedio de los proyectos es de aproximadamente \$80,227.51  USD.
+- **Desviación estándar:** En promedio, los costos de los proyectos varían en alrededor de \$10,627.13 USD respecto al promedio. Esto significa que hay cierta variabilidad en los costos de los diferentes proyectos.
+- **Error estándar:** La variabilidad en la estimación de este costo promedio es de aproximadamente \$475.26 USD. Esto nos indica que la media que hemos calculado es bastante precisa, ya que el error estándar es relativamente pequeño (en comparación con la desviación estándar)
 
 Recordemos que el error estándar mide la precisión de la estimación de la media, mientras que la desviación estándar mide la dispersión de los datos individuales alrededor de la media.
 
@@ -204,7 +204,7 @@ Antes de calcular intervalos de confianza en Python, es crucial entender que est
 Los intervalos de confianza indican el rango en el que se espera que se encuentre el verdadero valor de un parámetro poblacional, como la media de los costos, con un cierto nivel de confianza. Aquí usamos un intervalo del `95%`.
 
 Resultado:
-- **Intervalo de confianza al 95%:** $\$79,293.75$ a $\$81,161.27$ USD.
+- **Intervalo de confianza al 95%:** \$79,293.75 a \$81,161.27 USD.
 
 Esto significa que, con un `95%` de confianza, la verdadera media de los costos de todos los proyectos está entre esos valores. Un intervalo estrecho sugiere una estimación precisa, mientras que uno amplio indica mayor incertidumbre. En este caso, el intervalo es estrecho, lo que refleja una estimación precisa.
 
