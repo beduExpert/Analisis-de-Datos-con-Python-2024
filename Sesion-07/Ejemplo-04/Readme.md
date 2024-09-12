@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-El objetivo de que los alumnos aprendan Procesamiento de imagenes es adquieran la habilidad de utilizar algoritmos para mejorar la calidad visual de las imágenes, extraer información relevante y preparar datos visuales para análisis complejos en diversas aplicaciones. 
+Adquirir la habilidad de utilizar algoritmos para mejorar la calidad visual de las imágenes, extraer información relevante y preparar datos visuales para análisis complejos en diversas aplicaciones.
 
 ---
 
