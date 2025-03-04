@@ -43,32 +43,43 @@ Para construir una tabla de frecuencias, se deben considerar dos aspectos import
 
 ```python
 import pandas as pd
+import math
 
 # 1.- Cargar el dataset
-df = pd.read_csv('/Datasets/Ejemplo_01_Laptops_Dataset.csv') # Modifica la ruta de acuerdo a tu entorno de trabajo
+df = pd.read_csv('/Datasets/Ejemplo_01_Laptops_Dataset.csv')  # Modifica la ruta según tu entorno
 
-# 2.- Determinar el Rango de los datos.
+# 2.- Determinar el rango de los datos
 rango = df['price'].max() - df['price'].min()
 
-# 3.- Determinar el número de clases.
-n_clases = 1 + 3.322 * (df['price'].count() ** (1/3)) # Fórmula de Sturges.
+# 3.- Determinar el número de clases usando la Fórmula de Sturges
+n_clases = math.ceil(1 + 3.322 * math.log10(df['price'].count()))  # Usamos math.ceil() para evitar truncamientos
 
-# 4.- Determinar la amplitud o tamaño de las clases.
+# 4.- Determinar la amplitud o tamaño de las clases
 amplitud = rango / n_clases
 
-# 5.- Definir los limites de los intervalos de clase.
-limites = [df['price'].min() + i * amplitud for i in range(int(n_clases) + 1)]
+# 5.- Definir los límites de los intervalos de clase
+limites = [df['price'].min() + i * amplitud for i in range(n_clases + 1)]
 
-# 6.- Definir las marcas de clase (puntos medios).
-marcas = [(limites[i] + limites[i + 1]) / 2 for i in range(int(n_clases))]
+# 6.- Definir las marcas de clase (puntos medios)
+marcas = [(limites[i] + limites[i + 1]) / 2 for i in range(n_clases)]
 
-# 7.- Crear la tabla de frecuencias con datos numéricos para la columna 'price'.
+# 7.- Crear la tabla de frecuencias con datos numéricos para la columna 'price'
 tabla_frecuencias_num = pd.DataFrame({
-    'Intervalo_de_clase': [f'({round(limites[i], 2)} - {round(limites[i + 1], 2)}]' for i in range(int(n_clases))],
-    'Marca_de_clase': [round(marcas[i], 2) for i in range(int(n_clases))],
-    'Frecuencia_absoluta': [((df['price'] >= limites[i]) & (df['price'] < limites[i + 1])).sum() for i in range(int(n_clases))],
-    'Frecuencia_relativa': [((df['price'] >= limites[i]) & (df['price'] < limites[i + 1])).sum() / df['price'].count() for i in range(int(n_clases))]
+    'Intervalo_de_clase': [
+        f'[{round(limites[i], 2)} - {round(limites[i + 1], 2)})' if i < n_clases - 1 else
+        f'[{round(limites[i], 2)} - {round(limites[i + 1], 2)}]'  # Último intervalo incluye el valor máximo
+        for i in range(n_clases)
+    ],
+    'Marca_de_clase': [round(marcas[i], 2) for i in range(n_clases)],
+    'Frecuencia_absoluta': [
+        ((df['price'] >= limites[i]) & (df['price'] < limites[i + 1])).sum() if i < n_clases - 1 else
+        ((df['price'] >= limites[i]) & (df['price'] <= limites[i + 1])).sum()  # Incluye valores máximos
+        for i in range(n_clases)
+    ],
 })
+
+# Agregar la frecuencia relativa
+tabla_frecuencias_num['Frecuencia_relativa'] = tabla_frecuencias_num['Frecuencia_absoluta'] / df['price'].count()
 
 # 8.- Mostrar la tabla de frecuencias.
 tabla_frecuencias_num.head().sort_values(by='Frecuencia_absoluta', ascending=False)
@@ -79,9 +90,9 @@ tabla_frecuencias_num.head().sort_values(by='Frecuencia_absoluta', ascending=Fal
 ```python
 # Crear la tabla de frecuencias con datos categóricos para la columna 'brand'.
 tabla_frecuencias_cat = pd.DataFrame({
-    'Categoría': df['brand'].unique(),
-    'Frecuencia_absoluta': [df['brand'].value_counts().iloc[i] for i in range(df['brand'].nunique())],
-    'Frecuencia_relativa': [df['brand'].value_counts(normalize=True).iloc[i] for i in range(df['brand'].nunique())]
+    'Categoría': df['brand'].value_counts().index,
+    'Frecuencia_absoluta': df['brand'].value_counts().values,
+    'Frecuencia_relativa': df['brand'].value_counts(normalize=True).values
 })
 
 # Mostrar la tabla de frecuencias.
@@ -92,7 +103,7 @@ tabla_frecuencias_cat.sort_values(by='Frecuencia_absoluta', ascending=False).hea
 
 ### 🎨 **Interpretación de las tablas de frecuencia**
 
-Una vez construida las tablas de frecuencias, es importante interpretar los resultados obtenidos, para ello, se pueden realizar las siguientes acciones:
+Una vez construidas las tablas de frecuencias, es importante interpretar los resultados obtenidos, para ello, se pueden realizar las siguientes acciones:
 
 1. **Identificar la moda:** La moda es el valor que más se repite en un conjunto de datos, y se puede identificar en la tabla de frecuencias como la clase con mayor frecuencia absoluta.
 
